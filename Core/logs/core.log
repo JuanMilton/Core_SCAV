@@ -1,0 +1,204 @@
+[INFO ,2014-05-31 08:40:17,956 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 08:41:28,342 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 08:43:28,542 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 08:44:02,358 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 08:45:52,532 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 08:47:59,666 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 08:49:18,858 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 08:50:03,761 1,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 08:55:56,453 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 08:58:01,771 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:00:30,540 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 09:01:08,933 38393,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:02:25,883 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:02:57,433 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:03:01,593 4160,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-05-31 09:09:50,779 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:09:54,848 4069,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-05-31 09:10:05,760 14981,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:10:54,221 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 09:11:18,385 24164,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:11:47,691 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:11:51,083 3392,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[DEBUG,2014-05-31 09:12:01,672 13981,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:13:01,586 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:13:05,143 3557,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[INFO ,2014-05-31 09:13:11,040 9454,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-05-31 09:13:20,104 18518,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:16:35,775 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:16:39,320 3545,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[INFO ,2014-05-31 09:16:42,203 6428,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-05-31 09:16:49,494 13719,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-05-31 09:16:51,634 15859,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-05-31 09:16:55,095 19320,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:17:50,607 74832,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[INFO ,2014-05-31 09:17:54,770 78995,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-05-31 09:18:01,869 86094,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:19:30,790 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:19:33,924 3134,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[INFO ,2014-05-31 09:19:37,486 6696,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-05-31 09:20:01,982 31192,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:21:01,660 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:21:05,973 4313,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[INFO ,2014-05-31 09:21:09,021 7361,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-05-31 09:22:02,845 61185,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:27:11,377 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:27:14,538 3161,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[DEBUG,2014-05-31 09:27:22,065 10688,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:27:46,046 34669,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[DEBUG,2014-05-31 09:27:48,594 37217,firstone.core.ccs.CoreListener,Thread-5] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 09:31:18,836 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 09:31:20,891 2055,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[INFO ,2014-05-31 09:31:27,343 8507,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-05-31 09:31:44,311 25475,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 11:05:54,605 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 11:06:40,964 46359,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:08:54,954 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 11:08:59,025 4071,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:08:59,025 4071,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:09:38,024 43070,firstone.core.ccs.CoreListener,Thread-3] Aviso para todos ::: DESCRIPCION :HOLA MUNDO
+[INFO ,2014-05-31 11:09:55,423 60469,firstone.core.ccs.CoreListener,Thread-3] Aviso para todas las trancas ::: DESCRIPCION :JAJAJAJA IS WORKING RIGHT NOW
+[INFO ,2014-05-31 11:10:05,113 70159,firstone.core.ccs.CoreListener,Thread-3] Aviso para todos los propietarios ::: DESCRIPCION :IM A PROGRAMER
+[DEBUG,2014-05-31 11:10:17,678 82724,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:10:17,678 82724,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:19:15,576 620622,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:19:15,576 620622,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:19:31,256 636302,firstone.core.ccs.CoreListener,Thread-5] Aviso para todos ::: DESCRIPCION :JEJEJEJEJE
+[INFO ,2014-05-31 11:19:44,066 649112,firstone.core.ccs.CoreListener,Thread-5] Aviso para todas las trancas ::: DESCRIPCION :QUE PASO, POR FAVOR, COMUNIQUENME
+[DEBUG,2014-05-31 11:20:26,173 691219,firstone.core.ccs.CoreListener,Thread-5] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:20:26,173 691219,firstone.core.ccs.CoreListener,Thread-5] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 11:31:06,033 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 11:31:11,310 5277,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:31:11,310 5277,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 11:32:15,686 69653,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:32:15,687 69654,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[ERROR,2014-05-31 11:38:17,943 0,firstone.core.ccs.CoreListener,main] Error al abrir la Session
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:96)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:376)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:175)
+	at java.net.ServerSocket.bind(ServerSocket.java:376)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at com.firstonesoft.core.Core.openSession(Core.java:59)
+	at firstone.core.ccs.CoreListener.iniciar(CoreListener.java:64)
+	at firstone.core.main.Main.main(Main.java:37)
+[DEBUG,2014-05-31 11:38:24,423 438390,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:38:24,424 438391,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:38:43,458 457425,firstone.core.ccs.CoreListener,Thread-5] Aviso para todas las trancas ::: DESCRIPCION :NUEVAMENTE ESCRIBIENDOLES
+[DEBUG,2014-05-31 11:38:58,846 472813,firstone.core.ccs.CoreListener,Thread-5] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:38:58,846 472813,firstone.core.ccs.CoreListener,Thread-5] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:40:47,470 581437,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:40:47,470 581437,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:40:51,125 585092,firstone.core.ccs.CoreListener,Thread-7] Aviso para todas las trancas ::: DESCRIPCION :adfgsdfg
+[DEBUG,2014-05-31 11:40:52,544 586511,firstone.core.ccs.CoreListener,Thread-7] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:40:52,546 586513,firstone.core.ccs.CoreListener,Thread-7] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:42:07,778 661745,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:42:07,778 661745,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:42:11,824 665791,firstone.core.ccs.CoreListener,Thread-9] Aviso para todas las trancas ::: DESCRIPCION :asdgasdgasdg
+[DEBUG,2014-05-31 11:44:38,909 812876,firstone.core.ccs.CoreListener,Thread-9] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:44:38,909 812876,firstone.core.ccs.CoreListener,Thread-9] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:44:45,971 819938,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:44:45,972 819939,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:44:51,842 825809,firstone.core.ccs.CoreListener,Thread-11] Aviso para todas las trancas ::: DESCRIPCION :ASDGAH
+[DEBUG,2014-05-31 11:45:00,201 834168,firstone.core.ccs.CoreListener,Thread-11] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:45:00,201 834168,firstone.core.ccs.CoreListener,Thread-11] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:46:13,754 907721,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:46:13,754 907721,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:46:19,345 913312,firstone.core.ccs.CoreListener,Thread-13] Aviso para todas las trancas ::: DESCRIPCION :fgdhfh
+[DEBUG,2014-05-31 11:47:00,321 954288,firstone.core.ccs.CoreListener,Thread-13] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:47:00,323 954290,firstone.core.ccs.CoreListener,Thread-13] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:48:04,946 1018913,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:48:04,946 1018913,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:48:08,607 1022574,firstone.core.ccs.CoreListener,Thread-15] Aviso para todas las trancas ::: DESCRIPCION :DASDFASDF
+[DEBUG,2014-05-31 11:48:10,644 1024611,firstone.core.ccs.CoreListener,Thread-15] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:48:10,645 1024612,firstone.core.ccs.CoreListener,Thread-15] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:48:19,649 1033616,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:48:19,649 1033616,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:48:21,847 1035814,firstone.core.ccs.CoreListener,Thread-17] Aviso para todas las trancas ::: DESCRIPCION :asdgasg
+[DEBUG,2014-05-31 11:48:23,168 1037135,firstone.core.ccs.CoreListener,Thread-17] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:48:23,169 1037136,firstone.core.ccs.CoreListener,Thread-17] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:48:45,063 1059030,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:48:45,063 1059030,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:48:48,334 1062301,firstone.core.ccs.CoreListener,Thread-19] Aviso para todas las trancas ::: DESCRIPCION :adfgadfh
+[DEBUG,2014-05-31 11:48:50,544 1064511,firstone.core.ccs.CoreListener,Thread-19] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:48:50,545 1064512,firstone.core.ccs.CoreListener,Thread-19] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:49:45,376 1119343,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:49:45,376 1119343,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:49:49,457 1123424,firstone.core.ccs.CoreListener,Thread-21] Aviso para todas las trancas ::: DESCRIPCION :adsfga
+[DEBUG,2014-05-31 11:49:52,248 1126215,firstone.core.ccs.CoreListener,Thread-21] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:49:52,248 1126215,firstone.core.ccs.CoreListener,Thread-21] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:50:46,876 1180843,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:50:46,877 1180844,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:50:49,635 1183602,firstone.core.ccs.CoreListener,Thread-23] Aviso para todas las trancas ::: DESCRIPCION :asdfgsdfg
+[DEBUG,2014-05-31 11:50:55,235 1189202,firstone.core.ccs.CoreListener,Thread-23] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:50:55,236 1189203,firstone.core.ccs.CoreListener,Thread-23] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:52:29,848 1283815,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:52:29,850 1283817,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 11:52:37,599 1291566,firstone.core.ccs.CoreListener,Thread-25] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:52:37,600 1291567,firstone.core.ccs.CoreListener,Thread-25] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:52:55,100 1309067,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:52:55,100 1309067,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:53:01,593 1315560,firstone.core.ccs.CoreListener,Thread-27] Aviso para todas las trancas ::: DESCRIPCION :asdgdfg
+[INFO ,2014-05-31 11:53:09,683 1323650,firstone.core.ccs.CoreListener,Thread-27] Aviso para todos ::: DESCRIPCION :aadfhasfdhadfhafdhah
+[DEBUG,2014-05-31 11:53:11,759 1325726,firstone.core.ccs.CoreListener,Thread-27] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:53:11,760 1325727,firstone.core.ccs.CoreListener,Thread-27] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:53:22,316 1336283,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:53:22,316 1336283,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:53:27,337 1341304,firstone.core.ccs.CoreListener,Thread-29] Aviso para todas las trancas ::: DESCRIPCION :ASDGASDGASDG
+[DEBUG,2014-05-31 11:53:31,726 1345693,firstone.core.ccs.CoreListener,Thread-29] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:53:31,728 1345695,firstone.core.ccs.CoreListener,Thread-29] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 11:53:42,652 1356619,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:53:42,652 1356619,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:53:48,961 1362928,firstone.core.ccs.CoreListener,Thread-31] Aviso para todas las trancas ::: DESCRIPCION :AGADSFG
+[DEBUG,2014-05-31 11:53:59,806 1373773,firstone.core.ccs.CoreListener,Thread-31] Conexion desconectada para : 777777
+[INFO ,2014-05-31 11:53:59,806 1373773,firstone.core.ccs.CoreListener,Thread-31] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 11:55:57,791 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 11:56:01,881 4090,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 11:56:01,881 4090,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 11:57:14,363 76572,firstone.core.ccs.CoreListener,Thread-3] Aviso para todas las trancas ::: DESCRIPCION :hola
+[INFO ,2014-05-31 11:57:26,170 88379,firstone.core.ccs.CoreListener,Thread-3] Aviso para todos los propietarios ::: DESCRIPCION :sdfhsdfhsdfhsdfh
+[INFO ,2014-05-31 11:58:23,220 145429,firstone.core.ccs.CoreListener,Thread-3] Aviso para todos los propietarios ::: DESCRIPCION :sdjsgjsdgjsgj
+[INFO ,2014-05-31 11:58:27,506 149715,firstone.core.ccs.CoreListener,Thread-3] Aviso para todos ::: DESCRIPCION :adfhadfhsdfh
+[DEBUG,2014-05-31 12:02:02,786 364995,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 12:02:02,787 364996,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 12:02:50,865 413074,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 12:02:50,865 413074,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 12:05:23,511 565720,firstone.core.ccs.CoreListener,Thread-5] Conexion desconectada para : 777777
+[INFO ,2014-05-31 12:05:23,511 565720,firstone.core.ccs.CoreListener,Thread-5] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 12:08:19,615 741824,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 12:08:19,615 741824,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 12:08:47,024 769233,firstone.core.ccs.CoreListener,Thread-7] Conexion desconectada para : 777777
+[INFO ,2014-05-31 12:08:47,035 769244,firstone.core.ccs.CoreListener,Thread-7] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 13:51:27,966 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[ERROR,2014-05-31 13:51:30,052 1,firstone.core.ccs.CoreListener,main] Error al abrir la Session
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:96)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:376)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:175)
+	at java.net.ServerSocket.bind(ServerSocket.java:376)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at com.firstonesoft.core.Core.openSession(Core.java:59)
+	at firstone.core.ccs.CoreListener.iniciar(CoreListener.java:72)
+	at firstone.core.main.Main.main(Main.java:37)
+[DEBUG,2014-05-31 13:51:36,907 8941,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 13:51:36,908 8942,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 13:54:24,458 176492,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 13:54:24,459 176493,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 14:06:23,237 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 14:06:27,795 4558,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 14:06:27,795 4558,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 14:06:38,603 15366,firstone.core.ccs.CoreListener,Thread-3] Aviso para todas las trancas ::: MENSAJE :NUEVAMENTE FALLANDO EL CORE
+[INFO ,2014-05-31 14:06:39,299 16062,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 14:07:07,400 44163,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 14:07:07,400 44163,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 14:08:32,560 129323,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 14:08:32,560 129323,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 14:08:40,422 137185,firstone.core.ccs.CoreListener,Thread-6] Aviso para todas las trancas ::: MENSAJE :HELLO WORLD
+[INFO ,2014-05-31 14:08:40,483 137246,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 14:08:55,131 151894,firstone.core.ccs.CoreListener,Thread-6] Aviso para todos los propietarios ::: MENSAJE :propietarios:::: hellow!!!
+[DEBUG,2014-05-31 14:11:35,386 312149,firstone.core.ccs.CoreListener,Thread-6] Conexion desconectada para : 777777
+[INFO ,2014-05-31 14:11:35,387 312150,firstone.core.ccs.CoreListener,Thread-6] Guardia desconectado :: CI :777777
