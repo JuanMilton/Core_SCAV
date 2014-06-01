@@ -202,3 +202,1609 @@ java.net.BindException: Address already in use: JVM_Bind
 [INFO ,2014-05-31 14:08:55,131 151894,firstone.core.ccs.CoreListener,Thread-6] Aviso para todos los propietarios ::: MENSAJE :propietarios:::: hellow!!!
 [DEBUG,2014-05-31 14:11:35,386 312149,firstone.core.ccs.CoreListener,Thread-6] Conexion desconectada para : 777777
 [INFO ,2014-05-31 14:11:35,387 312150,firstone.core.ccs.CoreListener,Thread-6] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 14:46:30,978 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 14:46:39,189 8211,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 14:46:39,189 8211,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 14:46:41,807 10829,firstone.core.ccs.CoreListener,Thread-3] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:46:41,894 10916,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 14:46:48,005 17027,firstone.core.ccs.CoreListener,Thread-3] Alarma AMARILLA ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:46:48,120 17142,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 14:46:53,413 22435,firstone.core.ccs.CoreListener,Thread-3] Alarma VERDE ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:46:53,477 22499,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 14:47:08,295 37317,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 14:47:08,295 37317,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 14:49:14,009 163031,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 14:49:14,009 163031,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 14:49:17,048 166070,firstone.core.ccs.CoreListener,Thread-8] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:49:17,151 166173,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 14:49:23,668 172690,firstone.core.ccs.CoreListener,Thread-8] Alarma AMARILLA ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:49:23,758 172780,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 14:49:27,781 176803,firstone.core.ccs.CoreListener,Thread-8] Alarma VERDE ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:49:27,852 176874,firstone.core.ccs.CoreListener,Thread-11] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 14:49:35,331 184353,firstone.core.ccs.CoreListener,Thread-8] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:49:35,653 184675,firstone.core.ccs.CoreListener,Thread-12] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 14:49:39,866 188888,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 777777
+[INFO ,2014-05-31 14:49:39,866 188888,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 14:50:01,741 210763,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 14:50:01,741 210763,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 14:50:02,941 211963,firstone.core.ccs.CoreListener,Thread-14] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:50:03,055 212077,firstone.core.ccs.CoreListener,Thread-15] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 14:50:07,408 216430,firstone.core.ccs.CoreListener,Thread-14] Alarma AMARILLA ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:50:07,522 216544,firstone.core.ccs.CoreListener,Thread-16] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 14:50:10,861 219883,firstone.core.ccs.CoreListener,Thread-14] Alarma VERDE ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 14:50:10,927 219949,firstone.core.ccs.CoreListener,Thread-17] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 14:50:12,981 222003,firstone.core.ccs.CoreListener,Thread-14] Conexion desconectada para : 777777
+[INFO ,2014-05-31 14:50:12,981 222003,firstone.core.ccs.CoreListener,Thread-14] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 15:32:22,374 2751396,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 15:32:22,375 2751397,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 16:03:44,406 4633428,firstone.core.ccs.CoreListener,Thread-19] Conexion desconectada para : 777777
+[INFO ,2014-05-31 16:03:44,406 4633428,firstone.core.ccs.CoreListener,Thread-19] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 16:42:58,440 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 16:43:01,449 3009,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 16:43:01,449 3009,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 16:47:28,899 270459,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 16:47:28,900 270460,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 16:48:30,660 332220,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 16:48:30,661 332221,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 16:49:57,375 418935,firstone.core.ccs.CoreListener,Thread-5] Conexion desconectada para : 777777
+[INFO ,2014-05-31 16:49:57,376 418936,firstone.core.ccs.CoreListener,Thread-5] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 16:55:22,289 743849,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 16:55:22,290 743850,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 16:55:54,826 776386,firstone.core.ccs.CoreListener,Thread-7] Conexion desconectada para : 777777
+[INFO ,2014-05-31 16:55:54,826 776386,firstone.core.ccs.CoreListener,Thread-7] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 16:56:28,966 810526,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 16:56:28,967 810527,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 16:56:43,664 825224,firstone.core.ccs.CoreListener,Thread-9] Conexion desconectada para : 777777
+[INFO ,2014-05-31 16:56:43,664 825224,firstone.core.ccs.CoreListener,Thread-9] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 16:57:52,705 894265,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 16:57:52,705 894265,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 16:58:07,448 909008,firstone.core.ccs.CoreListener,Thread-11] Conexion desconectada para : 777777
+[INFO ,2014-05-31 16:58:07,448 909008,firstone.core.ccs.CoreListener,Thread-11] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 16:59:11,339 972899,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 16:59:11,339 972899,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 16:59:46,144 1007704,firstone.core.ccs.CoreListener,Thread-13] Conexion desconectada para : 777777
+[INFO ,2014-05-31 16:59:46,144 1007704,firstone.core.ccs.CoreListener,Thread-13] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 17:00:53,208 1074768,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:00:53,208 1074768,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 17:01:15,575 1097135,firstone.core.ccs.CoreListener,Thread-15] Conexion desconectada para : 777777
+[INFO ,2014-05-31 17:01:15,576 1097136,firstone.core.ccs.CoreListener,Thread-15] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 17:36:47,136 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 17:36:51,302 4166,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:36:51,302 4166,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 17:37:40,230 53094,firstone.core.ccs.CoreListener,Thread-3] Aviso para todas las trancas ::: MENSAJE :asdgadfhg
+[INFO ,2014-05-31 17:37:40,299 53163,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 17:40:32,130 224994,firstone.core.ccs.CoreListener,Thread-3] Aviso para todas las trancas ::: MENSAJE :sghssfhshshshshshs
+[INFO ,2014-05-31 17:40:32,186 225050,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 17:40:47,925 240789,firstone.core.ccs.CoreListener,Thread-3] Aviso para todas las trancas ::: MENSAJE :sdsgsgssgsgsgsgsg
+[INFO ,2014-05-31 17:40:48,175 241039,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 17:40:57,441 250305,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 17:40:57,441 250305,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 17:40:58,689 251553,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:40:58,689 251553,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 17:41:04,474 257338,firstone.core.ccs.CoreListener,Thread-8] Aviso para todas las trancas ::: MENSAJE :dgdgdgdgdgdgdgdgdgdg
+[INFO ,2014-05-31 17:41:04,522 257386,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 17:41:40,494 293358,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 777777
+[INFO ,2014-05-31 17:41:40,494 293358,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 17:41:47,526 300390,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:41:47,527 300391,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 17:46:43,300 596164,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:46:43,300 596164,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 17:49:01,137 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 17:49:03,480 2343,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:49:03,480 2343,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 17:51:22,739 141602,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:51:22,739 141602,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 17:53:26,805 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 17:53:37,605 10800,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:53:37,605 10800,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 17:56:32,277 185472,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:56:32,278 185473,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 17:57:32,070 245265,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 17:57:32,070 245265,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 18:20:54,949 1648144,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 18:20:54,949 1648144,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 18:21:13,458 1666653,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 18:21:13,459 1666654,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[DEBUG,2014-05-31 18:30:53,381 2246576,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 18:30:53,381 2246576,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 18:37:36,122 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 18:37:40,343 4221,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 18:37:40,343 4221,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 18:37:42,479 6357,firstone.core.ccs.CoreListener,Thread-3] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-05-31 18:37:42,585 6463,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 18:39:27,993 111871,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 18:39:27,994 111872,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 18:55:58,464 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 18:56:03,146 4682,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 18:56:03,146 4682,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 18:56:06,986 8522,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,071 8607,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,073 8609,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,124 8660,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,125 8661,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,188 8724,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,189 8725,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,235 8771,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,236 8772,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,292 8828,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,292 8828,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,339 8875,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,341 8877,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,393 8929,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,393 8929,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,442 8978,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,442 8978,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,499 9035,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,500 9036,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,547 9083,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,548 9084,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,598 9134,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,599 9135,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,671 9207,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,671 9207,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,721 9257,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,722 9258,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,773 9309,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,773 9309,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,831 9367,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,832 9368,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,884 9420,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,884 9420,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:07,929 9465,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,929 9465,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:07,977 9513,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:07,978 9514,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:08,025 9561,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,025 9561,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:08,074 9610,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,075 9611,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:08,118 9654,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,119 9655,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:08,170 9706,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,171 9707,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:08,213 9749,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,214 9750,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,271 9807,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,271 9807,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:08,316 9852,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,316 9852,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:08,375 9911,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,375 9911,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:08,476 10012,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,487 10023,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,529 10065,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,529 10065,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,576 10112,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,577 10113,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,618 10154,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,619 10155,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,666 10202,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,668 10204,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,708 10244,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,709 10245,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,757 10293,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,758 10294,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,801 10337,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,802 10338,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,844 10380,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,845 10381,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,893 10429,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,893 10429,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:08,955 10491,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:08,956 10492,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,000 10536,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,001 10537,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,044 10580,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,044 10580,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,091 10627,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,092 10628,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,148 10684,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,149 10685,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,196 10732,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,196 10732,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,236 10772,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,237 10773,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,286 10822,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,286 10822,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,329 10865,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,333 10869,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,379 10915,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,380 10916,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,419 10955,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,420 10956,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,469 11005,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,470 11006,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,510 11046,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,510 11046,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,553 11089,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,555 11091,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,595 11131,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,596 11132,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,640 11176,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,640 11176,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,692 11228,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,692 11228,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,758 11294,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,759 11295,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:09,801 11337,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,806 11342,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:09,849 11385,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,850 11386,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:09,896 11432,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,897 11433,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[ERROR,2014-05-31 18:56:09,937 11473,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,938 11474,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:09,991 11527,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:09,992 11528,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:10,032 11568,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:10,032 11568,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[ERROR,2014-05-31 18:56:10,081 11617,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:10,082 11618,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[ERROR,2014-05-31 18:56:10,121 11657,firstone.core.datos.dao.BitacoraDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la relación «bitacora»
+  Position: 13
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.BitacoraDAO.insert(BitacoraDAO.java:44)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:42)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:168)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:222)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 18:56:27,302 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 18:56:50,848 23546,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 18:56:50,848 23546,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 18:56:54,334 27032,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,487 27185,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,547 27245,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,596 27294,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,640 27338,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,691 27389,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,734 27432,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,780 27478,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,823 27521,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,870 27568,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,913 27611,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:54,964 27662,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,018 27716,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,080 27778,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,127 27825,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,198 27896,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,248 27946,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,297 27995,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:55,338 28036,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,383 28081,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,425 28123,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,480 28178,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,521 28219,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:55,568 28266,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:55,612 28310,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:56,053 28751,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:56,099 28797,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:56,144 28842,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,194 28892,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,243 28941,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,314 29012,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,374 29072,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,418 29116,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,478 29176,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,520 29218,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,572 29270,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,617 29315,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 18:56:56,667 29365,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:56,708 29406,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:56,762 29460,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:56,804 29502,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:56,852 29550,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:56,898 29596,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:56,943 29641,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:56,986 29684,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,025 29723,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,073 29771,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,117 29815,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,168 29866,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,213 29911,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,263 29961,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,305 30003,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,355 30053,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,397 30095,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,442 30140,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:57,489 30187,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:57,529 30227,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:57,598 30296,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 18:56:57,645 30343,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,690 30388,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,733 30431,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 18:56:57,793 30491,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[DEBUG,2014-05-31 18:57:18,276 50974,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 18:57:18,277 50975,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 19:05:24,941 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 19:05:45,224 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 19:05:51,774 6550,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 19:05:51,775 6551,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 19:11:04,616 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 19:11:07,881 3265,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 19:11:07,882 3266,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 19:11:34,166 29550,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,219 29603,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,261 29645,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,313 29697,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,360 29744,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,415 29799,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,457 29841,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,510 29894,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,563 29947,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,631 30015,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,679 30063,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,736 30120,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,778 30162,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,859 30243,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:34,942 30326,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,012 30396,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,053 30437,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,098 30482,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,143 30527,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,204 30588,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,250 30634,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,295 30679,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,340 30724,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,381 30765,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,425 30809,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,471 30855,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,524 30908,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:35,565 30949,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,614 30998,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,682 31066,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,739 31123,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,782 31166,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,833 31217,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,879 31263,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,932 31316,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:35,975 31359,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:36,023 31407,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:36,061 31445,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,116 31500,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,157 31541,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,236 31620,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,276 31660,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,326 31710,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,368 31752,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,416 31800,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,475 31859,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,530 31914,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,571 31955,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,618 32002,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,664 32048,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,714 32098,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,779 32163,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,826 32210,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,869 32253,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:36,923 32307,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:36,964 32348,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:37,011 32395,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:37,051 32435,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:11:37,124 32508,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:37,167 32551,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:37,216 32600,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:37,257 32641,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:11:37,323 32707,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:11:37,399 32783,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[DEBUG,2014-05-31 19:11:54,142 49526,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 19:11:54,142 49526,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 19:41:03,393 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 19:41:09,025 5632,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 19:41:09,025 5632,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 19:41:19,162 15769,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,273 15880,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,396 16003,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,461 16068,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,524 16131,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,573 16180,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,630 16237,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,678 16285,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,735 16342,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,813 16420,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,930 16537,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:19,981 16588,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,038 16645,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,086 16693,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,152 16759,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,221 16828,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,283 16890,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,347 16954,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:20,395 17002,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,453 17060,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,501 17108,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,563 17170,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,620 17227,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:20,675 17282,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:20,736 17343,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:21,148 17755,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:21,615 18222,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:22,245 18852,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:23,622 20229,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:23,681 20288,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:23,727 20334,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:23,768 20375,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:23,813 20420,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:23,997 20604,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:24,118 20725,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:24,290 20897,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:24,484 21091,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:25,181 21788,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:25,240 21847,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:25,532 22139,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:25,668 22275,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:25,712 22319,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:25,946 22553,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,000 22607,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,041 22648,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,084 22691,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,134 22741,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,174 22781,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,222 22829,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,262 22869,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,413 23020,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,465 23072,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,508 23115,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,562 23169,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:26,609 23216,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:26,846 23453,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:26,891 23498,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:26,940 23547,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:41:26,981 23588,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:27,030 23637,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:27,071 23678,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:27,121 23728,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:41:27,163 23770,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:41:27,211 23818,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:20,896 77503,firstone.core.datos.dao.VehiculoVisitaDAO,Thread-3] Guardar VehiculoVisita :: PLACA :666ZZZ
+[INFO ,2014-05-31 19:42:21,020 77627,firstone.core.datos.dao.VisitaDAO,Thread-3] Guardar visita :: CI 1485321
+[INFO ,2014-05-31 19:42:21,062 77669,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-3] verificar Relacion :: CI :1485321 :: PLACA :666ZZZ
+[INFO ,2014-05-31 19:42:21,117 77724,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-3] Guardar Relacion Vehiculo - Visita :: CI :1485321 :: PLACA :666ZZZ
+[INFO ,2014-05-31 19:42:21,159 77766,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,205 77812,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,246 77853,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,286 77893,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,604 78211,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,654 78261,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,708 78315,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,760 78367,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,820 78427,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,862 78469,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:21,920 78527,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:22,446 79053,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:22,492 79099,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:22,715 79322,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:22,757 79364,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:22,803 79410,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:22,855 79462,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:22,898 79505,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:22,950 79557,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:22,991 79598,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:23,034 79641,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:23,074 79681,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:23,124 79731,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:24,345 80952,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:24,403 81010,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:24,446 81053,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:24,493 81100,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:24,545 81152,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:24,587 81194,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:24,629 81236,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:24,669 81276,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:25,042 81649,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:25,111 81718,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:25,154 81761,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:25,201 81808,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:25,243 81850,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:25,293 81900,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:25,592 82199,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:25,635 82242,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:25,677 82284,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:25,726 82333,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:25,765 82372,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:25,816 82423,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:25,855 82462,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:25,899 82506,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:26,914 83521,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:26,964 83571,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:27,011 83618,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:27,050 83657,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:27,090 83697,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:27,145 83752,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:27,186 83793,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:27,230 83837,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:27,268 83875,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:27,316 83923,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:27,364 83971,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:27,414 84021,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:28,024 84631,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 19:42:28,065 84672,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:28,492 85099,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:28,544 85151,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:28,587 85194,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 19:42:28,641 85248,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:34,733 91340,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 19:42:34,776 91383,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[DEBUG,2014-05-31 19:54:41,149 817756,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 19:54:41,150 817757,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 20:00:34,710 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 20:00:38,515 3805,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 20:00:38,516 3806,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 20:00:42,996 8286,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,083 8373,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,130 8420,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,179 8469,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,241 8531,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,280 8570,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,327 8617,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,379 8669,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,434 8724,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,493 8783,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,543 8833,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,588 8878,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,638 8928,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,700 8990,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,752 9042,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,799 9089,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,843 9133,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,881 9171,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:43,921 9211,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:43,968 9258,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:44,021 9311,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:44,072 9362,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:44,121 9411,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:44,168 9458,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,206 9496,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:44,248 9538,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:44,288 9578,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:44,341 9631,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,394 9684,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,435 9725,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,475 9765,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,514 9804,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,564 9854,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,607 9897,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,651 9941,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,690 9980,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,733 10023,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:44,783 10073,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:44,831 10121,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:44,872 10162,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:44,914 10204,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:44,968 10258,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,010 10300,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,058 10348,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,098 10388,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,137 10427,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,184 10474,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,231 10521,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,273 10563,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,315 10605,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,365 10655,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,406 10696,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,450 10740,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,494 10784,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,543 10833,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:45,610 10900,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:45,658 10948,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:45,700 10990,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Aviso
+[INFO ,2014-05-31 20:00:45,740 11030,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,786 11076,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,833 11123,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,877 11167,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Lanzar Alarma
+[INFO ,2014-05-31 20:00:45,920 11210,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:45,973 11263,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:46,027 11317,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:00:46,092 11382,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :234SZD :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 17:37:09 BOT 2014
+[ERROR,2014-05-31 20:00:46,153 11443,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabla «ingreso_salida_visita» viola la llave foránea «fk_ingres_salida_visita_tranca»
+  Detail: La llave (id_tranca)=(1) no está presente en la tabla «tranca».
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.IngresoSalidaVisitaDAO.insert(IngresoSalidaVisitaDAO.java:45)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:78)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:169)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:224)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 20:00:46,156 11446,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :345LLS :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 17:37:29 BOT 2014
+[ERROR,2014-05-31 20:00:46,210 11500,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabla «ingreso_salida_visita» viola la llave foránea «fk_ingres_salida_visita_tranca»
+  Detail: La llave (id_tranca)=(1) no está presente en la tabla «tranca».
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.IngresoSalidaVisitaDAO.insert(IngresoSalidaVisitaDAO.java:45)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:78)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:169)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:224)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 20:00:46,211 11501,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :543ZXC :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 17:47:11 BOT 2014
+[ERROR,2014-05-31 20:00:46,258 11548,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabla «ingreso_salida_visita» viola la llave foránea «fk_ingres_salida_visita_tranca»
+  Detail: La llave (id_tranca)=(1) no está presente en la tabla «tranca».
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.IngresoSalidaVisitaDAO.insert(IngresoSalidaVisitaDAO.java:45)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:78)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:169)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:224)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 20:00:46,259 11549,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :985AZZ :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 17:49:27 BOT 2014
+[ERROR,2014-05-31 20:00:46,299 11589,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabla «ingreso_salida_visita» viola la llave foránea «fk_ingres_salida_visita_tranca»
+  Detail: La llave (id_tranca)=(1) no está presente en la tabla «tranca».
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.IngresoSalidaVisitaDAO.insert(IngresoSalidaVisitaDAO.java:45)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:78)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:169)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:224)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 20:00:46,300 11590,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :987SIN :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 17:51:48 BOT 2014
+[ERROR,2014-05-31 20:00:46,340 11630,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabla «ingreso_salida_visita» viola la llave foránea «fk_ingres_salida_visita_tranca»
+  Detail: La llave (id_tranca)=(1) no está presente en la tabla «tranca».
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.IngresoSalidaVisitaDAO.insert(IngresoSalidaVisitaDAO.java:45)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:78)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:169)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:224)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 20:00:46,340 11630,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :453ZZZ :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 19:06:15 BOT 2014
+[ERROR,2014-05-31 20:00:46,390 11680,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabla «ingreso_salida_visita» viola la llave foránea «fk_ingres_salida_visita_tranca»
+  Detail: La llave (id_tranca)=(1) no está presente en la tabla «tranca».
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.IngresoSalidaVisitaDAO.insert(IngresoSalidaVisitaDAO.java:45)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:78)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:169)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:224)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 20:00:46,390 11680,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :654BAC :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 19:11:31 BOT 2014
+[ERROR,2014-05-31 20:00:46,444 11734,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabla «ingreso_salida_visita» viola la llave foránea «fk_ingres_salida_visita_tranca»
+  Detail: La llave (id_tranca)=(1) no está presente en la tabla «tranca».
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.IngresoSalidaVisitaDAO.insert(IngresoSalidaVisitaDAO.java:45)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:78)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:169)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:224)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 20:00:46,445 11735,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :666ZZZ :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 19:42:16 BOT 2014
+[ERROR,2014-05-31 20:00:46,486 11776,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabla «ingreso_salida_visita» viola la llave foránea «fk_ingres_salida_visita_tranca»
+  Detail: La llave (id_tranca)=(1) no está presente en la tabla «tranca».
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.IngresoSalidaVisitaDAO.insert(IngresoSalidaVisitaDAO.java:45)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraA(SynchronizerNegocio.java:78)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:169)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:224)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[DEBUG,2014-05-31 20:02:12,129 97419,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 20:02:12,130 97420,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 20:04:57,860 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 20:05:00,954 3094,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 20:05:00,955 3095,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Juan Perez Roca
+[INFO ,2014-05-31 20:05:36,601 38741,firstone.core.datos.dao.VehiculoVisitaDAO,Thread-3] Guardar VehiculoVisita :: PLACA :4321BCC
+[INFO ,2014-05-31 20:05:36,674 38814,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-3] verificar Relacion :: CI :543321 :: PLACA :4321BCC
+[INFO ,2014-05-31 20:05:36,720 38860,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-3] Guardar Relacion Vehiculo - Visita :: CI :543321 :: PLACA :4321BCC
+[ERROR,2014-05-31 20:05:36,771 38911,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabla «visita_vehiculo» viola la llave foránea «fk_visita_vehiculo_visita»
+  Detail: La llave (ci)=(543321) no está presente en la tabla «visita».
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.VisitaVehiculoDAO.insertRelation(VisitaVehiculoDAO.java:93)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraB(SynchronizerNegocio.java:106)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:173)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:224)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-05-31 20:05:36,773 38913,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-05-31 20:05:36,825 38965,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :4321BCC :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 20:05:32 BOT 2014

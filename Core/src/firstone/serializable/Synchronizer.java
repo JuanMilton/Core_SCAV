@@ -6,11 +6,13 @@
 
 package firstone.serializable;
 
+import java.io.Serializable;
+
 /**
  *
  * @author Milton
  */
-public class Synchronizer {
+public class Synchronizer implements Serializable{
     
     public static final String TABLE_VISITA = "visita";
     public static final String TABLE_VISITA_VEHICULO = "visita_vehiculo";

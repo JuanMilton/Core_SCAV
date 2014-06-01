@@ -14,7 +14,10 @@ import firstone.core.negocio.PropietarioNegocio;
 import firstone.core.negocio.SynchronizerNegocio;
 import firstone.core.negocio.TrancaNegocio;
 import firstone.core.util.Parametros;
+import firstone.serializable.Alarma;
 import firstone.serializable.Aviso;
+import firstone.serializable.EstructureA;
+import firstone.serializable.EstructureB;
 import firstone.serializable.Synchronizer;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
@@ -127,6 +130,51 @@ public class CoreListener implements EventCore {
         }
     }
     
+    private void llegoUnaAlarma(Contrato contrato, String key)
+    {
+        Alarma alarma = (Alarma)ObjectUtil.createObject(contrato.getContenido());
+        List<String> ci = new ArrayList<>();
+        if (alarma.getPrioridad().equalsIgnoreCase("Rojo"))
+        {
+            log.info("Alarma ROJA ::: EMISOR :"+ alarma.getEmisor());
+            ci.addAll(propietarioNegocio.obtenerPropietariosEntornoCI(contrato.getId_entorno()));
+            ci.addAll(guardiaNegocio.obtenerGuardiasEntornoCI(contrato.getId_entorno()));
+        }else if (alarma.getPrioridad().equalsIgnoreCase("Amarillo"))
+        {
+            log.info("Alarma AMARILLA ::: EMISOR :"+ alarma.getEmisor());
+            ci.addAll(propietarioNegocio.obtenerPropietariosEntornoCI(contrato.getId_entorno()));
+            ci.addAll(guardiaNegocio.obtenerGuardiasEntornoCI(contrato.getId_entorno()));
+        }else
+        {
+            log.info("Alarma VERDE ::: EMISOR :"+ alarma.getEmisor());
+            ci.addAll(guardiaNegocio.obtenerGuardiasEntornoCI(contrato.getId_entorno()));
+        }
+        for (String c : ci)
+        {
+            if (conectados.containsKey(c))
+            {
+                core.sendPackage(key, ObjectUtil.createBytes(contrato));
+            }
+        }
+    }
+    
+    private void paqueteUpSincronizacion(Contrato contrato, String key)
+    {
+        List<Object> paquete = (List<Object>)ObjectUtil.createObject(contrato.getContenido());
+        for (Object o : paquete)
+        {
+            if (o instanceof EstructureA)
+            {
+//                System.out.println("A");
+                synchronizerNegocio.procesarEstructuraA((EstructureA) o);
+            }else if (o instanceof EstructureB)
+            {
+//                System.out.println("B");
+                synchronizerNegocio.procesarEstructuraB((EstructureB) o);
+            }
+        }
+    }
+    
 
     @Override
     public void onConnectClientClosed(String key) {
@@ -172,6 +220,8 @@ public class CoreListener implements EventCore {
         {
             case Accion.AUTENTICAR_ADMINISTRADOR    : autenticarAdministrador(contrato.getContenido(),key); break;
             case Accion.AVISO                       : llegoUnAviso(contrato,key); break;
+            case Accion.ALARMA                      : llegoUnaAlarma(contrato,key); break;
+            case Accion.UPDATE                      : paqueteUpSincronizacion(contrato,key);
         }
     }
 
