@@ -136,6 +136,125 @@ public class GuardiaDAO {
         }
         return guardias;
     }
+    
+    public synchronized List<Guardia> getGuardiasEntorno(int id_entorno) {
+//        log.info("obtener Visita :: CI :" + ci);
+        Connection con = null;
+        PreparedStatement st = null;
+        ResultSet rs = null;
+
+        List<Guardia> guardias = null;
+
+        try {
+            con = ServiceProvider.openConnection();
+
+            String sql = "SELECT * FROM guardia WHERE id_entorno = ? AND estado = ?";
+            st = con.prepareStatement(sql);
+
+            if (st != null) {
+                st.setInt(1, id_entorno);
+                st.setBoolean(2, true);
+                rs = st.executeQuery();
+
+                guardias = new ArrayList<>();
+                while (rs.next()) {
+                    Guardia g = new Guardia();
+                    g.setApellido(rs.getString("apellido"));
+                    g.setCi(rs.getString("ci"));
+                    g.setNombre(rs.getString("nombre"));
+                    g.setPassword(rs.getString("password"));
+                }
+                    
+            }
+
+        } catch (SQLException e) {
+            log.error("Error al consultar a la base de datos", e);
+        } finally {
+            try {
+                if (rs != null) {
+                    rs.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el ResultSet", e);
+            }
+
+            try {
+                if (st != null) {
+                    st.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el Statement", e);
+            }
+
+            try {
+                if (con != null) {
+                    con.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar la conexion a la base de datos", e);
+            }
+        }
+        return guardias;
+    }
+    
+    public synchronized Guardia obtenerGuardia(String ci) {
+//        log.info("obtener Visita :: CI :" + ci);
+        Connection con = null;
+        PreparedStatement st = null;
+        ResultSet rs = null;
+
+        Guardia guardia = null;
+
+        try {
+            con = ServiceProvider.openConnection();
+
+            String sql = "SELECT * FROM guardia WHERE ci = ?";
+            st = con.prepareStatement(sql);
+
+            if (st != null) {
+                st.setString(1, ci);
+                rs = st.executeQuery();
+
+                if (rs.next()) {
+                    guardia = new Guardia();
+                    guardia.setApellido(rs.getString("apellido"));
+                    guardia.setCi(rs.getString("ci"));
+                    guardia.setNombre(rs.getString("nombre"));
+                    guardia.setPassword(rs.getString("password"));
+                }
+                    
+            }
+
+        } catch (SQLException e) {
+            log.error("Error al consultar a la base de datos", e);
+        } finally {
+            try {
+                if (rs != null) {
+                    rs.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el ResultSet", e);
+            }
+
+            try {
+                if (st != null) {
+                    st.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el Statement", e);
+            }
+
+            try {
+                if (con != null) {
+                    con.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar la conexion a la base de datos", e);
+            }
+        }
+        return guardia;
+    }
+    
 
 //    public synchronized void insert(Visita visita) {
 //        log.info("Guardar visita :: CI " + visita.getCi());

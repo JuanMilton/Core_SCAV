@@ -1808,3 +1808,335 @@ org.postgresql.util.PSQLException: ERROR: inserción o actualización en la tabl
 	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
 [INFO ,2014-05-31 20:05:36,773 38913,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
 [INFO ,2014-05-31 20:05:36,825 38965,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :4321BCC :: TIPO :INGRESO :: FECHA_HORA :Sat May 31 20:05:32 BOT 2014
+[INFO ,2014-05-31 22:09:00,431 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-05-31 22:09:04,304 3873,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[INFO ,2014-05-31 22:09:40,528 40097,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-05-31 22:09:46,599 46168,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 22:09:52,540 52109,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[DEBUG,2014-05-31 22:11:34,982 154551,firstone.core.ccs.CoreListener,Thread-6] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 22:14:28,443 328012,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0 TELEFONO : 77370309
+[INFO ,2014-05-31 22:14:41,790 341359,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-05-31 22:16:06,587 426156,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[DEBUG,2014-05-31 22:18:45,275 584844,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 000000-0
+[INFO ,2014-05-31 22:23:51,604 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 22:23:57,579 5975,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 22:23:57,579 5975,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[DEBUG,2014-05-31 22:24:32,080 40476,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 22:24:32,081 40477,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[ERROR,2014-05-31 22:54:14,554 1,firstone.core.ccs.CoreListener,main] Error al abrir la Session
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:96)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:376)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:175)
+	at java.net.ServerSocket.bind(ServerSocket.java:376)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at com.firstonesoft.core.Core.openSession(Core.java:59)
+	at firstone.core.ccs.CoreListener.iniciar(CoreListener.java:75)
+	at firstone.core.main.Main.main(Main.java:35)
+[INFO ,2014-05-31 22:54:22,310 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 22:54:26,704 4394,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 22:54:26,704 4394,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-05-31 22:54:33,337 11027,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 0
+[INFO ,2014-05-31 22:54:33,337 11027,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 22:54:33,444 11134,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 22:55:24,876 62566,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 22:55:24,876 62566,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 22:59:37,398 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 22:59:41,876 4478,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 22:59:41,876 4478,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-05-31 22:59:45,185 7787,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 3
+[INFO ,2014-05-31 22:59:45,186 7788,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 22:59:45,283 7885,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:00:18,856 41458,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 4
+[INFO ,2014-05-31 23:00:18,858 41460,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:00:18,913 41515,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:01:03,138 85740,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 5
+[INFO ,2014-05-31 23:01:03,139 85741,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:01:03,177 85779,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:01:08,580 91182,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 5
+[INFO ,2014-05-31 23:01:08,582 91184,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:01:08,631 91233,firstone.core.ccs.CoreListener,Thread-11] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:01:09,483 92085,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 5
+[INFO ,2014-05-31 23:01:09,484 92086,firstone.core.ccs.CoreListener,Thread-12] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:01:09,530 92132,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 23:01:58,488 141090,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 23:01:58,488 141090,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 23:02:03,652 146254,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 23:02:03,652 146254,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-05-31 23:02:06,686 149288,firstone.core.datos.dao.SynchronizerDAO,Thread-15] Obteniendo todas las ultimas transacciones realizadas desde el ID : 4
+[INFO ,2014-05-31 23:02:06,691 149293,firstone.core.ccs.CoreListener,Thread-16] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:02:06,724 149326,firstone.core.ccs.CoreListener,Thread-17] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 23:02:17,392 159994,firstone.core.ccs.CoreListener,Thread-15] Conexion desconectada para : 777777
+[INFO ,2014-05-31 23:02:17,392 159994,firstone.core.ccs.CoreListener,Thread-15] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 23:03:01,851 204453,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 23:03:01,852 204454,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-05-31 23:03:03,140 205742,firstone.core.datos.dao.SynchronizerDAO,Thread-19] Obteniendo todas las ultimas transacciones realizadas desde el ID : 4
+[INFO ,2014-05-31 23:03:03,141 205743,firstone.core.ccs.CoreListener,Thread-20] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:03:03,178 205780,firstone.core.ccs.CoreListener,Thread-21] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 23:03:08,107 210709,firstone.core.ccs.CoreListener,Thread-19] Conexion desconectada para : 777777
+[INFO ,2014-05-31 23:03:08,107 210709,firstone.core.ccs.CoreListener,Thread-19] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 23:04:55,847 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 23:04:59,964 4117,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 23:04:59,964 4117,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-05-31 23:05:01,258 5411,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 4
+[INFO ,2014-05-31 23:05:01,259 5412,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:05:01,302 5455,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 0 :: objetos
+[INFO ,2014-05-31 23:05:01,305 5458,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 23:05:08,135 12288,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 23:05:08,135 12288,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 23:07:23,689 1,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 23:07:27,339 3651,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 23:07:27,340 3652,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-05-31 23:07:29,968 6280,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 4
+[INFO ,2014-05-31 23:07:29,970 6282,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:07:30,065 6377,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 1 :: objetos
+[INFO ,2014-05-31 23:07:30,069 6381,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 23:08:17,023 53335,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 23:08:17,024 53336,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 23:42:22,495 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 23:42:27,171 4676,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 23:42:27,171 4676,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-05-31 23:42:39,853 17358,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 5
+[INFO ,2014-05-31 23:42:39,853 17358,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:42:40,005 17510,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 2 :: objetos
+[INFO ,2014-05-31 23:42:40,008 17513,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 23:45:49,994 207499,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-05-31 23:45:49,994 207499,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-05-31 23:46:19,258 236763,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 23:46:19,258 236763,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-05-31 23:46:23,261 240766,firstone.core.datos.dao.SynchronizerDAO,Thread-7] Obteniendo todas las ultimas transacciones realizadas desde el ID : 5
+[INFO ,2014-05-31 23:46:23,263 240768,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:46:23,399 240904,firstone.core.ccs.CoreListener,Thread-7] Se enviaron :: 2 :: objetos
+[INFO ,2014-05-31 23:46:23,401 240906,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-05-31 23:46:56,909 274414,firstone.core.ccs.CoreListener,Thread-7] Conexion desconectada para : 777777
+[INFO ,2014-05-31 23:46:56,910 274415,firstone.core.ccs.CoreListener,Thread-7] Guardia desconectado :: CI :777777
+[INFO ,2014-05-31 23:56:42,941 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-05-31 23:57:28,418 45477,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-05-31 23:57:28,418 45477,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-05-31 23:57:33,911 50970,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 7
+[INFO ,2014-05-31 23:57:33,911 50970,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:57:34,023 51082,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 1 :: objetos
+[INFO ,2014-05-31 23:57:34,024 51083,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:58:16,356 93415,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 8
+[INFO ,2014-05-31 23:58:16,358 93417,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-05-31 23:58:16,394 93453,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 1 :: objetos
+[INFO ,2014-05-31 23:58:16,395 93454,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-06-01 00:00:07,944 205003,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-06-01 00:00:07,944 205003,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-06-01 00:01:07,850 264909,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 00:01:07,850 264909,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-06-01 00:01:09,886 266945,firstone.core.datos.dao.SynchronizerDAO,Thread-9] Obteniendo todas las ultimas transacciones realizadas desde el ID : 8
+[INFO ,2014-06-01 00:01:09,891 266950,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:01:09,930 266989,firstone.core.ccs.CoreListener,Thread-9] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-01 00:01:09,933 266992,firstone.core.ccs.CoreListener,Thread-11] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-06-01 00:06:20,123 577182,firstone.core.ccs.CoreListener,Thread-9] Conexion desconectada para : 777777
+[INFO ,2014-06-01 00:06:20,124 577183,firstone.core.ccs.CoreListener,Thread-9] Guardia desconectado :: CI :777777
+[DEBUG,2014-06-01 00:09:44,923 781982,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 00:09:44,923 781982,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[DEBUG,2014-06-01 00:10:18,733 815792,firstone.core.ccs.CoreListener,Thread-13] Conexion desconectada para : 777777
+[INFO ,2014-06-01 00:10:18,733 815792,firstone.core.ccs.CoreListener,Thread-13] Guardia desconectado :: CI :777777
+[DEBUG,2014-06-01 00:10:36,087 833146,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 00:10:36,087 833146,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-06-01 00:10:38,833 835892,firstone.core.datos.dao.VehiculoVisitaDAO,Thread-15] Guardar VehiculoVisita :: PLACA :654AAA
+[ERROR,2014-06-01 00:10:38,958 836017,firstone.core.datos.dao.SynchronizerDAO,Thread-15] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: el valor null para la columna «id_entorno» viola la restricción not null
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.SynchronizerDAO.insert(SynchronizerDAO.java:42)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraB(SynchronizerNegocio.java:163)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:171)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:240)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-06-01 00:10:39,016 836075,firstone.core.datos.dao.VisitaDAO,Thread-15] Guardar visita :: CI 369852
+[ERROR,2014-06-01 00:10:39,100 836159,firstone.core.datos.dao.SynchronizerDAO,Thread-15] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: el valor null para la columna «id_entorno» viola la restricción not null
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.SynchronizerDAO.insert(SynchronizerDAO.java:42)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraB(SynchronizerNegocio.java:148)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:171)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:240)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-06-01 00:10:39,101 836160,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-15] verificar Relacion :: CI :369852 :: PLACA :654AAA
+[INFO ,2014-06-01 00:10:39,178 836237,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-15] Guardar Relacion Vehiculo - Visita :: CI :369852 :: PLACA :654AAA
+[ERROR,2014-06-01 00:10:39,268 836327,firstone.core.datos.dao.SynchronizerDAO,Thread-15] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: el valor null para la columna «id_entorno» viola la restricción not null
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.SynchronizerDAO.insert(SynchronizerDAO.java:42)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraB(SynchronizerNegocio.java:181)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:171)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:240)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-06-01 00:10:39,269 836328,firstone.core.datos.dao.BitacoraDAO,Thread-15] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-06-01 00:10:39,326 836385,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-15] Guardar IngresoSalida de Visita :: PLACA :654AAA :: TIPO :INGRESO :: FECHA_HORA :Sun Jun 01 00:10:07 BOT 2014
+[DEBUG,2014-06-01 00:16:28,394 1185453,firstone.core.ccs.CoreListener,Thread-15] Conexion desconectada para : 777777
+[INFO ,2014-06-01 00:16:28,395 1185454,firstone.core.ccs.CoreListener,Thread-15] Guardia desconectado :: CI :777777
+[INFO ,2014-06-01 00:34:00,084 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-01 00:34:04,533 4449,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 00:34:04,533 4449,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[DEBUG,2014-06-01 00:35:42,494 102410,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-06-01 00:35:42,495 102411,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[DEBUG,2014-06-01 00:35:54,939 114855,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 00:35:54,940 114856,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-06-01 00:35:57,980 117896,firstone.core.datos.dao.SynchronizerDAO,Thread-5] Obteniendo todas las ultimas transacciones realizadas desde el ID : 9
+[INFO ,2014-06-01 00:35:57,982 117898,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:35:58,423 118339,firstone.core.ccs.CoreListener,Thread-5] Se enviaron :: 2 :: objetos
+[INFO ,2014-06-01 00:35:58,426 118342,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:36:38,012 157928,firstone.core.datos.dao.SynchronizerDAO,Thread-5] Obteniendo todas las ultimas transacciones realizadas desde el ID : 12
+[INFO ,2014-06-01 00:36:38,016 157932,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:36:38,259 158175,firstone.core.ccs.CoreListener,Thread-5] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-01 00:36:38,267 158183,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:36:52,904 172820,firstone.core.datos.dao.SynchronizerDAO,Thread-5] Obteniendo todas las ultimas transacciones realizadas desde el ID : 13
+[INFO ,2014-06-01 00:36:52,907 172823,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:36:53,139 173055,firstone.core.ccs.CoreListener,Thread-5] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-01 00:36:53,146 173062,firstone.core.ccs.CoreListener,Thread-11] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:37:18,419 198335,firstone.core.datos.dao.SynchronizerDAO,Thread-5] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-01 00:37:18,423 198339,firstone.core.ccs.CoreListener,Thread-12] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:37:18,462 198378,firstone.core.ccs.CoreListener,Thread-5] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-01 00:37:18,463 198379,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:37:51,380 231296,firstone.core.datos.dao.SynchronizerDAO,Thread-5] Obteniendo todas las ultimas transacciones realizadas desde el ID : 15
+[INFO ,2014-06-01 00:37:51,383 231299,firstone.core.ccs.CoreListener,Thread-14] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:37:51,425 231341,firstone.core.ccs.CoreListener,Thread-5] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-01 00:37:51,425 231341,firstone.core.ccs.CoreListener,Thread-15] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:37:51,955 231871,firstone.core.datos.dao.SynchronizerDAO,Thread-5] Obteniendo todas las ultimas transacciones realizadas desde el ID : 15
+[INFO ,2014-06-01 00:37:51,958 231874,firstone.core.ccs.CoreListener,Thread-16] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:37:52,001 231917,firstone.core.ccs.CoreListener,Thread-5] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-01 00:37:52,002 231918,firstone.core.ccs.CoreListener,Thread-17] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-06-01 00:38:47,449 287365,firstone.core.ccs.CoreListener,Thread-5] Conexion desconectada para : 777777
+[INFO ,2014-06-01 00:38:47,450 287366,firstone.core.ccs.CoreListener,Thread-5] Guardia desconectado :: CI :777777
+[DEBUG,2014-06-01 00:38:53,379 293295,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 00:38:53,379 293295,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[DEBUG,2014-06-01 00:38:56,431 296347,firstone.core.ccs.CoreListener,Thread-19] Conexion desconectada para : 777777
+[INFO ,2014-06-01 00:38:56,433 296349,firstone.core.ccs.CoreListener,Thread-19] Guardia desconectado :: CI :777777
+[DEBUG,2014-06-01 00:39:12,870 312786,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 00:39:12,871 312787,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-06-01 00:39:16,344 316260,firstone.core.datos.dao.SynchronizerDAO,Thread-21] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-01 00:39:16,345 316261,firstone.core.ccs.CoreListener,Thread-22] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:39:16,387 316303,firstone.core.ccs.CoreListener,Thread-21] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-01 00:39:16,389 316305,firstone.core.ccs.CoreListener,Thread-23] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-06-01 00:39:37,582 337498,firstone.core.ccs.CoreListener,Thread-21] Conexion desconectada para : 777777
+[INFO ,2014-06-01 00:39:37,583 337499,firstone.core.ccs.CoreListener,Thread-21] Guardia desconectado :: CI :777777
+[INFO ,2014-06-01 00:54:19,999 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-01 00:54:23,751 3752,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 00:54:23,751 3752,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-06-01 00:54:29,645 9646,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-01 00:54:29,646 9647,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 00:54:29,710 9711,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-01 00:54:29,714 9715,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-06-01 00:55:12,563 52564,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-06-01 00:55:12,564 52565,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-06-01 01:08:37,826 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-01 01:08:41,741 3915,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 01:08:41,741 3915,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-06-01 01:09:15,887 38061,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 15
+[INFO ,2014-06-01 01:09:15,887 38061,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 01:09:15,990 38164,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-01 01:09:15,991 38165,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 01:09:39,741 61915,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 16
+[INFO ,2014-06-01 01:09:39,741 61915,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 01:09:39,827 62001,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-01 01:09:39,828 62002,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 01:09:53,986 76160,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 17
+[INFO ,2014-06-01 01:09:53,988 76162,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 01:09:54,030 76204,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-01 01:09:54,031 76205,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-06-01 01:10:04,421 86595,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-06-01 01:10:04,421 86595,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-06-01 01:29:34,435 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-01 01:29:39,201 4766,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 777777
+[INFO ,2014-06-01 01:29:39,201 4766,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :777777 :: Nombre Apellido :Eduardo Nogales Rivero
+[INFO ,2014-06-01 01:29:42,132 7697,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 18
+[INFO ,2014-06-01 01:29:42,138 7703,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 01:29:42,177 7742,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-01 01:29:42,180 7745,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 01:30:20,718 46283,firstone.core.datos.dao.VehiculoVisitaDAO,Thread-3] Guardar VehiculoVisita :: PLACA :999AAA
+[ERROR,2014-06-01 01:30:20,997 46562,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: llave duplicada viola restricción de unicidad «pk_sincronizador»
+  Detail: Ya existe la llave (id)=(4).
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.SynchronizerDAO.insert(SynchronizerDAO.java:43)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraB(SynchronizerNegocio.java:216)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:171)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:240)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-06-01 01:30:21,056 46621,firstone.core.datos.dao.VisitaDAO,Thread-3] Guardar visita :: CI 4920549
+[ERROR,2014-06-01 01:30:21,238 46803,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: llave duplicada viola restricción de unicidad «pk_sincronizador»
+  Detail: Ya existe la llave (id)=(5).
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.SynchronizerDAO.insert(SynchronizerDAO.java:43)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraB(SynchronizerNegocio.java:201)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:171)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:240)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-06-01 01:30:21,239 46804,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-3] verificar Relacion :: CI :4920549 :: PLACA :999AAA
+[INFO ,2014-06-01 01:30:21,298 46863,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-3] Guardar Relacion Vehiculo - Visita :: CI :4920549 :: PLACA :999AAA
+[ERROR,2014-06-01 01:30:21,405 46970,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Error al realizar la insercion en la base de datos
+org.postgresql.util.PSQLException: ERROR: llave duplicada viola restricción de unicidad «pk_sincronizador»
+  Detail: Ya existe la llave (id)=(6).
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.SynchronizerDAO.insert(SynchronizerDAO.java:43)
+	at firstone.core.negocio.SynchronizerNegocio.procesarEstructuraB(SynchronizerNegocio.java:234)
+	at firstone.core.ccs.CoreListener.paqueteUpSincronizacion(CoreListener.java:171)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:240)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+[INFO ,2014-06-01 01:30:21,407 46972,firstone.core.datos.dao.BitacoraDAO,Thread-3] Guardar Bitacora :: GUARDIA :777777 :: ACCION :Registro de Visita
+[INFO ,2014-06-01 01:30:21,454 47019,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-3] Guardar IngresoSalida de Visita :: PLACA :999AAA :: TIPO :INGRESO :: FECHA_HORA :Sun Jun 01 01:30:15 BOT 2014
+[INFO ,2014-06-01 01:30:21,587 47152,firstone.core.datos.dao.SynchronizerDAO,Thread-3] Obteniendo todas las ultimas transacciones realizadas desde el ID : 18
+[INFO ,2014-06-01 01:30:21,588 47153,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :777777
+[INFO ,2014-06-01 01:30:21,626 47191,firstone.core.ccs.CoreListener,Thread-3] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-01 01:30:21,627 47192,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :777777
+[DEBUG,2014-06-01 01:34:16,625 282190,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 777777
+[INFO ,2014-06-01 01:34:16,628 282193,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :777777
+[INFO ,2014-06-01 01:58:07,248 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-01 01:58:10,285 3037,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-01 01:58:25,269 18021,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-01 01:58:53,293 46045,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 000000-0
+[DEBUG,2014-06-01 01:59:49,023 101775,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-01 01:59:49,023 101775,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :123456 :: Nombre Apellido :Federico Rubin Ulloa
+[INFO ,2014-06-01 02:00:09,819 122571,firstone.core.datos.dao.SynchronizerDAO,Thread-6] Obteniendo todas las ultimas transacciones realizadas desde el ID : 0
+[INFO ,2014-06-01 02:00:09,819 122571,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-01 02:00:09,859 122611,firstone.core.ccs.CoreListener,Thread-6] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-01 02:00:09,861 122613,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-01 02:00:26,658 139410,firstone.core.datos.dao.SynchronizerDAO,Thread-6] Obteniendo todas las ultimas transacciones realizadas desde el ID : 0
+[INFO ,2014-06-01 02:00:26,660 139412,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-01 02:00:26,710 139462,firstone.core.ccs.CoreListener,Thread-6] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-01 02:00:26,711 139463,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-01 02:00:49,910 162662,firstone.core.ccs.CoreListener,Thread-6] Conexion desconectada para : 123456
+[INFO ,2014-06-01 02:00:49,911 162663,firstone.core.ccs.CoreListener,Thread-6] Guardia desconectado :: CI :123456

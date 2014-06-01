@@ -16,4 +16,7 @@ public class Accion {
     public static final byte AVISO                      = 1;
     public static final byte ALARMA                     = 2;
     public static final byte UPDATE                     = 3;
+    public static final byte DOWNLOAD                   = 4;
+    public static final byte MAX_ID                     = 5;
+    public static final byte GUARDIAS                   = 6;
 }

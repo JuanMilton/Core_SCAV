@@ -20,7 +20,6 @@ public class Propietario implements Serializable {
     private String apellidos;
     private byte[] foto;
     private String nro_licencia;
-    private List<Integer> telefonos;
 
     /**
      * @return the ci
@@ -91,19 +90,6 @@ public class Propietario implements Serializable {
     public void setNro_licencia(String nro_licencia) {
         this.nro_licencia = nro_licencia;
     }
-
-    /**
-     * @return the telefonos
-     */
-    public List<Integer> getTelefonos() {
-        return telefonos;
-    }
-
-    /**
-     * @param telefonos the telefonos to set
-     */
-    public void setTelefonos(List<Integer> telefonos) {
-        this.telefonos = telefonos;
-    }
+    
     
 }

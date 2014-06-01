@@ -25,8 +25,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -88,14 +86,31 @@ public class CoreListener implements EventCore {
             
             int id_entorno = administradorNegocio.autenticarAdministrador(email, pass);
             List<Tranca> trancas = null;
+            List<Guardia> guardias = null;
             if (id_entorno > 0)
+            {
                 trancas = trancaNegocio.obtenerTodasTrancas(id_entorno);
+                guardias = guardiaNegocio.obtenerGuardiasEntorno(id_entorno);
+            }
             
             Contrato contrato = new Contrato();
             contrato.setAccion(Accion.AUTENTICAR_ADMINISTRADOR);
-            contrato.setContenido(ObjectUtil.createBytes(trancas));
+            if (trancas.size() > 0 && guardias.size() > 0)
+                contrato.setContenido(ObjectUtil.createBytes(trancas));
+            else
+                contrato.setContenido(null);
             contrato.setId_entorno(id_entorno);
             core.sendPackage(key, ObjectUtil.createBytes(contrato));
+            
+            if (trancas.size() > 0 && guardias.size() > 0)
+            {
+                Contrato contrato2 = new Contrato();
+                contrato2.setAccion(Accion.GUARDIAS);
+                contrato2.setContenido(ObjectUtil.createBytes(guardias));
+                contrato2.setId_entorno(id_entorno);
+                core.sendPackage(key, ObjectUtil.createBytes(contrato2));
+            }
+            
         } catch (UnsupportedEncodingException ex) {
             log.error("Error de codificacion",ex);
         }
@@ -169,13 +184,31 @@ public class CoreListener implements EventCore {
                 synchronizerNegocio.procesarEstructuraA((EstructureA) o);
             }else if (o instanceof EstructureB)
             {
-//                System.out.println("B");
-                synchronizerNegocio.procesarEstructuraB((EstructureB) o);
+//                System.out.println("B"); 
+                synchronizerNegocio.procesarEstructuraB((EstructureB) o,contrato.getId_entorno());
             }
         }
     }
     
-
+    private void solicitudSincronizacion(long last_id, int id_entorno, String key)
+    {
+        Long max_id = synchronizerNegocio.obtenerMaximoId();
+        
+        Contrato contrato = new Contrato();
+        contrato.setAccion(Accion.MAX_ID);
+        contrato.setContenido(ObjectUtil.createBytes(max_id));
+        contrato.setId_entorno(id_entorno);
+        core.sendPackage(key, ObjectUtil.createBytes(contrato));
+        
+        List<Object> obs = synchronizerNegocio.obtenerDatosABajar(last_id, id_entorno);
+        Contrato contrato2 = new Contrato();
+        contrato2.setAccion(Accion.DOWNLOAD);
+        contrato2.setContenido(ObjectUtil.createBytes(obs));
+        contrato2.setId_entorno(id_entorno);
+        log.info("Se enviaron :: " + obs.size() + " :: objetos");
+        core.sendPackage(key, ObjectUtil.createBytes(contrato2));
+    }
+    
     @Override
     public void onConnectClientClosed(String key) {
         log.debug("Conexion Cerrada habilitada para : " + key);
@@ -188,7 +221,7 @@ public class CoreListener implements EventCore {
     @Override
     public void onConnectClientOpened(String key, Object o) {
         Propietario propietario = (Propietario)o;
-        log.info("Se ha conectado el propietario con CI :" + propietario.getCi() + " TELEFONO : " + propietario.getTelefonos().get(0));
+        log.info("Se ha conectado el propietario con CI :" + propietario.getCi());
 //        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
@@ -221,7 +254,13 @@ public class CoreListener implements EventCore {
             case Accion.AUTENTICAR_ADMINISTRADOR    : autenticarAdministrador(contrato.getContenido(),key); break;
             case Accion.AVISO                       : llegoUnAviso(contrato,key); break;
             case Accion.ALARMA                      : llegoUnaAlarma(contrato,key); break;
-            case Accion.UPDATE                      : paqueteUpSincronizacion(contrato,key);
+            case Accion.UPDATE                      : paqueteUpSincronizacion(contrato,key); break;
+            case Accion.DOWNLOAD                    :try {
+                                                        String cad = new String(contrato.getContenido(),"UTF-8");
+                                                        solicitudSincronizacion(Long.parseLong(cad.split(",")[0]), Integer.parseInt(cad.split(",")[1]), key);
+                                                    } catch (UnsupportedEncodingException ex) {
+                                                        log.error("Error al obtener informacion del contenido");
+                                                    }                                                                       break;
         }
     }
 

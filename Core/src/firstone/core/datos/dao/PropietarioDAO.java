@@ -7,6 +7,7 @@ package firstone.core.datos.dao;
 
 import firstone.serializable.Guardia;
 import firstone.core.datos.conexion.ServiceProvider;
+import firstone.serializable.Propietario;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -77,6 +78,64 @@ public class PropietarioDAO {
             }
         }
         return guardias;
+    }
+    
+    public synchronized firstone.serializable.Propietario getPropietarioCI(String ci) {
+//        log.info("obtener Visita :: CI :" + ci);
+        Connection con = null;
+        PreparedStatement st = null;
+        ResultSet rs = null;
+
+        firstone.serializable.Propietario propietario = null;
+
+        try {
+            con = ServiceProvider.openConnection();
+
+            String sql = "SELECT * FROM propietario WHERE ci = ?";
+            st = con.prepareStatement(sql);
+
+            if (st != null) {
+                st.setString(1, ci);
+                rs = st.executeQuery();
+
+                if (rs.next()) {
+                    propietario = new Propietario();
+                    propietario.setApellidos(rs.getString("apellidos"));
+                    propietario.setCi(ci);
+                    propietario.setFoto(rs.getBytes("foto"));
+                    propietario.setNombres(rs.getString("nombres"));
+                    propietario.setNro_licencia(rs.getString("nro_licencia"));
+                }
+            }
+
+        } catch (SQLException e) {
+            log.error("Error al consultar a la base de datos", e);
+        } finally {
+            try {
+                if (rs != null) {
+                    rs.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el ResultSet", e);
+            }
+
+            try {
+                if (st != null) {
+                    st.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el Statement", e);
+            }
+
+            try {
+                if (con != null) {
+                    con.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar la conexion a la base de datos", e);
+            }
+        }
+        return propietario;
     }
 
 //    public synchronized void insert(Visita visita) {

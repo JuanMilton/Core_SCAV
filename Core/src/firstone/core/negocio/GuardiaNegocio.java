@@ -42,4 +42,9 @@ public class GuardiaNegocio {
         return guardiaDao.getGuardiasEntornoCI(id_entorno);
     }
     
+    public List<Guardia> obtenerGuardiasEntorno(int id_entorno)
+    {
+        return guardiaDao.getGuardiasEntorno(id_entorno);
+    }
+    
 }

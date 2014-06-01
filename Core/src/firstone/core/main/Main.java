@@ -6,9 +6,7 @@
 
 package firstone.core.main;
 
-import com.firstonesoft.core.util.ObjectUtil;
 import firstone.core.ccs.CoreListener;
-import firstone.serializable.Propietario;
 import java.io.File;
 import org.apache.log4j.xml.DOMConfigurator;
 
@@ -29,7 +27,7 @@ public class Main {
 //        
 //        byte[] bytes = ObjectUtil.createBytes(configurador);
 //        Propietario p = (Propietario)ObjectUtil.createObject(bytes);
-//        System.out.println(""+p.getNro_licencia());
+//        System.out.println(""+p.getNro_licencia());-
         
         DOMConfigurator.configure("etc" + File.separator + "log4j.xml");
         
