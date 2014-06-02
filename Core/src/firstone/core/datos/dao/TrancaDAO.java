@@ -83,4 +83,61 @@ public class TrancaDAO {
         return trancas;
     }
     
+    public synchronized Tranca get(int id) {
+//        log.info("obtener Visita :: CI :" + ci);
+        Connection con = null;
+        PreparedStatement st = null;
+        ResultSet rs = null;
+
+        Tranca tranca = null;
+
+        try {
+            con = ServiceProvider.openConnection();
+
+            String sql = "SELECT * FROM tranca WHERE id = ?";
+            st = con.prepareStatement(sql);
+
+            if (st != null) {
+
+                st.setInt(1, id);
+                rs = st.executeQuery();
+                if (rs.next()) {
+                    tranca = new Tranca();
+                    tranca.setId(rs.getInt("id"));
+                    tranca.setDescripcion(rs.getString("descripcion"));
+                    tranca.setTipo(rs.getString("tipo"));
+                    tranca.setId_entorno(rs.getInt("id_entorno"));
+                }
+            }
+
+        } catch (SQLException e) {
+            log.error("Error al consultar a la base de datos", e);
+        } finally {
+            try {
+                if (rs != null) {
+                    rs.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el ResultSet", e);
+            }
+
+            try {
+                if (st != null) {
+                    st.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el Statement", e);
+            }
+
+            try {
+                if (con != null) {
+                    con.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar la conexion a la base de datos", e);
+            }
+        }
+        return tranca;
+    }
+    
 }

@@ -7,9 +7,9 @@ import firstone.serializable.Contrato;
 import firstone.serializable.Guardia;
 import firstone.serializable.Propietario;
 import firstone.serializable.Tranca;
-import firstone.core.datos.dao.TrancaDAO;
 import firstone.core.negocio.AdministradorNegocio;
 import firstone.core.negocio.GuardiaNegocio;
+import firstone.core.negocio.IngresoSalidaNegocio;
 import firstone.core.negocio.PropietarioNegocio;
 import firstone.core.negocio.SynchronizerNegocio;
 import firstone.core.negocio.TrancaNegocio;
@@ -18,13 +18,16 @@ import firstone.serializable.Alarma;
 import firstone.serializable.Aviso;
 import firstone.serializable.EstructureA;
 import firstone.serializable.EstructureB;
-import firstone.serializable.Synchronizer;
+import firstone.serializable.HistorialIngresoSalida;
+import firstone.serializable.Notificacion;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -49,6 +52,7 @@ public class CoreListener implements EventCore {
     private AdministradorNegocio administradorNegocio;
     private TrancaNegocio trancaNegocio;
     private SynchronizerNegocio synchronizerNegocio;
+    private IngresoSalidaNegocio isNegocio;
     
     public CoreListener() {
         core = new Core(PORT_CORE);
@@ -57,6 +61,7 @@ public class CoreListener implements EventCore {
         administradorNegocio = new AdministradorNegocio();
         trancaNegocio = new TrancaNegocio();
         synchronizerNegocio = new SynchronizerNegocio();
+        isNegocio = new IngresoSalidaNegocio();
         
         conectados = new HashMap<String, Object>();
         keys = guardiaNegocio.obtenerTodosGuardias();
@@ -140,7 +145,7 @@ public class CoreListener implements EventCore {
         {
             if (conectados.containsKey(c))
             {
-                core.sendPackage(key, ObjectUtil.createBytes(contrato));
+                core.sendPackage(c, ObjectUtil.createBytes(contrato));
             }
         }
     }
@@ -168,8 +173,20 @@ public class CoreListener implements EventCore {
         {
             if (conectados.containsKey(c))
             {
-                core.sendPackage(key, ObjectUtil.createBytes(contrato));
+                core.sendPackage(c, ObjectUtil.createBytes(contrato));
             }
+        }
+    }
+    
+    private void llegoNotificacion(byte[] contenido, String key)
+    {
+        Notificacion notifi = (Notificacion)ObjectUtil.createObject(contenido);
+        if (conectados.containsKey(notifi.getCi()))
+        {
+            Contrato contrato = new Contrato();
+            contrato.setAccion(Accion.NOTIFICACION);
+            contrato.setContenido(contenido);
+            core.sendPackage(notifi.getCi(), ObjectUtil.createBytes(contrato));
         }
     }
     
@@ -209,6 +226,63 @@ public class CoreListener implements EventCore {
         core.sendPackage(key, ObjectUtil.createBytes(contrato2));
     }
     
+    
+    private void solicitudAutenticacionPropietario(byte[] contenido, String key)
+    {
+        try {
+            String ci = new String(contenido, "UTF-8");
+            Propietario p = propietarioNegocio.getPropietarioCINotUseable(ci);
+            if (p != null)
+                p.setFoto(null);
+            
+            Contrato contrato = new Contrato();
+            contrato.setAccion(Accion.PROPIETARIO);
+            if (p != null)
+                contrato.setContenido(ObjectUtil.createBytes(p));
+            else
+                contrato.setContenido(null);
+            core.sendPackage(key, ObjectUtil.createBytes(contrato));
+            log.info("Se envio los datos de propietario a :" + key);
+        } catch (UnsupportedEncodingException ex) {
+            log.error("Error al obtener el CI",ex);
+        }
+    }
+    
+    private void solicitudHistoriales(String key)
+    {
+        List<HistorialIngresoSalida> lista = isNegocio.obtenerHistorialIngresoSalida(key);
+        Contrato contrato = new Contrato();
+        contrato.setAccion(Accion.HISTORIALES);
+        contrato.setContenido(ObjectUtil.createBytes(lista));
+        
+        log.info("Se envio " + lista.size() + " historiales");
+        core.sendPackage(key, ObjectUtil.createBytes(contrato));
+    }
+    
+    private void denegarIngresoSalida(Contrato contrato)
+    {
+        try {
+            String cad = new String(contrato.getContenido(),"UTF-8");
+            String ci_guardia = cad.split(",")[0];
+            core.sendPackage(ci_guardia, ObjectUtil.createBytes(contrato));
+        } catch (UnsupportedEncodingException ex) {
+            log.error("No se pudo deserealizar el CI guardia",ex);
+        }
+    }
+    
+    private boolean verificarLicencia(Contrato con, String key)
+    {
+        boolean licencia = administradorNegocio.getLicencia(con.getId_entorno());
+        
+        Contrato contrato = new Contrato();
+        contrato.setAccion(Accion.LICENCIA_INACTIVA);
+        contrato.setContenido(null);
+        contrato.setId_entorno(con.getId_entorno());
+        core.sendPackage(key, ObjectUtil.createBytes(contrato));
+        
+        return licencia;
+    }
+    
     @Override
     public void onConnectClientClosed(String key) {
         log.debug("Conexion Cerrada habilitada para : " + key);
@@ -221,7 +295,9 @@ public class CoreListener implements EventCore {
     @Override
     public void onConnectClientOpened(String key, Object o) {
         Propietario propietario = (Propietario)o;
+        conectados.put(key, o);
         log.info("Se ha conectado el propietario con CI :" + propietario.getCi());
+        
 //        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
@@ -249,6 +325,8 @@ public class CoreListener implements EventCore {
     public void onNewPackageComplet(byte[] data, String key) {
         Object o = ObjectUtil.createObject(data);
         Contrato contrato = (Contrato)o;
+        if (! verificarLicencia(contrato, key))
+            return;
         switch (contrato.getAccion())
         {
             case Accion.AUTENTICAR_ADMINISTRADOR    : autenticarAdministrador(contrato.getContenido(),key); break;
@@ -261,6 +339,10 @@ public class CoreListener implements EventCore {
                                                     } catch (UnsupportedEncodingException ex) {
                                                         log.error("Error al obtener informacion del contenido");
                                                     }                                                                       break;
+            case Accion.PROPIETARIO                 : solicitudAutenticacionPropietario(contrato.getContenido(), key); break;
+            case Accion.NOTIFICACION                : llegoNotificacion(contrato.getContenido(),key); break;
+            case Accion.HISTORIALES                 : solicitudHistoriales(key); break;
+            case Accion.DENEGAR_INGRESO_SALIDA      : denegarIngresoSalida(contrato);
         }
     }
 

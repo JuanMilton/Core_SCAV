@@ -18,16 +18,6 @@ public class Main {
     
     
     public static void main(String[] args) {
-//        Propietario configurador = new Propietario();
-//        configurador.setApellidos("FirstOneSoft");
-//        configurador.setCi("000000-0");
-//        configurador.setFoto(null);
-//        configurador.setNombres("IdentiFour");
-//        configurador.setNro_licencia("000000-C");
-//        
-//        byte[] bytes = ObjectUtil.createBytes(configurador);
-//        Propietario p = (Propietario)ObjectUtil.createObject(bytes);
-//        System.out.println(""+p.getNro_licencia());-
         
         DOMConfigurator.configure("etc" + File.separator + "log4j.xml");
         

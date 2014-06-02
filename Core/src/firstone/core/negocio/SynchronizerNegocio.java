@@ -13,6 +13,7 @@ import firstone.core.datos.dao.IngresoSalidaVisitaDAO;
 import firstone.core.datos.dao.PropietarioDAO;
 import firstone.core.datos.dao.SynchronizerDAO;
 import firstone.core.datos.dao.TelefonoDAO;
+import firstone.core.datos.dao.TrancaDAO;
 import firstone.core.datos.dao.VehiculoDAO;
 import firstone.core.datos.dao.VehiculoVisitaDAO;
 import firstone.core.datos.dao.VisitaDAO;
@@ -25,6 +26,7 @@ import firstone.serializable.IngresoSalida;
 import firstone.serializable.IngresoSalidaVisita;
 import firstone.serializable.Propietario;
 import firstone.serializable.Synchronizer;
+import firstone.serializable.Tranca;
 import firstone.serializable.Vehiculo;
 import firstone.serializable.VehiculoVisita;
 import firstone.serializable.Visita;
@@ -49,6 +51,7 @@ public class SynchronizerNegocio {
     public static final String TABLE_PROPIETARIO_VEHICULO = "propietario_vehiculo";
     public static final String TABLE_TELEFONO_PROPIETARIO = "telefono_propietario";
     public static final String TABLE_VEHICULO = "vehiculo";
+    public static final String TABLE_TRANCA   = "tranca";
     
     
     SynchronizerDAO synchronizerDao;
@@ -63,6 +66,7 @@ public class SynchronizerNegocio {
     PropietarioDAO propietarioDao;
     VehiculoDAO vehiculoDao;
     GuardiaDAO guardiaDao;
+    TrancaDAO trancaDao;
     
     public SynchronizerNegocio()
     {
@@ -77,6 +81,7 @@ public class SynchronizerNegocio {
         propietarioDao = new PropietarioDAO();
         vehiculoDao = new VehiculoDAO();
         guardiaDao = new GuardiaDAO();
+        trancaDao = new TrancaDAO();
     }
     
     public void insertar(Synchronizer s, int id_entorno)
@@ -160,6 +165,14 @@ public class SynchronizerNegocio {
             } else if (s.getTabla().equalsIgnoreCase(TABLE_VISITA_VEHICULO)) ////////////////////////////////////////////////////////////
             {
                 resultado.add(eb);
+            } else if (s.getTabla().equalsIgnoreCase(TABLE_TRANCA)) ////////////////////////////////////////////////////////////
+            {
+                Tranca tranca = trancaDao.get(Integer.parseInt(s.getRef_id()));
+                if (tranca != null && s.getTransaccion().equals("M"))
+                {
+                    eb.setObjeto(tranca);
+                    resultado.add(eb);
+                }
             }
             
         }

@@ -77,6 +77,58 @@ public class AdministradorDAO {
         }
         return res;
     }   
+
+    public boolean getLicencia(int id_entorno) {
+        Connection con = null;
+        PreparedStatement st = null;
+        ResultSet rs = null;
+
+        boolean licencia = false;
+
+        try {
+            con = ServiceProvider.openConnection();
+
+            String sql = "SELECT licencia_activa FROM entorno WHERE id = ?";
+            st = con.prepareStatement(sql);
+
+            if (st != null) {
+                st.setInt(1, id_entorno);
+                rs = st.executeQuery();
+
+                if (rs.next()) {
+                    licencia = rs.getBoolean("licencia_activa");
+                }
+            }
+
+        } catch (SQLException e) {
+            log.error("Error al consultar a la base de datos", e);
+        } finally {
+            try {
+                if (rs != null) {
+                    rs.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el ResultSet", e);
+            }
+
+            try {
+                if (st != null) {
+                    st.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el Statement", e);
+            }
+
+            try {
+                if (con != null) {
+                    con.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar la conexion a la base de datos", e);
+            }
+        }
+        return licencia;
+    }
     
     
 }

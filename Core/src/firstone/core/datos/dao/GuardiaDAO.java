@@ -163,6 +163,8 @@ public class GuardiaDAO {
                     g.setCi(rs.getString("ci"));
                     g.setNombre(rs.getString("nombre"));
                     g.setPassword(rs.getString("password"));
+                    
+                    guardias.add(g);
                 }
                     
             }

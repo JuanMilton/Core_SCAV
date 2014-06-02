@@ -26,4 +26,9 @@ public class AdministradorNegocio {
         return administradorDao.autenticar(email, password);
     }
     
+    public boolean getLicencia(int id_entorno)
+    {
+        return administradorDao.getLicencia(id_entorno);
+    }
+    
 }

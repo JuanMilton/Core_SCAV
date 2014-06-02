@@ -25,6 +25,7 @@ public class Parametros {
         
         public static Integer LISTENER_PORT                 = Integer.parseInt(prop.getProperty("LISTENER.PORT"));
         
+        public static Integer CANT_HISTORIALES_CONSULTA_PROPIETARIOS = Integer.parseInt(prop.getProperty("CANT.HISTORIALES.CONSULTA.PROPIETARIOS"));
 	/** flujo de entrada relacionado con el archivo de configuracion */
 	private static InputStream configFileStream;
 
