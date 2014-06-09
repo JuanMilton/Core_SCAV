@@ -3165,3 +3165,866 @@ java.net.BindException: Address already in use: JVM_Bind
 [INFO ,2014-06-02 00:02:49,445 18384,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
 [DEBUG,2014-06-02 00:02:52,823 21762,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 123456
 [INFO ,2014-06-02 00:02:52,825 21764,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :123456
+[INFO ,2014-06-02 00:35:37,608 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-02 00:35:45,897 8289,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :495077-1
+[INFO ,2014-06-02 00:36:02,194 24586,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :873397-1
+[DEBUG,2014-06-02 00:36:03,468 25860,firstone.core.ccs.CoreListener,Thread-5] Conexion desconectada para : 873397-1
+[INFO ,2014-06-02 00:36:10,626 33018,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :495077-1
+[INFO ,2014-06-02 00:36:30,100 52492,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :495077-1
+[INFO ,2014-06-02 00:37:05,501 87893,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :495077-1
+[INFO ,2014-06-02 00:38:12,586 154978,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :495077-1
+[INFO ,2014-06-02 00:38:16,101 158493,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :495077-1
+[DEBUG,2014-06-02 00:38:22,426 164818,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 495077-1
+[INFO ,2014-06-02 00:38:25,142 167534,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :661959-1
+[INFO ,2014-06-02 00:38:39,077 181469,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :661959-1
+[INFO ,2014-06-02 00:38:43,596 185988,firstone.core.ccs.CoreListener,Thread-14] Se ha enviado informacion al cliente con el CI :661959-1
+[INFO ,2014-06-02 00:43:08,277 450669,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :733477-1
+[INFO ,2014-06-02 00:43:25,830 468222,firstone.core.ccs.CoreListener,Thread-17] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:28,279 470671,firstone.core.ccs.CoreListener,Thread-18] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:28,701 471093,firstone.core.ccs.CoreListener,Thread-19] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:29,119 471511,firstone.core.ccs.CoreListener,Thread-20] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:29,685 472077,firstone.core.ccs.CoreListener,Thread-21] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:39,846 482238,firstone.core.ccs.CoreListener,Thread-22] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:44,315 486707,firstone.core.ccs.CoreListener,Thread-23] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:44,895 487287,firstone.core.ccs.CoreListener,Thread-24] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:45,445 487837,firstone.core.ccs.CoreListener,Thread-25] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:45,729 488121,firstone.core.ccs.CoreListener,Thread-26] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:45,785 488177,firstone.core.ccs.CoreListener,Thread-27] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:45,828 488220,firstone.core.ccs.CoreListener,Thread-28] Se ha enviado informacion al cliente con el CI :733477-1
+[INFO ,2014-06-02 00:43:46,414 488806,firstone.core.ccs.CoreListener,Thread-29] Se ha enviado informacion al cliente con el CI :733477-1
+[DEBUG,2014-06-02 00:44:25,805 528197,firstone.core.ccs.CoreListener,Thread-16] Conexion desconectada para : 733477-1
+[INFO ,2014-06-02 00:44:29,532 531924,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :716615-1
+[INFO ,2014-06-02 00:44:32,283 534675,firstone.core.ccs.CoreListener,Thread-32] Se ha enviado informacion al cliente con el CI :716615-1
+[INFO ,2014-06-02 00:44:38,810 541202,firstone.core.ccs.CoreListener,Thread-33] Se ha enviado informacion al cliente con el CI :716615-1
+[INFO ,2014-06-02 00:44:44,575 546967,firstone.core.ccs.CoreListener,Thread-34] Se ha enviado informacion al cliente con el CI :716615-1
+[DEBUG,2014-06-02 00:44:47,457 549849,firstone.core.ccs.CoreListener,Thread-31] Conexion desconectada para : 716615-1
+[INFO ,2014-06-02 00:48:16,310 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-02 00:49:10,666 54356,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :982011-1
+[INFO ,2014-06-02 00:49:14,316 58006,firstone.core.ccs.CoreListener,Thread-3] Se envio los datos de propietario a :982011-1
+[INFO ,2014-06-02 00:49:14,316 58006,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :982011-1
+[INFO ,2014-06-02 00:49:22,972 66662,firstone.core.ccs.CoreListener,Thread-3] Se envio los datos de propietario a :982011-1
+[INFO ,2014-06-02 00:49:22,975 66665,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :982011-1
+[INFO ,2014-06-02 00:49:23,477 67167,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :7800727
+[DEBUG,2014-06-02 00:49:23,665 67355,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 982011-1
+[INFO ,2014-06-02 00:49:28,211 71901,firstone.core.ccs.CoreListener,Thread-7] Se envio 9 historiales
+[INFO ,2014-06-02 00:49:28,212 71902,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :7800727
+[DEBUG,2014-06-02 00:49:49,882 93572,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-02 00:49:49,882 93572,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-02 00:49:59,384 103074,firstone.core.ccs.CoreListener,Thread-10] Aviso para todos los propietarios ::: MENSAJE :HOLA K ASE
+[INFO ,2014-06-02 00:49:59,448 103138,firstone.core.ccs.CoreListener,Thread-11] Se ha enviado informacion al cliente con el CI :7800727
+[INFO ,2014-06-02 00:50:25,991 129681,firstone.core.ccs.CoreListener,Thread-10] Aviso para todos los propietarios ::: MENSAJE :wertwertw
+[INFO ,2014-06-02 00:50:26,042 129732,firstone.core.ccs.CoreListener,Thread-12] Se ha enviado informacion al cliente con el CI :7800727
+[DEBUG,2014-06-02 01:00:30,760 734450,firstone.core.ccs.CoreListener,Thread-10] Conexion desconectada para : 123456
+[INFO ,2014-06-02 01:00:30,760 734450,firstone.core.ccs.CoreListener,Thread-10] Guardia desconectado :: CI :123456
+[ERROR,2014-06-02 06:44:30,005 1,firstone.core.datos.conexion.ServiceProvider,main] Error de consulta
+org.postgresql.util.PSQLException: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:136)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3g.AbstractJdbc3gConnection.<init>(AbstractJdbc3gConnection.java:22)
+	at org.postgresql.jdbc4.AbstractJdbc4Connection.<init>(AbstractJdbc4Connection.java:30)
+	at org.postgresql.jdbc4.Jdbc4Connection.<init>(Jdbc4Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:393)
+	at org.postgresql.Driver.connect(Driver.java:267)
+	at java.sql.DriverManager.getConnection(DriverManager.java:579)
+	at java.sql.DriverManager.getConnection(DriverManager.java:221)
+	at firstone.core.datos.conexion.ServiceProvider.openConnection(ServiceProvider.java:21)
+	at firstone.core.datos.dao.GuardiaDAO.getAllGuardias(GuardiaDAO.java:35)
+	at firstone.core.negocio.GuardiaNegocio.obtenerTodosGuardias(GuardiaNegocio.java:32)
+	at firstone.core.ccs.CoreListener.<init>(CoreListener.java:65)
+	at firstone.core.main.Main.main(Main.java:24)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at java.net.Socket.connect(Socket.java:528)
+	at java.net.Socket.<init>(Socket.java:425)
+	at java.net.Socket.<init>(Socket.java:208)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:62)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:76)
+	... 15 more
+[ERROR,2014-06-02 06:45:00,854 1,firstone.core.datos.conexion.ServiceProvider,main] Error de consulta
+org.postgresql.util.PSQLException: FATAL: la autentificaci��n password fall�� para el usuario ��postgres��
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:291)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:108)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3g.AbstractJdbc3gConnection.<init>(AbstractJdbc3gConnection.java:22)
+	at org.postgresql.jdbc4.AbstractJdbc4Connection.<init>(AbstractJdbc4Connection.java:30)
+	at org.postgresql.jdbc4.Jdbc4Connection.<init>(Jdbc4Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:393)
+	at org.postgresql.Driver.connect(Driver.java:267)
+	at java.sql.DriverManager.getConnection(DriverManager.java:579)
+	at java.sql.DriverManager.getConnection(DriverManager.java:221)
+	at firstone.core.datos.conexion.ServiceProvider.openConnection(ServiceProvider.java:21)
+	at firstone.core.datos.dao.GuardiaDAO.getAllGuardias(GuardiaDAO.java:35)
+	at firstone.core.negocio.GuardiaNegocio.obtenerTodosGuardias(GuardiaNegocio.java:32)
+	at firstone.core.ccs.CoreListener.<init>(CoreListener.java:65)
+	at firstone.core.main.Main.main(Main.java:24)
+[INFO ,2014-06-02 06:45:32,493 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-02 06:45:35,494 3001,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :82365-1
+[INFO ,2014-06-02 06:45:42,752 10259,firstone.core.ccs.CoreListener,Thread-3] Se envio los datos de propietario a :82365-1
+[INFO ,2014-06-02 06:45:42,753 10260,firstone.core.ccs.CoreListener,Thread-4] Se ha enviado informacion al cliente con el CI :82365-1
+[INFO ,2014-06-02 06:45:43,379 10886,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 06:45:43,393 10900,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 82365-1
+[INFO ,2014-06-02 06:45:53,380 20887,firstone.core.ccs.CoreListener,Thread-6] Se envio 0 historiales
+[INFO ,2014-06-02 06:45:53,381 20888,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 06:49:45,926 253433,firstone.core.ccs.CoreListener,Thread-6] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 06:49:50,250 257757,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 06:49:51,662 259169,firstone.core.ccs.CoreListener,Thread-9] Se envio 0 historiales
+[INFO ,2014-06-02 06:49:51,664 259171,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 07:17:22,722 1910229,firstone.core.ccs.CoreListener,Thread-9] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 07:17:25,475 1912982,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 07:26:24,482 2451989,firstone.core.ccs.CoreListener,Thread-12] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 07:26:27,554 2455061,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 07:27:04,233 2491740,firstone.core.ccs.CoreListener,Thread-14] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 07:27:07,762 2495269,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 07:30:21,506 2689013,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-02 07:32:05,821 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-02 07:32:11,126 5305,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-02 07:34:04,972 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-02 07:34:08,044 3072,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-02 07:34:08,044 3072,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-02 07:36:32,045 147073,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 123456
+[INFO ,2014-06-02 07:36:32,045 147073,firstone.core.ccs.CoreListener,Thread-3] Guardia desconectado :: CI :123456
+[INFO ,2014-06-02 07:36:37,014 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-02 07:36:45,043 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-02 07:36:48,310 3267,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-02 07:36:48,310 3267,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-02 07:37:22,218 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-02 07:37:42,887 20669,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 07:37:50,239 28021,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-02 07:37:50,240 28022,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-02 07:37:54,460 32242,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 07:38:04,800 42582,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-02 07:38:16,807 54589,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 07:38:27,443 65225,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 07:40:06,036 163818,firstone.core.ccs.CoreListener,Thread-5] Conexion desconectada para : 123456
+[INFO ,2014-06-02 07:40:06,036 163818,firstone.core.ccs.CoreListener,Thread-5] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-02 07:41:03,474 221256,firstone.core.ccs.CoreListener,Thread-3] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 07:41:07,112 224894,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 07:41:10,369 228151,firstone.core.ccs.CoreListener,Thread-1] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-02 07:41:10,370 228152,firstone.core.ccs.CoreListener,Thread-1] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-02 07:41:14,044 231826,firstone.core.ccs.CoreListener,Thread-14] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 07:41:24,447 242229,firstone.core.ccs.CoreListener,Thread-15] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 07:43:17,801 355583,firstone.core.ccs.CoreListener,Thread-11] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 07:43:20,917 358699,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 07:43:27,690 365472,firstone.core.ccs.CoreListener,Thread-18] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 07:43:37,935 375717,firstone.core.ccs.CoreListener,Thread-19] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 07:53:54,201 991983,firstone.core.ccs.CoreListener,Thread-17] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 07:53:57,087 994869,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 07:53:59,155 996937,firstone.core.ccs.CoreListener,Thread-22] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 07:54:09,494 1007276,firstone.core.ccs.CoreListener,Thread-23] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 07:54:11,449 1009231,firstone.core.ccs.CoreListener,Thread-21] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 07:54:16,718 1014500,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 07:54:22,030 1019812,firstone.core.ccs.CoreListener,Thread-26] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 07:54:32,534 1030316,firstone.core.ccs.CoreListener,Thread-27] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 07:54:35,123 1032905,firstone.core.ccs.CoreListener,Thread-25] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 07:55:21,190 1078972,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 07:55:23,705 1081487,firstone.core.ccs.CoreListener,Thread-30] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 07:55:33,994 1091776,firstone.core.ccs.CoreListener,Thread-31] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:08:39,440 1877222,firstone.core.ccs.CoreListener,Thread-29] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:08:42,851 1880633,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:08:46,434 1884216,firstone.core.ccs.CoreListener,Thread-34] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:08:56,801 1894583,firstone.core.ccs.CoreListener,Thread-35] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:08:57,294 1895076,firstone.core.ccs.CoreListener,Thread-33] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:09:02,631 1900413,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 08:09:17,789 1915571,firstone.core.ccs.CoreListener,Thread-37] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:09:21,257 1919039,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:09:27,355 1925137,firstone.core.ccs.CoreListener,Thread-40] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:09:37,760 1935542,firstone.core.ccs.CoreListener,Thread-41] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:09:47,509 1945291,firstone.core.ccs.CoreListener,Thread-39] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:09:55,416 1953198,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:09:58,193 1955975,firstone.core.ccs.CoreListener,Thread-44] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:10:08,585 1966367,firstone.core.ccs.CoreListener,Thread-45] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:13:34,326 2172108,firstone.core.ccs.CoreListener,Thread-43] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:13:37,804 2175586,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:13:40,517 2178299,firstone.core.ccs.CoreListener,Thread-48] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:13:51,217 2188999,firstone.core.ccs.CoreListener,Thread-49] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:18:02,876 2440658,firstone.core.ccs.CoreListener,Thread-47] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:18:05,977 2443759,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:18:09,012 2446794,firstone.core.ccs.CoreListener,Thread-52] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:18:19,391 2457173,firstone.core.ccs.CoreListener,Thread-53] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:20:19,606 2577388,firstone.core.ccs.CoreListener,Thread-51] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:20:24,216 2581998,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:20:33,989 2591771,firstone.core.ccs.CoreListener,Thread-56] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:20:44,539 2602321,firstone.core.ccs.CoreListener,Thread-57] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:22:51,099 2728881,firstone.core.ccs.CoreListener,Thread-55] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:22:54,440 2732222,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:23:00,869 2738651,firstone.core.ccs.CoreListener,Thread-13] Aviso para todos los propietarios ::: MENSAJE :sdfgsdf
+[INFO ,2014-06-02 08:23:00,887 2738669,firstone.core.ccs.CoreListener,Thread-60] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 08:24:10,179 2807961,firstone.core.ccs.CoreListener,Thread-59] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:24:13,032 2810814,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:24:16,337 2814119,firstone.core.ccs.CoreListener,Thread-13] Aviso para todos los propietarios ::: MENSAJE :HOLA QUE HACE LOCA
+[INFO ,2014-06-02 08:24:16,384 2814166,firstone.core.ccs.CoreListener,Thread-63] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:24:38,632 2836414,firstone.core.ccs.CoreListener,Thread-13] Aviso para todos los propietarios ::: MENSAJE :sdfhsf
+[INFO ,2014-06-02 08:24:38,692 2836474,firstone.core.ccs.CoreListener,Thread-64] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 08:40:33,722 3791504,firstone.core.ccs.CoreListener,Thread-62] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:40:37,169 3794951,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:40:40,512 3798294,firstone.core.ccs.CoreListener,Thread-13] Alarma ROJA ::: EMISOR :Tranca Norteeeeeeeeeeeeeeee
+[INFO ,2014-06-02 08:40:40,553 3798335,firstone.core.ccs.CoreListener,Thread-67] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:40:40,554 3798336,firstone.core.ccs.CoreListener,Thread-68] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:41:49,335 3867117,firstone.core.ccs.CoreListener,Thread-66] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:41:52,115 3869897,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:41:57,641 3875423,firstone.core.ccs.CoreListener,Thread-13] Alarma ROJA ::: EMISOR :Tranca Norteeeeeeeeeeeeeeee
+[INFO ,2014-06-02 08:41:57,691 3875473,firstone.core.ccs.CoreListener,Thread-72] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-02 08:41:57,691 3875473,firstone.core.ccs.CoreListener,Thread-71] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:42:15,025 3892807,firstone.core.ccs.CoreListener,Thread-13] Alarma AMARILLA ::: EMISOR :Tranca Norteeeeeeeeeeeeeeee
+[INFO ,2014-06-02 08:42:15,073 3892855,firstone.core.ccs.CoreListener,Thread-73] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:42:15,074 3892856,firstone.core.ccs.CoreListener,Thread-74] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:43:25,583 3963365,firstone.core.ccs.CoreListener,Thread-70] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:43:28,676 3966458,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:43:32,543 3970325,firstone.core.ccs.CoreListener,Thread-13] Alarma AMARILLA ::: EMISOR :Tranca Norteeeeeeeeeeeeeeee
+[INFO ,2014-06-02 08:43:32,589 3970371,firstone.core.ccs.CoreListener,Thread-77] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 08:43:32,591 3970373,firstone.core.ccs.CoreListener,Thread-78] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-02 08:44:55,257 4053039,firstone.core.ccs.CoreListener,Thread-76] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:44:59,349 4057131,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:45:02,648 4060430,firstone.core.ccs.CoreListener,Thread-13] Alarma ROJA ::: EMISOR :Tranca Norteeeeeeeeeeeeeeee
+[INFO ,2014-06-02 08:45:02,705 4060487,firstone.core.ccs.CoreListener,Thread-82] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-02 08:45:02,705 4060487,firstone.core.ccs.CoreListener,Thread-81] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 08:45:58,532 4116314,firstone.core.ccs.CoreListener,Thread-80] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:46:28,468 4146250,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 08:51:03,679 4421461,firstone.core.ccs.CoreListener,Thread-84] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:51:45,441 4463223,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 08:51:50,335 4468117,firstone.core.ccs.CoreListener,Thread-86] Se envio 0 historiales
+[INFO ,2014-06-02 08:51:50,336 4468118,firstone.core.ccs.CoreListener,Thread-87] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 08:54:15,022 4612804,firstone.core.ccs.CoreListener,Thread-86] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:54:17,864 4615646,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 08:54:36,620 4634402,firstone.core.ccs.CoreListener,Thread-89] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:54:39,603 4637385,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 08:55:33,395 4691177,firstone.core.ccs.CoreListener,Thread-91] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:55:36,702 4694484,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 08:59:45,824 4943606,firstone.core.ccs.CoreListener,Thread-93] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 08:59:49,140 4946922,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:00:58,080 5015862,firstone.core.ccs.CoreListener,Thread-95] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:01:01,128 5018910,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:03:11,465 5149247,firstone.core.ccs.CoreListener,Thread-97] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:05:00,057 5257839,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:05:01,243 5259025,firstone.core.ccs.CoreListener,Thread-99] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:05:06,692 5264474,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:06:12,609 5330391,firstone.core.ccs.CoreListener,Thread-101] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:06:16,643 5334425,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 09:06:19,416 5337198,firstone.core.ccs.CoreListener,Thread-103] Se envio 0 historiales
+[INFO ,2014-06-02 09:06:19,418 5337200,firstone.core.ccs.CoreListener,Thread-104] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:06:25,221 5343003,firstone.core.ccs.CoreListener,Thread-103] Se envio 0 historiales
+[INFO ,2014-06-02 09:06:25,223 5343005,firstone.core.ccs.CoreListener,Thread-105] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 09:08:29,979 5467761,firstone.core.ccs.CoreListener,Thread-103] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:10:13,673 5571455,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:11:38,662 5656444,firstone.core.ccs.CoreListener,Thread-107] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:11:41,847 5659629,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:11:41,889 5659671,firstone.core.ccs.CoreListener,Thread-109] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:11:47,373 5665155,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:13:44,344 5782126,firstone.core.ccs.CoreListener,Thread-111] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:14:03,523 5801305,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 09:14:04,019 5801801,firstone.core.ccs.CoreListener,Thread-113] Se envio 0 historiales
+[INFO ,2014-06-02 09:14:04,020 5801802,firstone.core.ccs.CoreListener,Thread-114] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 09:14:41,646 5839428,firstone.core.ccs.CoreListener,Thread-113] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:14:44,988 5842770,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 09:14:45,259 5843041,firstone.core.ccs.CoreListener,Thread-116] Se envio 0 historiales
+[INFO ,2014-06-02 09:14:45,260 5843042,firstone.core.ccs.CoreListener,Thread-117] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:14:50,680 5848462,firstone.core.ccs.CoreListener,Thread-116] Se envio 0 historiales
+[INFO ,2014-06-02 09:14:50,682 5848464,firstone.core.ccs.CoreListener,Thread-118] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:14:56,203 5853985,firstone.core.ccs.CoreListener,Thread-116] Se envio 0 historiales
+[INFO ,2014-06-02 09:14:56,205 5853987,firstone.core.ccs.CoreListener,Thread-119] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:14:58,896 5856678,firstone.core.ccs.CoreListener,Thread-116] Se envio 0 historiales
+[INFO ,2014-06-02 09:14:58,897 5856679,firstone.core.ccs.CoreListener,Thread-120] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 09:15:14,830 5872612,firstone.core.ccs.CoreListener,Thread-116] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:15:21,128 5878910,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:15:30,512 5888294,firstone.core.ccs.CoreListener,Thread-122] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:16:02,762 5920544,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:16:11,722 5929504,firstone.core.ccs.CoreListener,Thread-124] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:16:17,019 5934801,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:16:27,925 5945707,firstone.core.ccs.CoreListener,Thread-126] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:17:36,459 6014241,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:17:46,016 6023798,firstone.core.ccs.CoreListener,Thread-128] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:17:55,588 6033370,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:17:55,596 6033378,firstone.core.ccs.CoreListener,Thread-130] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:18:00,948 6038730,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-02 09:18:10,912 6048694,firstone.core.ccs.CoreListener,Thread-132] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:21:23,361 6241143,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 09:21:23,827 6241609,firstone.core.ccs.CoreListener,Thread-134] Se envio 0 historiales
+[INFO ,2014-06-02 09:21:23,827 6241609,firstone.core.ccs.CoreListener,Thread-135] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:21:27,390 6245172,firstone.core.ccs.CoreListener,Thread-134] Se envio 0 historiales
+[INFO ,2014-06-02 09:21:27,391 6245173,firstone.core.ccs.CoreListener,Thread-136] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 09:21:39,649 6257431,firstone.core.ccs.CoreListener,Thread-134] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:21:45,909 6263691,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 09:21:46,171 6263953,firstone.core.ccs.CoreListener,Thread-138] Se envio 0 historiales
+[INFO ,2014-06-02 09:21:46,172 6263954,firstone.core.ccs.CoreListener,Thread-139] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:21:48,599 6266381,firstone.core.ccs.CoreListener,Thread-138] Se envio 0 historiales
+[INFO ,2014-06-02 09:21:48,600 6266382,firstone.core.ccs.CoreListener,Thread-140] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:21:49,627 6267409,firstone.core.ccs.CoreListener,Thread-138] Se envio 0 historiales
+[INFO ,2014-06-02 09:21:49,629 6267411,firstone.core.ccs.CoreListener,Thread-141] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:21:50,145 6267927,firstone.core.ccs.CoreListener,Thread-138] Se envio 0 historiales
+[INFO ,2014-06-02 09:21:50,146 6267928,firstone.core.ccs.CoreListener,Thread-142] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:21:53,148 6270930,firstone.core.ccs.CoreListener,Thread-138] Se envio 0 historiales
+[INFO ,2014-06-02 09:21:53,148 6270930,firstone.core.ccs.CoreListener,Thread-143] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-02 09:22:13,853 6291635,firstone.core.ccs.CoreListener,Thread-138] Se envio 0 historiales
+[INFO ,2014-06-02 09:22:13,855 6291637,firstone.core.ccs.CoreListener,Thread-144] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 09:22:50,311 6328093,firstone.core.ccs.CoreListener,Thread-138] Conexion desconectada para : 4920550
+[INFO ,2014-06-02 09:22:50,570 6328352,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :947506-1
+[INFO ,2014-06-02 09:22:55,567 6333349,firstone.core.ccs.CoreListener,Thread-146] Se envio los datos de propietario a :947506-1
+[INFO ,2014-06-02 09:22:55,569 6333351,firstone.core.ccs.CoreListener,Thread-147] Se ha enviado informacion al cliente con el CI :947506-1
+[INFO ,2014-06-02 09:22:55,944 6333726,firstone.core.ccs.CoreListener,Thread-1] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-02 09:22:56,207 6333989,firstone.core.ccs.CoreListener,Thread-149] Se envio 0 historiales
+[INFO ,2014-06-02 09:22:56,208 6333990,firstone.core.ccs.CoreListener,Thread-150] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-02 09:22:56,296 6334078,firstone.core.ccs.CoreListener,Thread-146] Conexion desconectada para : 947506-1
+[DEBUG,2014-06-02 09:34:35,171 7032953,firstone.core.ccs.CoreListener,Thread-13] Conexion desconectada para : 123456
+[INFO ,2014-06-02 09:34:35,172 7032954,firstone.core.ccs.CoreListener,Thread-13] Guardia desconectado :: CI :123456
+[INFO ,2014-06-08 18:51:39,052 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-08 18:52:32,559 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-08 18:54:23,246 110687,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 18:56:00,606 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-08 18:56:02,984 2378,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-08 18:56:14,036 13430,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-08 18:56:14,168 13562,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-08 18:58:43,607 163001,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-08 18:58:43,733 163127,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-08 19:00:03,073 242467,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-08 19:00:03,199 242593,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-08 19:08:30,888 750282,firstone.core.ccs.CoreListener,Thread-11] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-08 19:08:31,078 750472,firstone.core.ccs.CoreListener,Thread-12] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-08 19:08:31,080 750474,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-08 19:09:07,732 787126,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[DEBUG,2014-06-08 19:10:02,555 841949,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 000000-0
+[INFO ,2014-06-08 19:10:11,208 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-08 19:10:22,435 11227,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 19:10:22,435 11227,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 19:10:27,805 16597,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-08 19:10:27,805 16597,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-08 19:10:52,651 41443,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 19:10:52,652 41444,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-08 19:10:55,588 44380,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 19:10:55,653 44445,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 19:10:55,735 44527,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 28
+[INFO ,2014-06-08 19:10:55,736 44528,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 19:10:55,776 44568,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-08 19:10:55,777 44569,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-08 19:12:03,431 112223,firstone.core.ccs.CoreListener,Thread-6] Conexion desconectada para : 123456
+[INFO ,2014-06-08 19:12:03,432 112224,firstone.core.ccs.CoreListener,Thread-6] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-08 19:50:58,325 2447117,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 19:50:58,326 2447118,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-08 19:51:01,735 2450527,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 19:51:01,802 2450594,firstone.core.ccs.CoreListener,Thread-14] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 19:51:01,839 2450631,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-08 19:51:01,839 2450631,firstone.core.ccs.CoreListener,Thread-15] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 19:51:01,876 2450668,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-08 19:51:01,881 2450673,firstone.core.ccs.CoreListener,Thread-16] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-08 19:51:15,732 2464524,firstone.core.ccs.CoreListener,Thread-12] Conexion desconectada para : 123456
+[INFO ,2014-06-08 19:51:15,732 2464524,firstone.core.ccs.CoreListener,Thread-12] Guardia desconectado :: CI :123456
+[INFO ,2014-06-08 19:53:41,216 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-08 19:53:45,030 3814,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 19:53:45,031 3815,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-08 19:54:28,078 46862,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 19:55:05,906 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-08 19:55:09,084 3178,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 19:55:09,084 3178,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-08 19:55:11,544 5638,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-08 19:55:11,544 5638,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 19:55:11,585 5679,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-08 19:55:11,600 5694,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-08 19:55:40,182 34276,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-08 19:55:40,183 34277,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-08 19:56:50,101 104195,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 19:56:50,101 104195,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-08 19:56:53,770 107864,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 0
+[INFO ,2014-06-08 19:56:53,771 107865,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 19:56:54,931 109025,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 11 :: objetos
+[INFO ,2014-06-08 19:56:54,960 109054,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-08 19:58:12,864 186958,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 123456
+[INFO ,2014-06-08 19:58:12,864 186958,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :123456
+[ERROR,2014-06-08 20:36:38,746 0,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: Bad value for type int : \x89504e470d0a1a0a0000000d4948445200000140000000f00806000000712dbd6b0000200049444154789ced7dd996f32aafad68ddc4a9667dabd9ff79fff7d4b9c0380eb602d86070e28b39aa92b80121264208010080afc01c0802bee71c05c60c6cb96cb983ef77eab9bb4ccc410532ba90b85d39a0d4804d07a81a03a9d8d3f56e3f2a5efe9cf2d8a3efc7f7178e06af2fa4087051f0c20d21473423ec679fe26907b511fb85baa19442a5146aadb16d5bd45a162fd3a138ef40dfa24118117a05e07c5f6ae42b36d29e5711de03a92c910030c6903163e94921502b856ddbe2ed76c3aeeba6df4a95ef54722e2617fb222147f011604016682761d6da10a9deef96832ad7593b402ef9952e4f34e404c6146ad560d7f6d809852d972881a184191186eacb59906aaa1b8b14ef03c019013a282dd8da705605ad1d47114176a2310681942d2ad5e1376ff157f67807891d3c5c31c5e59dba9d52c9339521114da21c10f88e0ac50a2637919c7d44fd3430ee60a50d4bb663443938e728854225356adda2520d4ad5a0901a399758c58c29b53c6ac354d6e019aaa7620514a9aa865d5c3b0a36f788f8298856ecba212460d34a94f71ef9adc5f66b40de6a7c4c95cb97f1d0764b466881e599882f9400ed8d9425487d7f32c5dc032ec4e4f0b6abc3d3946694c3b46afcc1728ac29bc967bee8d6b412bbbec5dbd0e370bf637fbb213086c01872218a973569bb6dd5f75c44e8d3afe577814c4914e49de39b18e728a446a91a9452a30c99cabc59c7ce86b7951347c6254ad5a1d23dcafb17eaef1f042d119478c3fa266aff7233018d06e34a16bc0e78b67172dd8861c46d84fddd17405d3371720e2825a0520cdb5662df6becfa1ebbbe47a5f531a3f8db12c47bc1d56f354327017ffa16ffdc6fd809860a001b66fa8782e71944e97a9c169e7ee2e719261198b56af82ae9d9a5fca7006806089c2148f1fac5cc10ca447ccc2055c3bb15dc4da80c906b85d02a0461febffffee0fd7ec7fbfd8e7f7dfde2ade9510047b1f037c4f81e2ebc132622e4805200b61c70d0127ffa1ebfbb0ebfbb1bf652632f25b69ca3e657a0fd2e24b3189946607afac2dd4111fd42e7c513211d6fda6e8300437efd884ea2fef7176ffffc3fecfffe1fdefffa1faafe171f9673a1862f2da7d4f5a95d2f3c980ff842002a09a81543a998f109de5b6c8706a562c8c568045450eec3db3355bbee9c3a3f8c2427ee4fcea060a5a1160f5f0f63486e991dd9709261736b71f8b9e3edef6fbcfffb8b3ffffb177ffef72f0efffc6b02c6edc091baa39e94003e156b2e1e2d00950643742d20ef00d9dd406a03c6cb977d177c7a7a1efd7d9eb2b9be3e6f052319be7a22048e5ca8c989dd7efde0edf70ffefef52f0ef75fb34be622a80b0ee644a8186023005bc9f0d6726c954994d0dd00fb81613f30540d7c86fee4b6ecf73f77d98062fef0742f4a0ae92025b19a698cd9bea454837d3f60d775c8797adf1eb558e4bbce4dde701a4bfbcda18061c3040ace5149895a03360de0d0037edf01bbc6fcbd35727551b074f9b321d79478e37366b27eacfef2599cdbb458e1abc0c182742dd4772180b397ffd340b978e6abc10d03ec04c35e72fc6a5bfc6a5bbcf712bf078d5a8f7dec53dabb12036aa58f5967be4606cd8b827bb62ac54e954b3748e50db5ab9167594a2e14006326251b13d809837bd3e077d7e1cf4d62af4cbe40c6977903abc7564b6e6b7f8abdcf5d93f0dec35a04665362b53811a20d8f99c264f4339cf019fa05f677bb15c8b395ac7403275394d00608837f51e91182c398b808b002702150aa06b930790287c1b852841078bb75a89438df60e55b048dbe3f12d373a83de4f6b3e5aef5fb67abc0631a2c97f026b815b404e6bc98c826e34da0ba9508cf42a00795cbba30aea97425edcdc0c4c88e8b665229bc0d03f65d87b7bec7beebb0d11aa552c832f8960fabe7abfad700fe0200f8d80bec3267ece6edad26f15908acd6f211e0429cb363bd2138e7a8648b5d3be077f78d3ffd0f36ba47ad3a54aac15306ce6fed1747115fc8fb0010bc0ff0c02606085dcdb281d65b53cedbc51917a91a969a6ad66651d9f258d9dbad893d007e0bc04e03de5a8e8db8761c1cd10ef340e8f99934764b5c27018786e35fbdc67fbf7afcea247612b0971c1bb6bd3f7c0abcfdcfe12d6ab1740aef9bb0d3b2711bdcb7e7b714b15082a895e042e53e3f03a505c02f00fc06b315ebde281cda061b71420be364a0f4ffc600ef02f08701de01f08fe4f85fabf1ff3a853f0c2648f9c6bb43f620d6e28b791e0002881641b4c7176481327b68cf467cafc0f9237e5108815a6b14674fbf74524c832a1f73046a39a2c5e17647ad044ac1504a437efcec3b4372239ae89c459935dfa0f9ad45800e61e34a1495ed2597ef2cd4a20c25369f4598ca624d759faf5c1a8c45d87289bdd4a8b9a83efbce1941b6c1cc2d23c63dbf4a01de5ac0af9bc07b6bd009860d3396fa3c3bccd53ecfb02eb385cb8be095786e605f6860173fcc0fb71906581e17e9064cdbcfae8f8fba7eafe2d9f2b8c7604e02f380bacfdd59b250ec27e1e5ef60a95c0a1701e6691fcaf7270050f1c75fa501bb5e60d729d49aa3d61aa59428a59cacf48f9802675e4c8c375c64832034021fe186bb84562834503a936578e142492c3a18a1e76dd761d3b653f80b1702b910efefaa88edf75b577b639e0380009223c857c4b591d8f656f828c1c636406945bab00d9907e6100b9b0b864ddb62d3b626a92e1bf369cee205df56cf42e5bc9767a2db953aff3777435cc472e11330d371b32022512a8552a9c9fa3b75cce65e83652b8125e30d0908125e1c7ee4ee0c895c2cc934f2a6f269bd8b4f2cf5a2cd8534e09ca3520abbb64725350a6e56826fc317366d8f5c28e4e204bb413259cee50da1c58bc71d208bbdc0f67b858ccf8ff973aef7549471f77d91821eafdbdbe1a9ebc9ad7b95818a6b7417abaa25c0e28a1f0777f1cdd51f57de4f09523943ad144a21500885c3f085b7db37b6ed80120436c26c89db1a8951521ebb07dec3f4c05dd3b0ff8b665c0091066ed2020fd80831e1b9f1ed0e05fb99f331e6a990e25311e2a91482fa7c9822323f38dfbf1abf1927213c52bee0273c6ae054e3d4b7ebfb6921448c0b204a892986f34ca0f43e9a008bd5614aedeeee01e6084c201b8f81741bda2788d8dfb72a62ecc8538aa87229de1670660eefe12722a2d2d83de318577c59a350f62daa5b87bcd5333fe0f9c8af4ac4fb0e6d8a2b6bd199069defef5d9d4a6df50910d7052b926bd17814d1a7b8ee942655431ce583b3e577e31917718d9172fb34f8f68efa02e5493d8771e1633c665529865da7f0d66b1c6e0db6ad44a5180a090ff7d01b0e4cc9a6cc7bb194aff947017b021580eb3bfe91b21449020d141c15b86cb157c1733774ae0675eb558da265466a5fedee190631b00b6982a08530e884c0416bfce95bfcee1afc6a357eb51a1b61ce12f98860e808f9073f63f3a28c0d8379ca91f5ea4554c2c144f1826f3a0256834bee87820b8652091452221b5784dbb69d70bbdd504a69e202cfa41747e94bac9ec6eb3795f72f762748202a50ca0b179283d073214dda7b21019b564e569f560c6fbdc6a695e359c16360742de5afa5df6637a4a62d70ee628893029f9afac6148431644ce13ca4263af16a20522dbaa42ecfd1612abe3465b97ca01f034f47b3bebfaebbe1307ce1573b60271aeca5c65e6a6ca518c1f0d64894e243db61c1171bf926faddec86003d6e26a258269e3ebbf186ce14da794f6e9fd6bbf8ca5c1fac621c15e3e4f1a167ad67320b25b223517a62e52de1e1cb13c2841cb5adc6b6bb617fbb63d30ea8748f52deb069be50ca1b4a79ab6f37c8d133babd96dee28c9000979c79b76be1851530344b49ae06daedb4269e17fb7d6dc4e9b68be28092a55b2c787750c4e666337217e7ecef2d7fa4b86ab93916d34c7b7bbc371d7642e077d7e157dbe2a035765d876a8c072c5df755d4427cc1f7bd36a496e00a5feee008ad40a04205130421006a15d822763534657a2e1b7692646a7b94a2a57afe9b217680b5e00cb06be594aaed1fa5f11fa5f18f90f8030c7f80e1df524dabbf9d6013892a006cb8f9fbf10356280152d707eb37950c2179a5080bd3792fb983015e130a6589ba0a9dabc1dcf2d6a2c00b79048eb8a52dd9d382014a0dc8c63ea51a40a11e3180b71bc7611078eb3576ad44a98836285d8f03e555c295f1804d87e52643c855d18df76f1d9129429c2c45876043ef7fb5bdace640636a6a67331237dc1ce0d32bc056006a56a745422dee942ed793acd963eba7520cfb5e63d76bbc0d2df6ca1c92a41a40e03005412f32aa57508facc85d4f82101fbae29ce37bda8a06221591da69cb7c27c66ac66c0820c08272993befeddf8601de38c32f25f14f3be07fc30ffea8ee696749e9762ca5372faf7116316cea2b600ca552631e4040a5b9d9fd2100fb5e4fa9f34f1d044d595ea13ebe58242bfbe281be64083b0573d0542bdaa28bc5a8b0ee0e1577eb59b49c0a29b04bec1d00de41e20f34f85ff385ffd7fee27fcdcf94f4a27887ab068f0c498c6b94529bb37eb5445002a111089a236b14b246a1e01cb552d809850d13d342c9c784bfd44280d333c6a9af8f205c1f5db4933210c184e894c7b5c87c7b6463d349f932acb8cf27cf4221e476b4cfd27dcfabf6efba06efc380f7614076a2944d8762d69efdadc1aeef4dd253ce5108319dffa19442ad35b65c8edb4e9f173f7c87fe9c0ed92cb7c8f792ef1f7f20a76e892a10daa17d96961b76b05874f0d4c79714c057ce50cbd0775eb22f7ca8940f917aaf10805a73e447b84b6ac64a3f60fc39ec422a36a1130ff492a3d4669144490326605a30917afdf9a740f6a96a5a4cbacd598f0cba4d0def3e700dbb9dd38ea547653b8926168700c97a598bc7298797501d02b4a7eb59d813f77ca7d885caa9c6458057e5a42cf65cc929283d4df13c2904f692632718b61cb0971cef8d9a48efde28ec95595c6a85c1379843ecffd6807fd4035f600e502fd53e6ebfa56646a5162f42df1bdc9f046814a05f2884f5fd45ee14d93812f88834d6925c04b0669a62f8caedb3004b297c69d462f9869673f99be91f9c77d3ae0e21fa29ff9f9df6764260cbf99345d88ed35e4b2c8a012ac9df234fe3564b309505196c918a160da4c1140eb39216ff2961aa0b67b164a70fd04720a11d2415016def908fc523c658751dfb4224dc0ec50141b029d129b40aa19166f14331042d91350ad5e80f544a3de18c59a083e4529bef6fd16e534a7c6dce0516dcc0bb28e25a8481966168c19cfbf65a083e22cddd20f329f1225630600afea938935ca45228a43930cc1e11a155875234a800468bcfacfadabfa0b8c1b5a86490ca620c256036fd0d9baa91ab9ace83f74e31437d779425e725b840a24dddc0942f2af639b9893b5a9e7be1b4c7d153e0856f2b524e1218ca5922e1c7b636810d337e40bbd26b435edced6ff3df6d40fa597cbac5b1dbd2744e73f37580a80e91c22476eef3faf23cef71cbefae2ebb7b895d67702a9fe6992c9c0b747f982fc24900141c500a98ce5c59d3af969b60f339010a00d462dda8b8b08250cbcfcb41e3076a3535da32241425b662d3aaaf9c291b33d94dd62c51d7329c0728b723d6e2f4dcf7bbf5f0c50bfa3a8ccfa749adb2519f8b2b5e26782d7f283360acb59b640f4bcd5a6e7a466896e4e6d74c5b0dd998314698d8bf3b18583db5997b4ebf33e428a422409fa5456ef6df6d82ae2b9c6fc4f56585b1b0c772dab013df54dead1f1906e080ba3ef4509dd21dbd342817c16679ed9d7910e573f55081213535fbaee5b31d41602c418bf99eeb8603f660f4f20e263cca7ede5bbe5ced73b40f3d195c3d781cff11780395352654b17cd713df5bc1c7129f2f5e90da99916a91e222b86df28abd6fab0f2f55795d37cadcda5b9b21a971709d5f67eac051c11525900c41d61f20ec7e5022cbcf7d9f5d35b5dbd6ac05a701b063cf493ed7e0253ce2fdeed4d79d1253f06ea5838b00637096d5f25592e38f44b4547f9112508867223c659289d4fd7f6f39a2f9c99e09021219d76897e5179bde134f25dccfbea9ef7c0f6f0346b9d648d0bddff75cd77288ed6897a59717b5ba0cdcf72f326f7b3aa452805dc7b115cf9663f05efb0b06bbe52425821c03a0d7a6b99c40a865185840e32b493f050825be85404b37ec8597ed78f4e152146cbe3fc9cc2a2e599e151f145beb6b760654a83ec571d44cf3017b2688f982516703679e0a53233a392206be6fcd793db728a9c382b696bbb465522bf6ca857239d4e28cf70db4bea889d2e5df8ce3092b5df9cc35ee85ee81e76115a21a327503938a648932b07c7b1530d4277811631ca83466a172a32cc4d2f5b2e59f4e8d8367c22c5dbecd8825c0ad33c71c3065a2cefff554384a482cd988e05a84cc9d8e13f7e50e0fb8882e0fde4dbe8cb1a73de15e9f6105652e82cdc4461c87b9f65cf35d9e83c9372b08ec536c9f259aba039db5239e0da5099074d1449667bace76c2b95f5d02ed63afa00db262abc5b8fbddb10fccdc3054fc546807b808e9424e24f36532b378329fc93ccd662aa8eb21d8cb27bb095202420326130c652ac6cfab9309c02e5c682e8288d1e774fe3805bb9014ae9ef9a6e86b8b704f4910b8593db699823ecef24b85358b7a6d4059c8d55e483d706b418886f4ae8211f731309bcc6dd02803b3b5e8da2f79a106c40ec46ed0bed5e3d8c5bde2d8ecab0b44aef73e9e45081e08139f7ad0de118b22be51017cabb8de293203146b87506f54f06baa5d06b5b7430c11cedd3d9caddf97ab7ed9e4763e0b9628786a828b14e0def8bf0f6ed00b0511ea9b5e109d9dae55508724d86be16d7d1ff599861b065381f080264032112bd465095cf82c84eadf64fdb1e7ed9ca5cb9f1c474d8563dfb7b8976904b68c037c34e8c603d1630b4a1dc44e31fbce296c7105b9f05108dd11526d7c606a224b65196e7dcee3b7f5076edeca4356d40628da9d264ec0e20b85916c191ee39b6abc2aafeb6fb988f17c28d57e9bdf13481047f9003783345c4a978bbf06759f376c844030216e54b039f969b1ccb6b115be7c816749c3f4a9d84a7ca9dad11bf242e80d35306bbecc23e822a45f52cfaf567f8fb264bd16211506b391d95f29071fb701bd6a30375ecaf597f460323ccff77aaea5c60ab5646d397c09558f9e7a2ca64295a0fa8ee59167ea76098e4270e427c0ec09d6e3110f03ac672c0f3548aa452217d6eef7d3ef7517412c3ce7fe86ee195e98a3eb0571158a222a9ba7905c2499073fce832117e5738f23acc494777036a27957c412dde33e734ca69c6006f6ce41a86fb0b41c1648ed1b3caa3c8f7bec3f14c151e7008712200582102d6909070179081987c9c2bc70e1091b3b5eac054693241fe1ce8a022dfda32ca75839f9aecf468c91060bf55c73529540c5b833b5b1abc106472928e3804202f257e78fccb03a7d66fe11d6ebcb81ca47de0b8782f2e96dc5f49c712613e2ba999f88585a1ec970b485b880e303b453cc87e09dd4f8b92b4efcee2a08a528d63768cf101966b841f8d90ba97c5d6eb9de4e81df0ca1c78f528b657bb136984bb65f0fb3612b816527b6501cc5b8a1a6b155308f6258dc1cbc3a5f77be92ecabe762556f44f906bbb0da4e0eb63ecfd59fd0d557ab1fa1a7174e0973ad5e1103bacd1a33254ba840e6abd84a80c589905c05dea6887b05e34e09dc556197f05c78577d9d11bb94e07de707bffb41e8ef0a97885d425c0b6d6964f8224869bd3d2d48a2f52d2e84363c312588994adad16eed7e377cc04774b10a558b62d5528e0b69dad1b510dde9ad3d42b3ba19c6663ea82c9ac25f8f31ec657116c8f8d95321d7f47747382a98d337b58d853d47c2fafa5c1f603f7ea608c637e53e8a986a25e60bdbda8d2242dbcfac4bc65afc76d1ced5e1869b40e9d2f57c174cee0c063d32e81126b8e12e6129f3a95532ca27124b70f340e7f9ff5671eef04c7ec3020cefc00f9b5ac65ac0b1ab87af1a56ac7cbe88b46e30660e4bb72bbd120ce959dfb510955a88a5cbb11faf096ee1fc8d9d1a1370e39f28d2737d623ea27489b60363fd2d7c809e55bca31be2f209be27168b68c46287cf67fd46849317b18b310b029c5fb8b6481108eafa60c571906aaaec23c2e20d78e15050032b75f0fade81d2a797be3deff5ac9e9e047e3905eeec201e1c3b425104196ad1bd5a4d5b5528f698524c7b8b61b9f13cb5e5e7b3e41696f585ba909a689cfeb236db99935f03802d98d98bddffeeee810f4171399686b71d854410128173838d0dbe97405c22b4d357d7194cc5fb2d94893dfe7fb2fc9cf75802cc454c0bcb13f65910178ed5cb6470fad59ace86643ba2faa710c687585dbdab8725c045de2c9b90d47eef24284d3c425296a0190959f008a81ccc8987cf0ea4b62331678082a75718fb3c5f20ec14109bf8fd9f8aa3e518bcfaeb819d9d6c2dbf52029512c5e53f21134fa4874d3650590137fbf6465802b4f57a950435658771a7ee54c076aea9f7dba2fa8e64b0b93d3d8b2341efce2197f84585938124c0c0b4577b05495c6fa7a793535ad0a130ee54420b135d3ff7a91c4534ae137d6d55ba737e9bffeffa36cb2bc885ac085c150e79d674d87ac4fba3fbc5db1161409aa997150dbd2f52608bc51277b18581c9fd47952352017211a43bc55e4c7da44421965317260ca43610f2b95ec1e57e1b45dd06574e47871585464bf86634c5660a89fb757d90802061997f8fcac74711a6fb7de0c9ecb91a78ee53d4af46c54cbe4c0040c6d8342d71e30da7007101d829fe6cc582716ab7adc4ae532825a0102c7a74bf70e115761dc5f936446809ce92204570d30d9eccd014016eb4cc2c210c00f80d66fad842bc6fd03ed737c2a622622501a57884dcdc8429b79deaf6003870c0be5328c57379a400bc0d0a87bbc6fe26513780b746622bd94b6bf2937d89b5d6df6701cef593739e3da1ef9335acd87ebfe1e909906b04aefd99971f37acc3cde44c3e272cc3b44b807700fc1a61b7bd0d101eb01a3a1549854602de5a8ebd026c0560ab9efd96d6f2eb6f1c957e0e73d00de06d6078ff12388cf8fa51d8f6f4fb6c12590b6b31569f213b718729362004d62376312fb53c1818978c52ce8c62ab2bebb4c4672138827811de125bf18dbe3e7744743127bd793ca05d5408dd63eceefc587cef94235681edd4f65b71fc6d247e2b8e0307ec24a066667f67270d7af5801eefd312b06b00ef37c0ef3be09faf067f6e12ff741aff741aef63bddbb1de8a8fa7e62913072615a0d20642c2f31929a756d473c2d5a7b5e0fda704bd1b0926b41f0901d875464f569ff77604e743a20ac68e58a435e61013b5eafbbcb3836103ec299b869b55838a1fa49235c4d6df4e751b00fcab55f85fabf18fe4f88f96f8cb4d19bec04c7b070ed830539e5e72ec2537e79970c04e30ec04c35fadf1efaec3dbd062d76bfcd371fc6dccbd3766c8d4ee66698521d17bcbb0570f826d66472ebaabe8a17911a9f6c9b588b058fc7250bec3ecd46f7826280666a1ac69c615dc8dc4f38af8ec2e1301a3f52739725e51caaaa270c36022471aaf25e85108b260e3fdb601c9b0178045e888859a7554bb93c44d996fe12340dfc8ca98195d8532abb64d07d80f0cff7c29eca421a94e1a82eba5c94aa300f0d66b6cb4f96cc96fd012ef8dc2efaec1a101fcee057edf00bf7ac0a105ecd4f356be96030e5a622ff9f48c7624d3561822b48469e5b935c3702e424a3525a408f4e88ee575bb3803bdbb07387c6ffab32b8a11d05ca1e60a3903d44aa052ea7099540a271f60a68486b18a4875042a03f49a85d72a7fc7daabd8d36f0c9ec2569a06701818fefbdbe2cf8d4f0438341cbf7b85f746612718fea334fe328e5f00f8cb38fe1112ff511affaf6bf0df4661af007f6e1c7f064380df3743829acdacd791ec062d27029c936927d834c576313f6867553e279dfa1c6539ba963045dc6bb255dcf88a57896fa3dcddf7cde3517b806966716f54d0d938ef0f8fc9ed8e584715cc475cf315d5b53c8354568d2930daf105ee2d2f63c60f779706ff75807f94f9fb6f0bf8b736f86180ffb51aff6b35fe30c03f12f0979b15ee1f66c8b3bb71bc7d01debe006503d8f480b73b3756e538c5752dbb39e935335f632f390e5a622bccb5539dc7e916e5727865e9d6943d87eaf0b1881d10a9fba9a41d64a07b229f9b6faa6d674b8396f8d56aec04bb762201e0830057f202ce0f63f1297cead555af3337115295d7ee4069b5c1ef9de1bd33d6dabd33d3d65e1b42faee1afcee3a1cb4c641b7a8c7f362b552d8f73db66d8b7ffddef13eb4d8b5121bcdf1ab6f70681fd3696b019ad566f3d95a98f7564c7e40fb9db586a98e667711d89d2973d740ff426ee515388ffea52acfe2372b7337aed6456ab98c6ddcb512ef435b8d9cca830102672b612aeb6129e4837c23d9461f63c8c8b6b0f29ccf316788ec51343ebea7531c7f07817f7feb89fc1a6908b213cc4c7fbb0e95327fa594084c2000c7b66bf0fbe70b7ffffac2ef9f01bfbe6f781b5a6c5b895a73d49aa394b3c18801f6b7069b5662d34a549aa3540ca56266f7083ccb7be17b1a6107ba35a2e3ec81abe36cd4db404b3bb9653d275c05d8dd5becee2d42ede1518761b163834a89ef498d4fed20f1106ba862c5587512fca985b2089399d82aad25de86166f43fb20a2510e5c02f683c2dfbffe42a9146aad5129858c311442a0fe1eb0fff383df3f065fdfdf781b06641c502a816da7502aa3bc4208b3f022009552a8941abf1328a59cbe4b11601bdd314fea3bdc5abfd081db5effd04573eeb65dac48ef837f3c8f71c0e17ec7b6eb90eccf0b63c566845afbed1dda39d4e4a62aec11c4568bc15e1feaac77b3accc2d1bcef3f9fed6144d298552296cbb0e857c5632a600552771b875a8959856855bcef1de34f8d30ff87bbbe3f76dc0bfbebef1f7f717eff73bf6b706db4ea1fa95083d989d3b9a2334e2814e99ef34c74e286c9898c8cf25402ee0692ff5bb597647d563cb0ce5b001d98152021b2d512b31938f6398b869f1de8ef05cc412e0d6633429df07e3cfa014cd4758c947a86d19b27d23a75402a512a81ac0b617287f04f22f6648ed06081d43680159c3101460db75d8761d6a2db1efdb698acbad55a90041034203c85a436a42cee435f3f1edb2e0debe23ec43a8cbe6f00166de4e8ca5d9f4f056ed6eb7c2b9c762c60a38565091f187cb519347a202e73d6328a44421257201a8349fa6ca4af307b98df184c0ccaaf0ed2eb15526aca711cfc91d267928c0a6e3d869739d2b57a1ccf47b59262211eedef62faed8e74232bda4da835a6cf978029cb6c2bdb6c0763740a202cfcf4f1d404c0b1e6b71804ff904015663e1427d36b1e00eb933617c7f4dc7516a63a9ba6f33a3000018904944415471c1503530a1e94c7204ad182a30610a9d68f0a7ffc246f72845834234c8d832885529865a7314d260591e3112af98fe67d76e806a90dd05f1f14447c985b508d0443754ec8b7c61283e815bbf9e3d24666d5ff0fcec90afd9ff032ce304e729f1dd6c2c291451f0f1d9b6dc36a0f9c6b193e6fb4e01b6d284ccd89d1e5fbdf95e8259bdee04c39fbec55bdfa31e1739d6dea794c2b66d512ab54a6c96fc18e7332b54e07235307122dccc085d7cd8ea838ebd9e5ad5a57c7defe2733d2d243428a1594c19737780adce620163ccdd482e9a3def8bb501c0f6b316b3c3a699f95f8dfb6e4346b8adf16f367c443398ed0201bcb7301160230cf9fd0c8fe40843c34d84fe38207001f8fd33607f6bcc8ab258aee69af320182ac59e0ec699635af460c64728e518fa026908ff2884869b1cbd0842ed2977cf80b127bc4d81fce34e90588bcb9dd9946e97f3428071a2a73279139bd22e51bad6defc002437fecf12e014f3c61f84b8752f6c28ec3b0730996c2ce6642d01f0de69ec14c756326cc42366d13e8733c0464b544aa010ec390bf6281b3d2340a5e870176b3dce13b5be0b6a23f0daca738104a4c91997d8c7e0129f3de363befdc84e69cd74917b2d472d9604e4b318524cf9157fa4a79a2c5578580043271e562a2c7d93669acea669f5daeaa256cc24b81caf5f93ef2764944e3d150e7d1ff57eb29fd8ebdf6c203a213c176c25360fd12da62ccc518640cbd1dee7eeb554ccac96ce4f67bbc3231e703a8e32f194c912924dc7652dc0819be98feb8b9460ca393fb47d2dc30d75087cee0efe2eb072a1f6f0a65e85a5a6c4f32d866d8ef747caa374bb9447a1559f541d56c1e85f83e704a976baeb5b7cc96511c45a22b17ed0bd9bf9cf8e5a09df2d570d01d0175ea24783d70d996bb52d54a148c521a67acd0bf2cb4980a991aac35c96625e50f20d26c04f0f4729068fc04b77189ba5c43f82be5eb53e9ab82f1ca41f95b71f4588c1cfb8e2f53283f508ac47e0d2606bc32cae797d7adc5e0272577b25089ceff80885eb83acb5239d6dca74941c8f9aa9ec7d4fed44fdc1c43aa0c1981d62da12f7220b0467c8197be9cb7abcc01358bb51d0932f6c4cf5dd30851ae453328486cf4264183d053e739a27d7b2385bf953d53f17219d8ec85ca45ec47c3f626cd1604c8d4f1c57e9dd53eb131825b8e937bb15cfbed796c71390cd00413264633ebdc76ff68c84d7be99d329f4c9600698fcb9e76289ea284bce7b5dee29eee2599ef45615e8ccc170cfe575cfeddd3695751bde251e6a51c2d790ee7d361373e814977a8e7b7d050d734a1c3d05ac650aea1b68afd5df6a117861a111c3a7506e9e401b2f67f701db6d483e85fcd429e4bba0d454b5f80ce2b2e0f6c29e0ab722cc03041b3b723ec5c2713a51aa0d349deffaa08289ad25f9643112e5aaa0c10ec1a7d477eb94b694a5792139ac0f70bda14b17f079a5f739e3cb5a3618fbdd1d4c4618bbf13cf660f4c5e95d1f865adaffe8fabaf5ae26e03c93617211b74d884a2c3af8a68a93c08eb214470bcd96639e0a5fc18310ef608e9ab49f2d31da9d22543d3e5711ce8dbded76b5f7c7a2780176c125444b84928de9afe0f5d4d737e575a7e4d37b216f8799a6f950890592a83ec9dbdf83c3f4301247cbff227812eb0db8b830dbb2bce7b981bfbb53e1c5aa1b717f6e85adad23bc0b72cb73f16c379ae06af777c17adc5f50fcdd96004a2ff16d4bc4ea5b300955d40a1ae44204aef6f320779ce1f9617d7f89044b5c9fca920a2ecff8fd224466250bf2915396adcf4d568e4be12f5c98e3f98be00e4a74247755d54df0b9b5a0d47343c2659ea6c023167b8043c35f3cf7533e3bcaa7b7858c3fc1e271eb973b5ed3f7bcd0f62003f02b90e985551027c45b6c3499a9b311b65a2056c1dce78512e0747602511f2a19426c470b25bad40df9ee84984b5e94dcdcf62b5dde0bb9e03b0e73afcf20b3cfc15d0576e3fb422d07dff717c1bc17a82d92a5cb75e16008a110c624072ae05ce0d070127bfde10432b3e88458a6c0f79d071cfa9ed87aba16c56561d481e45369c2a552ba9e17483c567c85508e15c59eb696ad21944852fb42a67751162033b07b81ed59c1543dc8fa8dcf8ff539ba1d819a1a536753f84011e762caeff9fe5db17580f305fcfb40f9aa4bcbe30205c111843feca53667fc1ae1bd22247bf8903b45a6b6c02d4e8d7308fc5abc38374217331687675d8b1aef863045c9bd0ab71554f92c6c60740f0c6fc0b105b6ba3abd55c16b21c2b3ef14a91db5b4f385c4f0858b50375296d3513e106ac4b6e5b07b7ee769b1ec74f869ca4984b3f8de77342839b896ca4580797011ddbb82b3b7880cf75982def8c0c0e7539fa9eb7313e085327a76ba76a2a2314edadfd3c12798bd822b2470971015377e4277512279584e20ca377ce5b83ae8b1f2fd34393feaea9e05b26d2f6e295053e1d855dad0ac309765f766785702b82cbe5078768238a8b523bbe13ad607d8cffeefc01f07988ad02e02bc5014ef4a7cc9eb955a3085044d85beb8c4b835be6b2fa8b8bf4f89cbcb8d6a0698541df4b2e0f2ca77c29b09942421c7f7474e8d21ac03b953eed855efa32dc35cabc35be5574a2f42e5bfbbfc857cdedef25f44ea2253031f2d60a23cae42f8766a841259ec54b88286be7004ce62b9d55aaee37150c3e712b4e73dde4510f020f0bad0ad6e4737f0568b26b52557ca32dc2af76be0fa18a47de042710e1e6142a7babe2d71bebdc1b1abc7949c5213a54bc88bb8c74050844e0e10ae1c02e573945e84ca77f794783e088b8cfaef3ef7b2e8b622a0215f5858a515dbc5da214973829bef10b9cd3efb8ec5b41d88dc5142c14398152840102842a4082576b1a974fdbc7a4595d7ed17c2838ba06a03d19067f16510a014d525229720433bec5e94964ff1f688fc3df4f9a1efc9de1e72849e41cdbef7f9ce37f7bf318e776b3f3d697fdf01476076a4920ece4e909ef246fb0613a3b87c3221b73caa91a3d5253ec2f6230586fc3a782640aa5fe52a57683fdddaafcfca0bc03402d38f867389b0da8287c1760caf4fcc53cf8bf8f2b4cbdbc9819a0a6b3084a71c1cddbf620d99ea096c2f3847e0fcf32aeea9df4570179ef464eb7d7c06e97ce63b9e9faa5ea9a7cae7e30b620fb0a782a7ede89e8672778e2c7690c44e9119bc5c0d75df7bf69d216ebd4a0d14c5f5f3b2b04e0257f05b1ba674c3265238aa83fa763c50a0c2697cc766861245a9f8c2adf8188bdad533d7fa2b5dbe0b235c5f5f6ee4aa883bb5a0a61a1bcbf7b61df56804ca7bb3455c8b2565cbe10b8729dd6f3e1eb102b6d78712cc518ab6f1fdd45638f2fa48946fe0bc88750104b7cbd9e5e8eae1d601f922c4dc58ff819af2452bc0d18ae6b97edea938a3a7a2b14913f61221757a9cfbbed453deadedebd6cfb7a3666f1ab2d21dc525749f5ea4d46fb64698b3df2f42dcd69ee67f6b929fc5379168c4243b1a717fedf181a909c3f545c6bedfbd8f7ace69882f57397d7aebc61596de59f27e847b72016d25401608a021b8b122e716d0d1c4572bde450ed9ca19aab7eec6040508cdf8b79dfd6f7f9faee7655d53a7412281848ef8c990d88762cbeb9bca0d00781f31c0632fb1ebe30aeee404d106cb7dbc9fca42932bac269618b612c7d956b983f45504c4dd52b0dbebe6846809507303c5106487a07a7c1c796171ae232ff2837104964020918493fd7d9144e812a06bd1b9df93e9b5082274cb4f5a95b0cf27771411be8b85974a0ed9f5793eed95cc587f96fcf4ec6f3b43cf107a65d02984568ee4387b16b52853816c0fc2eb86f58ee84e873f4c803b2d3eb29ebe29f0f83d457cb11691af3cd46248acbc5c82757fdf9b37cf056549fb08ba3682f459ead4a2882f9a6093e5e742b107d93523e604d88121be4e21f47a24c11b826a116483209e2d43c6c3cf067a23bc6e20c600393f60444f65d125226297302cd4083bf5b51d57b2d7abc3de5565a283ada5e36a81b6e852134870da2f0a810383afde543aaedc3b6782f57cd65f5e125f2cac1edbad74d6827b9afa02422b101afe203f9b80a11fbfb304a86f0f881641f406f0855cfe41296f6808319f4cab82008e02b8b7619335e4515364aafc9ef78524485dcb27d8c3f30974641888c762f011436802d7541dd1b5445db8f58a264802be721de51bf459f8d9c25f2c9c7ec26c0285b90f50c3c3029c200c596a6efe6fe5630a6cbf6bc448822d02d308a245213fce0aa414ead9599adce20b6cf0a32c3e0b8a602cb959e2db1b37e8fa147df172d41e651fdce7c5ca832abf4f2ff69eb79c9d583ca0ce8c09b5e073964dccb7d5b96131d64a9c480e9ea7c6dd887ef67f7bbc7cab8157d152114cae296e66a27415dd252e3bf5dd1a284d5defbeefb0012812c5ca71d04c826a1717d9fa837bbd253ec5d7f376ce2dc2b96f50af7c3f5f44117c5c9d4eb428ba571e87bd9b7a61ac829526b4d48418789fe206365a9fdab9b17547848f500f57d40fc79afc1963f9dfed12e09ae537c73c21eb9cece6d030fa0dc5634a6c4369a83dcb15b4415a38154cdeb1725b6aa144167a7da002ba29f57b308b13b153d4e8d3e928401962dcebcbab16847ef82cc1e8ad71b1fd614e807601644e80af02a7d7e04e91e716638984adc7b7f346853dca12cbfd7ecf7be60a2f997f11a205b69a4730d43748115fe8e287bd2eb7e2845aae47add61e5e4f16e81b849d03013580cf334daf119c1b284d92207bac2cbb21368d78f80d159c63ab6cbc7c378edcb908f06878eab916869272112254feeeef2e211eb52afa690825faddc447e965a81edbad6ff3a9af25423bdd5d8b25f44da5e744d8ce9e63afafa08df66114606cc391d71d455ca9d20a7988d0a7f0c153dd406ced806f33f5a4b07320db0b2fe18d16e1e6f28412e03cbd7e08a1b984e8c24e7ba9e7d92d7613198ed7db2d77547da97a94d6a305f626682c65b9a5c6ce8e317d66cf53d6d073814309905a64795be2db8ac076ae466ea9f498320c28229c1fd9e94337fb7fee2b9c136f6aa2cb4f9c9e86d89b613915f1544a803e6cb5fc4a95e7a8729c1ea9f468ab9e52fdd4dde3eb7eeffa0643b19816f3672bd25eb335ad5ea1fe0964417c29e67311616ea2ab8cf86a23c08b080f462ebda6888f9a326f25c63909b66002acdbd9f32aeb974b1c4d387b1bb4b4253a2299933bf6bdcc035827b28bd8d2c2e713cc1606b39708bd8b1e3be086d2cca7c95bfb6bfeb66cd1806898dc0d955a31122b766cf69245a0732051f93a4aac4579115e5af816c376af061f4d848b850e07f3345ba153e4061e2135eece132910388b2f77feb6ed11a0dfffe2dc0d7814f166ea38a93ba0eff78b108fc1b46591991d41d511a0cf02f44d914331ed2c11cf495be7390a6d2ce2ab45d7c3db70ebdebfd204e613606102bc8827132a1de8a8f63fac7ea90931b61c942f716e05dac40bd64fa867f7b953e4c3da6aabc29426badc049aa803544b80a9ea5d98686a213caafd37d7231728c2dbeb537fe54bb4d6df1a195ab8abc887b567ea94d8a509ac52020c9d9256479807cbad3a38f52333a013d81d201dda1ea9da3155d88c1b67f82a6bcd94bc15961668f6363e5ab14b135ce6faa6f2c1a5264237b3722a42f834641fa072e96f2c016e8d13f4f918e7c4d8cefece7313ce9331643fae3754a0d4e77745059ded9d903c49c0c1081ed872115368ff4c85580bd0b7b7387487c97c9adcce9e93ad6d733750edd8d881dd7098c9b2ba08f42db195b0bd3380a307e2bdfd2534aed01767380fb999fb07e7d6df3c96d0926cf2b6dd2bf8bd0d781202b4d89d09f8c2a9b0d595912d3d96c55ea24c458414c1d9cfd494dabdcf7dbe254f37b375e35cbf5b96a52d9654049a5871dc8057df79c0f67997255816bec0f5d0d3f452c7536ede11e2bb7eafccf63e678db8c4cae790784305a8c523efa69a817340a500a53648a833791431bb8596d9f2ab3e8ce5425664f3f9b948adff47c9887a7fa80f90fa7e2d9fe13c2f61c31f68c563e7c9e6fa27220c52403ec1a56e80c444b815d754f9b3b19b4073e9712a0323f43e9fcf900ac3e3806cbe15cf4dd73f8f27bc0142c3b6fa083309c8f79c508274af4ba530478f98ef8a4b9e65e59d5aef53f79fbde5588b4b7483aced119f0d20b77ec77099262ae8d9505a91df0da9e5fd69ed955bcf8fea37a99ee3dbaaf794ed9a3f136403b485b9785769222a8dd28a7fe133b1553f73dfb7f7f95bcb693f87ee5576adc0b5ad77f3efc9b6284d4047115bedc4e8538cd21df6ecd8dacea9f563af3e97ee57472324907a9e86cb66a071c991dc62978a68f6de9fba81f72a62e90e7b210f0e6edfcde12fb9905a4eb9792324f05af367329c6fa9b33e428be404f82ea8a563d65abe93d52b75f852705894af5eb5e879e8f7b1ed97aa9c2f5687c9c4ae8a3d4267ec1ee339f975f048cc30953d35716c55f8d28ae12bdf8530bc993c8303a3b7d6bb36bd4d458cb9b1b6b54ec2635fb1dd66370f95b9c18308a795e2d21539aae12fe2fb08e40e60274990bd06f9cc52fd2116b5f51f6a2b1eb5e3c45a83038c7183d3b376563c5400a589b29686bbf09648b5656ec25e7d7eb77e44d52f367dd73c88da3c6b6383a4ae58ea068e7d5f059d684b472b5d9e0b95e268622bddafdcf752491ae6e13100986f2b5cea068bbd3ff2fdde345785e12667a8a55cb5c9634a7670d2012e1a9f52cf50395072b144384fc50f80e91741421baa16822ddd701736c125c0d35ac45bf530573fdd5baed872e692a70b3b559e9f560780e917414a2bd45e85295dce0b9f81adfa988be8b63ed777fdd1fdce4780f36931008627444d458ca989f65308fcc27b22b5fec6f697a3cb510b82c360720b68af429456e05a51abdc52bdbf743d6a69c70bdb101d07c81d1c59d0186c7dcf5e85acbda3942e5f69e492472ef99626884f0000c61360e942a726be27615c785ba4d683adf717edec05df9f8b07285e60dc012593ad047014d1e46ef84c1d2e364c850ac3a1ceb0f0e16d56497323b31e642b5fede53e8fdc030b9a7a248a15d4dee7a62ed785f7c2d17a50da82aaa57eb9e545ddff7876a2029416a46fa42cad101e5081bdee5ed3daca7d612772eb672e7d39aa5f651f04923e2cc1fda92a1efbbcd21de142dda8a56353cfc9f5fcd8e7d6d23e871360ad881558e98e76e13370b47ec7be37b4bc47cb21e57301303f01965690bd0d5ebaa35ca8028b03ef4b11c051fd2077ffde2b9f64ef482db0a305519aa82f5cc8815c7a1c7b5fa9fe9e4a7eaf7e07c07802ccd570bef75c0478e19db0554f43e3604b95af743f8e912300beaf0f30b7e04b77a0d0fa952ed7d9904b0f4af783a3fac5def2f9bedf8bf9a001809f43805b1b3e53477bfbfc7eb9e498abfd6b91534c070ed90195ab1c47f5bffc1c4114e8e882d622a0d2c471e13311aa9feeb190b9a6c0b1e58a7d6feae76eeeeba588e62c28dd31621bbe74796aad676df2a94d7f4bf7b3627d3b17011cd5b0b529522d1da974b9ae7abe2e7768f953e969156493413e7bea0780db9321a42ed8518af62e1da874b93cb8922f246e6f9f3e1f5daed2724a511f004c4780a184934b90a94726cf7bde76f16223dcbdcb1f2b97503d2b3db09522b2a30d21ef3d5b89e35350ba435da81ba5f593d2d7a3f53ff4beadefcd26abd20d565a51621b3456312ebc1752118deff9a9de13fafebdfd25955c0fe780d244148a5c99a04b377c26f8d26b952edfdba174ffa0f4f5ac7a7f58ffddfb80a309e62ce52c842b1374611c456ca1efcf7ddf56f984bed7773df57b70997235582d4453b85c17117d284af7a3a3fa65adfd3da49c00581f01ee1554e9f75ff86c94ee277bf538f4be5afad5ee77e71270e986aea58176e2f2e19d147bf5ec6cfa5aba5ca1efdb4c80b52948aef7d4a25017ce09576f52e9596abda49e17fbfcbdf5f30d00a9db6559a6cc0d951b4795a774c7ba706e94d2afad849caa7ff9ca73947cc9f71e4d58ef8a5a3bc0bb74e4da915b9fde5d9ff73e6773bd4a13476d0d9f5a51de854072cbe5ece52dad87a9f4b8543fc9ad3f64994a55d857d05001952ae7853a71743bfbde530ba19446aaf2a6d787c40a105a701fa151d7e76ee8d21df8421ae46ed7547ab4574f4b13db51c8a72b591f7ebce2a516f0410d7185b7bc294a13422abd4f4d4cd51060aa02a4ae406a05d9fb9cfc23d1853320b7bea526c454fd3ab6fe5be578b8bc4a37506ec1ec7d6ee90eb7b7235ea80ba5fbd7d1e52acd07d4f3a6ef8eae78a8204a976ba7623102c53be085b4d8aa2795e8e9ee7ac796a3b67a6413f0d1cf2d2de8620d78a14ae426aeea88a49272c70f1a0735d85e01c4beffac0ae281bb37d8dd237c599a9138b93e2cea7134d196965f0ce1ad973351c5b70a646b057cefdf0a5ff97cef2bdd11de0d9f22d7d47a1efadcd8e7fbca9dbabdf6139c07a98823b400a98828f5fb62dffb29c4f729f53c5a8e47eb53eded98aa5fbbbf7b9f9f9a087c2f2ead08a1e5aa4d812fd485bd7a9daa3fe4ee5f47f5df62fdab54431ead283e81bbdf8736502d1db034217c0a4aeb75a9fe925a7e47b707f98cbd822add10675788c4a00e432a5daed362ab7e9426b477d1f7d4bcb37cc7c607fa0a94aaa2b1152fadf827c745982743693d0ded8fa1df1f4ee8b95e94fab9a90570b8a04f864fadf75e79e5d2b3d2482597eafa59ee17a4ae702d0498483e5bcfef8d9de2baefc9a7506591fcec94d4fde32842aa8d082bc5ff07df9ee81d597e61310000000049454e44ae426082
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.toInt(AbstractJdbc2ResultSet.java:2759)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getInt(AbstractJdbc2ResultSet.java:2003)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getInt(AbstractJdbc2ResultSet.java:2426)
+	at firstone.core.datos.dao.PropietarioDAO.getPropietarioCI(PropietarioDAO.java:116)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:218)
+[ERROR,2014-06-08 20:37:40,116 1,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: Large Objects may not be used in auto-commit mode.
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:200)
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:186)
+	at firstone.core.datos.dao.PropietarioDAO.getPropietarioCI(PropietarioDAO.java:121)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:229)
+[ERROR,2014-06-08 20:40:23,844 1,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: Large Objects may not be used in auto-commit mode.
+	at org.postgresql.largeobject.LargeObjectManager.createLO(LargeObjectManager.java:241)
+	at org.postgresql.largeobject.LargeObjectManager.create(LargeObjectManager.java:258)
+	at firstone.core.datos.dao.PropietarioDAO.getPropietarioCI(PropietarioDAO.java:120)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:229)
+[ERROR,2014-06-08 20:41:17,880 2,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe el objeto grande 1
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveFastpathResult(QueryExecutorImpl.java:652)
+	at org.postgresql.core.v3.QueryExecutorImpl.fastpathCall(QueryExecutorImpl.java:482)
+	at org.postgresql.fastpath.Fastpath.fastpath(Fastpath.java:74)
+	at org.postgresql.fastpath.Fastpath.fastpath(Fastpath.java:114)
+	at org.postgresql.fastpath.Fastpath.getInteger(Fastpath.java:126)
+	at org.postgresql.largeobject.LargeObject.<init>(LargeObject.java:93)
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:202)
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:186)
+	at firstone.core.datos.dao.PropietarioDAO.getPropietarioCI(PropietarioDAO.java:122)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:230)
+[ERROR,2014-06-08 20:42:22,099 1,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe el objeto grande 4920550
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveFastpathResult(QueryExecutorImpl.java:652)
+	at org.postgresql.core.v3.QueryExecutorImpl.fastpathCall(QueryExecutorImpl.java:482)
+	at org.postgresql.fastpath.Fastpath.fastpath(Fastpath.java:74)
+	at org.postgresql.fastpath.Fastpath.fastpath(Fastpath.java:114)
+	at org.postgresql.fastpath.Fastpath.getInteger(Fastpath.java:126)
+	at org.postgresql.largeobject.LargeObject.<init>(LargeObject.java:93)
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:202)
+	at org.postgresql.largeobject.LargeObjectManager.open(LargeObjectManager.java:186)
+	at firstone.core.datos.dao.PropietarioDAO.getPropietarioCI(PropietarioDAO.java:122)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:230)
+[ERROR,2014-06-08 20:52:13,187 1,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: ERROR: no existe la función get_foto(character varying)
+  Hint: Ninguna función coincide en el nombre y tipos de argumentos. Puede desear agregar conversión explícita de tipos.
+  Position: 15
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2077)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1810)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:498)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:386)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:245)
+[ERROR,2014-06-08 21:30:15,896 1,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: A CallableStatement function was executed and the out parameter 1 was of type java.sql.Types=-2 however type java.sql.Types=2004 was registered.
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:437)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:245)
+[ERROR,2014-06-08 21:30:22,061 1,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: A CallableStatement function was executed and the out parameter 1 was of type java.sql.Types=-2 however type java.sql.Types=-7 was registered.
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:437)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:245)
+[ERROR,2014-06-08 21:30:31,164 0,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: A CallableStatement function was executed and the out parameter 1 was of type java.sql.Types=-2 however type java.sql.Types=2005 was registered.
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:437)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:245)
+[ERROR,2014-06-08 21:30:36,532 0,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: A CallableStatement function was executed and the out parameter 1 was of type java.sql.Types=-2 however type java.sql.Types=2003 was registered.
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:437)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:379)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:245)
+[ERROR,2014-06-08 21:44:58,479 0,firstone.core.datos.dao.PropietarioDAO,main] Error al consultar a la base de datos
+org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2675)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBytes(AbstractJdbc2ResultSet.java:2237)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getBytes(AbstractJdbc2ResultSet.java:2431)
+	at firstone.core.datos.dao.PropietarioDAO.main(PropietarioDAO.java:225)
+[INFO ,2014-06-08 22:10:52,529 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-08 22:10:58,035 5506,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:10:58,035 5506,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-08 22:11:04,997 12468,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-08 22:11:05,000 12471,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-08 22:11:05,677 13148,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 6 :: objetos
+[INFO ,2014-06-08 22:11:05,681 13152,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-08 22:12:15,531 83002,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-08 22:12:15,531 83002,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-08 22:15:44,137 291608,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:15:44,138 291609,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:15:58,386 305857,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 123456
+[INFO ,2014-06-08 22:15:58,387 305858,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-08 22:16:17,394 324865,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:16:17,395 324866,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:16:24,493 331964,firstone.core.ccs.CoreListener,Thread-10] Conexion desconectada para : 123456
+[INFO ,2014-06-08 22:16:24,493 331964,firstone.core.ccs.CoreListener,Thread-10] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-08 22:26:18,041 925512,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:26:18,041 925512,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[ERROR,2014-06-08 22:26:48,090 955561,firstone.core.datos.conexion.ServiceProvider,Thread-12] Error de consulta
+org.postgresql.util.PSQLException: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:138)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3g.AbstractJdbc3gConnection.<init>(AbstractJdbc3gConnection.java:22)
+	at org.postgresql.jdbc4.AbstractJdbc4Connection.<init>(AbstractJdbc4Connection.java:32)
+	at org.postgresql.jdbc4.Jdbc4Connection.<init>(Jdbc4Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:393)
+	at org.postgresql.Driver.connect(Driver.java:267)
+	at java.sql.DriverManager.getConnection(DriverManager.java:579)
+	at java.sql.DriverManager.getConnection(DriverManager.java:221)
+	at firstone.core.datos.conexion.ServiceProvider.openConnection(ServiceProvider.java:21)
+	at firstone.core.datos.dao.AdministradorDAO.getLicencia(AdministradorDAO.java:89)
+	at firstone.core.negocio.AdministradorNegocio.getLicencia(AdministradorNegocio.java:31)
+	at firstone.core.ccs.CoreListener.verificarLicencia(CoreListener.java:279)
+	at firstone.core.ccs.CoreListener.onNewPackageComplet(CoreListener.java:335)
+	at com.firstonesoft.core.Core.onNewPackageComplet(Core.java:191)
+	at com.firstonesoft.core.ListenerData.run(ListenerData.java:54)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at java.net.Socket.connect(Socket.java:528)
+	at java.net.Socket.<init>(Socket.java:425)
+	at java.net.Socket.<init>(Socket.java:208)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:62)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:76)
+	... 17 more
+[DEBUG,2014-06-08 22:27:02,777 970248,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:27:02,777 970248,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:30:47,195 1194666,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:30:47,195 1194666,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:34:56,661 1444132,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:34:56,662 1444133,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:38:49,315 1676786,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:38:49,315 1676786,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:39:55,820 1743291,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:39:55,820 1743291,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:40:32,385 1779856,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:40:32,385 1779856,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:41:40,239 1847710,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:41:40,239 1847710,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:44:32,999 2020470,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:44:33,000 2020471,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:44:44,772 2032243,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:44:44,773 2032244,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:45:13,706 2061177,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:45:13,706 2061177,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:47:29,286 2196757,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:47:29,286 2196757,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:48:39,253 2266724,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:48:39,254 2266725,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:49:26,330 2313801,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:49:26,331 2313802,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:50:16,195 2363666,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:50:16,195 2363666,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:50:33,143 2380614,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:50:33,143 2380614,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:50:58,470 2405941,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:50:58,470 2405941,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:51:25,329 2432800,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:51:25,329 2432800,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 22:59:34,861 2922332,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 22:59:34,862 2922333,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:00:26,146 2973617,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:00:26,146 2973617,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:01:48,382 3055853,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:01:48,382 3055853,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:02:03,693 3071164,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:02:03,693 3071164,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:02:34,917 3102388,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:02:34,917 3102388,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:02:53,735 3121206,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:02:53,735 3121206,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:09:16,156 3503627,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:09:16,156 3503627,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:10:51,924 3599395,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:10:51,924 3599395,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:14:59,835 3847306,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:14:59,835 3847306,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:18:22,150 4049621,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:18:22,150 4049621,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:19:13,320 4100791,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:19:13,320 4100791,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-08 23:22:46,456 4313927,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-08 23:22:46,456 4313927,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[ERROR,2014-06-08 23:52:22,643 1,firstone.core.datos.conexion.ServiceProvider,main] Error de consulta
+org.postgresql.util.PSQLException: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:138)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3g.AbstractJdbc3gConnection.<init>(AbstractJdbc3gConnection.java:22)
+	at org.postgresql.jdbc4.AbstractJdbc4Connection.<init>(AbstractJdbc4Connection.java:32)
+	at org.postgresql.jdbc4.Jdbc4Connection.<init>(Jdbc4Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:393)
+	at org.postgresql.Driver.connect(Driver.java:267)
+	at java.sql.DriverManager.getConnection(DriverManager.java:579)
+	at java.sql.DriverManager.getConnection(DriverManager.java:221)
+	at firstone.core.datos.conexion.ServiceProvider.openConnection(ServiceProvider.java:21)
+	at firstone.core.datos.dao.GuardiaDAO.getAllGuardias(GuardiaDAO.java:35)
+	at firstone.core.negocio.GuardiaNegocio.obtenerTodosGuardias(GuardiaNegocio.java:32)
+	at firstone.core.ccs.CoreListener.<init>(CoreListener.java:71)
+	at firstone.core.main.Main.main(Main.java:24)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at java.net.Socket.connect(Socket.java:528)
+	at java.net.Socket.<init>(Socket.java:425)
+	at java.net.Socket.<init>(Socket.java:208)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:62)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:76)
+	... 15 more
+[INFO ,2014-06-08 23:59:12,437 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-09 00:00:11,968 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-09 00:01:00,126 48158,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :853134-1
+[INFO ,2014-06-09 00:01:16,961 64993,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :853134-1
+[INFO ,2014-06-09 00:01:16,963 64995,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :853134-1
+[INFO ,2014-06-09 00:01:22,114 70146,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :853134-1
+[INFO ,2014-06-09 00:01:22,115 70147,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :853134-1
+[DEBUG,2014-06-09 00:01:24,406 72438,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 853134-1
+[INFO ,2014-06-09 05:11:35,302 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-09 05:11:57,137 21835,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :74377-1
+[INFO ,2014-06-09 05:12:08,545 33243,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :74377-1
+[INFO ,2014-06-09 05:12:08,579 33277,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :74377-1
+[INFO ,2014-06-09 05:12:13,080 37778,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :74377-1
+[INFO ,2014-06-09 05:12:13,082 37780,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :74377-1
+[INFO ,2014-06-09 05:12:20,657 45355,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :74377-1
+[INFO ,2014-06-09 05:12:20,659 45357,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :74377-1
+[INFO ,2014-06-09 05:12:21,127 45825,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-09 05:12:21,232 45930,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 74377-1
+[INFO ,2014-06-09 05:12:21,634 46332,firstone.core.ccs.CoreListener,Thread-0] Se envio 0 historiales
+[INFO ,2014-06-09 05:12:21,643 46341,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 05:33:02,828 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-09 05:41:54,258 531430,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-09 05:42:10,740 547912,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-09 05:42:10,743 547915,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-09 05:42:19,437 556609,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[DEBUG,2014-06-09 05:43:00,286 597458,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 000000-0
+[INFO ,2014-06-09 05:48:17,308 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-09 05:48:20,516 3208,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-09 05:48:29,198 11890,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-09 05:48:29,219 11911,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-09 05:48:32,324 15016,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 05:48:32,324 15016,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 05:48:35,577 18269,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 0
+[INFO ,2014-06-09 05:48:35,579 18271,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 05:48:35,815 18507,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 11 :: objetos
+[INFO ,2014-06-09 05:48:35,817 18509,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 05:51:32,195 194887,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :566447-1
+[INFO ,2014-06-09 05:51:39,686 202378,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :566447-1
+[INFO ,2014-06-09 05:51:39,688 202380,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :566447-1
+[INFO ,2014-06-09 05:51:40,084 202776,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-09 05:51:40,392 203084,firstone.core.ccs.CoreListener,Thread-0] Se envio 0 historiales
+[INFO ,2014-06-09 05:51:40,393 203085,firstone.core.ccs.CoreListener,Thread-16] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-09 05:51:40,493 203185,firstone.core.ccs.CoreListener,Thread-12] Conexion desconectada para : 566447-1
+[INFO ,2014-06-09 05:51:46,583 209275,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-09 05:51:46,583 209275,firstone.core.ccs.CoreListener,Thread-17] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 05:51:46,608 209300,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-09 05:51:46,609 209301,firstone.core.ccs.CoreListener,Thread-18] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 05:51:49,032 211724,firstone.core.ccs.CoreListener,Thread-0] Se envio 0 historiales
+[INFO ,2014-06-09 05:51:49,034 211726,firstone.core.ccs.CoreListener,Thread-19] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 05:51:50,048 212740,firstone.core.ccs.CoreListener,Thread-0] Se envio 0 historiales
+[INFO ,2014-06-09 05:51:50,051 212743,firstone.core.ccs.CoreListener,Thread-20] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 05:51:50,943 213635,firstone.core.ccs.CoreListener,Thread-0] Se envio 0 historiales
+[INFO ,2014-06-09 05:51:50,947 213639,firstone.core.ccs.CoreListener,Thread-21] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 05:52:03,036 225728,firstone.core.ccs.CoreListener,Thread-22] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 05:52:11,897 234589,firstone.core.ccs.CoreListener,Thread-23] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 05:52:14,590 237282,firstone.core.ccs.CoreListener,Thread-0] Se envio 0 historiales
+[INFO ,2014-06-09 05:52:14,593 237285,firstone.core.ccs.CoreListener,Thread-24] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 05:52:15,786 238478,firstone.core.ccs.CoreListener,Thread-0] Se envio 0 historiales
+[INFO ,2014-06-09 05:52:15,795 238487,firstone.core.ccs.CoreListener,Thread-25] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 05:52:16,508 239200,firstone.core.ccs.CoreListener,Thread-0] Se envio 0 historiales
+[INFO ,2014-06-09 05:52:16,510 239202,firstone.core.ccs.CoreListener,Thread-26] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 05:52:50,836 273528,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-09 05:52:50,836 273528,firstone.core.ccs.CoreListener,Thread-27] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 05:52:50,854 273546,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-09 05:52:50,855 273547,firstone.core.ccs.CoreListener,Thread-28] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 05:53:08,463 291155,firstone.core.ccs.CoreListener,Thread-29] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-09 05:53:43,835 326527,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 123456
+[INFO ,2014-06-09 05:53:43,835 326527,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 05:53:46,483 329175,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 000000-0
+[DEBUG,2014-06-09 06:13:02,281 1484973,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:13:02,282 1484974,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:13:05,517 1488209,firstone.core.ccs.CoreListener,Thread-33] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:13:31,313 1514005,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 06:13:16 BOT 2014
+[INFO ,2014-06-09 06:13:31,368 1514060,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-09 06:13:31,368 1514060,firstone.core.ccs.CoreListener,Thread-34] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:13:31,391 1514083,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-09 06:13:31,391 1514083,firstone.core.ccs.CoreListener,Thread-35] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:13:40,696 1523388,firstone.core.ccs.CoreListener,Thread-36] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:13:44,534 1527226,firstone.core.ccs.CoreListener,Thread-0] Se envio 1 historiales
+[INFO ,2014-06-09 06:13:44,537 1527229,firstone.core.ccs.CoreListener,Thread-37] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:13:48,548 1531240,firstone.core.ccs.CoreListener,Thread-0] Se envio 1 historiales
+[INFO ,2014-06-09 06:13:48,551 1531243,firstone.core.ccs.CoreListener,Thread-38] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:13:49,529 1532221,firstone.core.ccs.CoreListener,Thread-0] Se envio 1 historiales
+[INFO ,2014-06-09 06:13:49,532 1532224,firstone.core.ccs.CoreListener,Thread-39] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:13:50,147 1532839,firstone.core.ccs.CoreListener,Thread-0] Se envio 1 historiales
+[INFO ,2014-06-09 06:13:50,150 1532842,firstone.core.ccs.CoreListener,Thread-40] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:13:50,758 1533450,firstone.core.ccs.CoreListener,Thread-0] Se envio 1 historiales
+[INFO ,2014-06-09 06:13:50,760 1533452,firstone.core.ccs.CoreListener,Thread-41] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:13:51,283 1533975,firstone.core.ccs.CoreListener,Thread-0] Se envio 1 historiales
+[INFO ,2014-06-09 06:13:51,285 1533977,firstone.core.ccs.CoreListener,Thread-42] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:15:51,708 1654400,firstone.core.ccs.CoreListener,Thread-43] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:16:01,661 1664353,firstone.core.ccs.CoreListener,Thread-44] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:16:05,010 1667702,firstone.core.ccs.CoreListener,Thread-45] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:16:08,379 1671071,firstone.core.ccs.CoreListener,Thread-46] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:16:19,442 1682134,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 06:13:40 BOT 2014
+[INFO ,2014-06-09 06:16:19,480 1682172,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 06:16:01 BOT 2014
+[INFO ,2014-06-09 06:16:19,508 1682200,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 06:16:08 BOT 2014
+[INFO ,2014-06-09 06:16:19,554 1682246,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-09 06:16:19,554 1682246,firstone.core.ccs.CoreListener,Thread-47] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:16:19,574 1682266,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-09 06:16:19,575 1682267,firstone.core.ccs.CoreListener,Thread-48] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:16:23,095 1685787,firstone.core.ccs.CoreListener,Thread-0] Se envio 4 historiales
+[INFO ,2014-06-09 06:16:23,104 1685796,firstone.core.ccs.CoreListener,Thread-49] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:16:30,913 1693605,firstone.core.ccs.CoreListener,Thread-50] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:16:34,460 1697152,firstone.core.ccs.CoreListener,Thread-51] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:16:37,316 1700008,firstone.core.ccs.CoreListener,Thread-0] Se envio 4 historiales
+[INFO ,2014-06-09 06:16:37,318 1700010,firstone.core.ccs.CoreListener,Thread-52] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:16:40,942 1703634,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 06:16:34 BOT 2014
+[INFO ,2014-06-09 06:16:41,020 1703712,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-09 06:16:41,020 1703712,firstone.core.ccs.CoreListener,Thread-53] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:16:41,041 1703733,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-09 06:16:41,041 1703733,firstone.core.ccs.CoreListener,Thread-54] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:16:42,697 1705389,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:16:42,701 1705393,firstone.core.ccs.CoreListener,Thread-55] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-09 06:17:21,390 1744082,firstone.core.ccs.CoreListener,Thread-32] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:17:21,391 1744083,firstone.core.ccs.CoreListener,Thread-32] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 06:19:33,068 1875760,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:19:33,069 1875761,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:19:37,861 1880553,firstone.core.ccs.CoreListener,Thread-58] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-09 06:19:54,157 1896849,firstone.core.ccs.CoreListener,Thread-57] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:19:54,159 1896851,firstone.core.ccs.CoreListener,Thread-57] Guardia desconectado :: CI :123456
+[INFO ,2014-06-09 06:22:05,863 2028555,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:22:05,877 2028569,firstone.core.ccs.CoreListener,Thread-59] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-09 06:23:10,212 2092904,firstone.core.ccs.CoreListener,Thread-15] Conexion desconectada para : 4920550
+[INFO ,2014-06-09 06:23:13,474 2096166,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-09 06:23:13,949 2096641,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:23:13,950 2096642,firstone.core.ccs.CoreListener,Thread-63] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:23:17,669 2100361,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:23:17,670 2100362,firstone.core.ccs.CoreListener,Thread-64] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:23:29,159 2111851,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:23:29,161 2111853,firstone.core.ccs.CoreListener,Thread-65] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:23:37,172 2119864,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:23:37,174 2119866,firstone.core.ccs.CoreListener,Thread-66] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-09 06:24:40,858 2183550,firstone.core.ccs.CoreListener,Thread-62] Conexion desconectada para : 4920550
+[INFO ,2014-06-09 06:24:44,236 2186928,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-09 06:24:44,516 2187208,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:24:44,516 2187208,firstone.core.ccs.CoreListener,Thread-69] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:24:53,318 2196010,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:24:53,323 2196015,firstone.core.ccs.CoreListener,Thread-70] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:25:17,629 2220321,firstone.core.ccs.CoreListener,Thread-0] Aviso para todas las trancas ::: MENSAJE :ayuda
+[DEBUG,2014-06-09 06:25:43,846 2246538,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:25:43,847 2246539,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:25:55,103 2257795,firstone.core.ccs.CoreListener,Thread-0] Aviso para todas las trancas ::: MENSAJE :ayuda
+[INFO ,2014-06-09 06:25:55,127 2257819,firstone.core.ccs.CoreListener,Thread-73] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:26:11,442 2274134,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:26:11,444 2274136,firstone.core.ccs.CoreListener,Thread-74] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:26:26,629 2289321,firstone.core.ccs.CoreListener,Thread-0] Aviso para todos los propietarios ::: MENSAJE :ffghjhg
+[INFO ,2014-06-09 06:26:26,651 2289343,firstone.core.ccs.CoreListener,Thread-75] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:26:31,364 2294056,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:26:31,419 2294111,firstone.core.ccs.CoreListener,Thread-76] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:26:31,421 2294113,firstone.core.ccs.CoreListener,Thread-77] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:26:39,205 2301897,firstone.core.ccs.CoreListener,Thread-0] Alarma AMARILLA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:26:39,250 2301942,firstone.core.ccs.CoreListener,Thread-78] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:26:39,252 2301944,firstone.core.ccs.CoreListener,Thread-79] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:26:45,798 2308490,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:26:45,844 2308536,firstone.core.ccs.CoreListener,Thread-81] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:26:45,845 2308537,firstone.core.ccs.CoreListener,Thread-80] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:27:21,729 2344421,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:27:21,729 2344421,firstone.core.ccs.CoreListener,Thread-82] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:30:20,137 2522829,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-09 06:30:20,177 2522869,firstone.core.ccs.CoreListener,Thread-83] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:30:20,177 2522869,firstone.core.ccs.CoreListener,Thread-84] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 06:33:28,846 2711538,firstone.core.ccs.CoreListener,Thread-72] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:33:28,848 2711540,firstone.core.ccs.CoreListener,Thread-72] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 06:33:32,116 2714808,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:33:32,116 2714808,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:33:35,095 2717787,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-09 06:33:35,141 2717833,firstone.core.ccs.CoreListener,Thread-87] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:33:35,143 2717835,firstone.core.ccs.CoreListener,Thread-88] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 06:33:57,784 2740476,firstone.core.ccs.CoreListener,Thread-86] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:33:57,784 2740476,firstone.core.ccs.CoreListener,Thread-86] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 06:34:13,804 2756496,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:34:13,804 2756496,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:35:27,349 2830041,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:35:27,351 2830043,firstone.core.ccs.CoreListener,Thread-91] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:35:30,769 2833461,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:35:30,807 2833499,firstone.core.ccs.CoreListener,Thread-92] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:35:30,809 2833501,firstone.core.ccs.CoreListener,Thread-93] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:35:43,144 2845836,firstone.core.ccs.CoreListener,Thread-0] Alarma AMARILLA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:35:43,184 2845876,firstone.core.ccs.CoreListener,Thread-94] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:35:43,185 2845877,firstone.core.ccs.CoreListener,Thread-95] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 06:37:45,207 2967899,firstone.core.ccs.CoreListener,Thread-90] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:37:45,207 2967899,firstone.core.ccs.CoreListener,Thread-90] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 06:37:52,776 2975468,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:37:52,777 2975469,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:37:56,462 2979154,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-09 06:37:56,499 2979191,firstone.core.ccs.CoreListener,Thread-98] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:37:56,500 2979192,firstone.core.ccs.CoreListener,Thread-99] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 06:38:03,210 2985902,firstone.core.ccs.CoreListener,Thread-97] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:38:03,211 2985903,firstone.core.ccs.CoreListener,Thread-97] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 06:38:43,674 3026366,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:38:43,674 3026366,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:38:46,594 3029286,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-09 06:38:46,632 3029324,firstone.core.ccs.CoreListener,Thread-102] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:38:46,634 3029326,firstone.core.ccs.CoreListener,Thread-103] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:39:30,386 3073078,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:39:30,388 3073080,firstone.core.ccs.CoreListener,Thread-104] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:39:41,028 3083720,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:39:41,067 3083759,firstone.core.ccs.CoreListener,Thread-105] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:39:41,069 3083761,firstone.core.ccs.CoreListener,Thread-106] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 06:39:52,106 3094798,firstone.core.ccs.CoreListener,Thread-101] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:39:52,106 3094798,firstone.core.ccs.CoreListener,Thread-101] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 06:42:00,720 3223412,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:42:00,720 3223412,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:42:07,335 3230027,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:42:07,345 3230037,firstone.core.ccs.CoreListener,Thread-109] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:42:11,438 3234130,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:42:11,476 3234168,firstone.core.ccs.CoreListener,Thread-110] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:42:11,477 3234169,firstone.core.ccs.CoreListener,Thread-111] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 06:42:30,446 3253138,firstone.core.ccs.CoreListener,Thread-108] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:42:30,446 3253138,firstone.core.ccs.CoreListener,Thread-108] Guardia desconectado :: CI :123456
+[INFO ,2014-06-09 06:47:05,721 3528413,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:47:05,724 3528416,firstone.core.ccs.CoreListener,Thread-112] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-09 06:47:10,345 3533037,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:47:10,345 3533037,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:47:14,989 3537681,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:47:15,030 3537722,firstone.core.ccs.CoreListener,Thread-115] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:47:15,030 3537722,firstone.core.ccs.CoreListener,Thread-116] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:47:20,896 3543588,firstone.core.ccs.CoreListener,Thread-0] Alarma AMARILLA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:47:20,934 3543626,firstone.core.ccs.CoreListener,Thread-117] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:47:20,936 3543628,firstone.core.ccs.CoreListener,Thread-118] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:47:32,811 3555503,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:47:32,852 3555544,firstone.core.ccs.CoreListener,Thread-119] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:47:32,854 3555546,firstone.core.ccs.CoreListener,Thread-120] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:47:48,433 3571125,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-09 06:47:48,448 3571140,firstone.core.ccs.CoreListener,Thread-121] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:47:52,121 3574813,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Juan Milton Chambi Mendoza
+[INFO ,2014-06-09 06:47:52,161 3574853,firstone.core.ccs.CoreListener,Thread-122] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:47:52,164 3574856,firstone.core.ccs.CoreListener,Thread-123] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 06:48:21,754 3604446,firstone.core.ccs.CoreListener,Thread-114] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:48:21,755 3604447,firstone.core.ccs.CoreListener,Thread-114] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 06:54:59,384 4002076,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 06:54:59,384 4002076,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 06:55:36,809 4039501,firstone.core.ccs.CoreListener,Thread-126] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:55:52,587 4055279,firstone.core.ccs.CoreListener,Thread-127] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-09 06:57:02,621 4125313,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-09 06:57:02,662 4125354,firstone.core.ccs.CoreListener,Thread-128] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 06:57:02,663 4125355,firstone.core.ccs.CoreListener,Thread-129] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 06:57:29,183 4151875,firstone.core.ccs.CoreListener,Thread-125] Conexion desconectada para : 123456
+[INFO ,2014-06-09 06:57:29,183 4151875,firstone.core.ccs.CoreListener,Thread-125] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 07:00:58,571 4361263,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 07:00:58,571 4361263,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 07:01:02,153 4364845,firstone.core.ccs.CoreListener,Thread-132] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-09 07:01:20,612 4383304,firstone.core.ccs.CoreListener,Thread-131] Conexion desconectada para : 123456
+[INFO ,2014-06-09 07:01:20,612 4383304,firstone.core.ccs.CoreListener,Thread-131] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 07:04:22,769 4565461,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 07:04:22,769 4565461,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 07:04:24,896 4567588,firstone.core.ccs.CoreListener,Thread-135] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 07:04:28,178 4570870,firstone.core.ccs.CoreListener,Thread-136] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 07:04:59,344 4602036,firstone.core.ccs.CoreListener,Thread-134] Conexion desconectada para : 123456
+[INFO ,2014-06-09 07:04:59,344 4602036,firstone.core.ccs.CoreListener,Thread-134] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 07:05:36,539 4639231,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 07:05:36,539 4639231,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 07:05:38,381 4641073,firstone.core.ccs.CoreListener,Thread-139] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-09 07:05:49,856 4652548,firstone.core.ccs.CoreListener,Thread-138] Conexion desconectada para : 123456
+[INFO ,2014-06-09 07:05:49,856 4652548,firstone.core.ccs.CoreListener,Thread-138] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-09 07:07:19,901 4742593,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-09 07:07:19,901 4742593,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-09 07:07:21,674 4744366,firstone.core.ccs.CoreListener,Thread-143] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-09 07:07:31,873 4754565,firstone.core.ccs.CoreListener,Thread-144] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-09 07:07:44,746 4767438,firstone.core.ccs.CoreListener,Thread-142] Conexion desconectada para : 123456
+[INFO ,2014-06-09 07:07:44,747 4767439,firstone.core.ccs.CoreListener,Thread-142] Guardia desconectado :: CI :123456

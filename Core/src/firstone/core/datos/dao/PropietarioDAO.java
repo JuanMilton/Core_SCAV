@@ -5,16 +5,25 @@
  */
 package firstone.core.datos.dao;
 
-import firstone.serializable.Guardia;
 import firstone.core.datos.conexion.ServiceProvider;
 import firstone.serializable.Propietario;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.UnsupportedEncodingException;
+import java.sql.CallableStatement;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Types;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Level;
 import org.apache.log4j.Logger;
+import org.apache.log4j.xml.DOMConfigurator;
+import org.postgresql.core.Encoding;
+import org.postgresql.largeobject.LargeObject;
+import org.postgresql.largeobject.LargeObjectManager;
 
 /**
  *
@@ -80,7 +89,7 @@ public class PropietarioDAO {
         return guardias;
     }
     
-    public synchronized firstone.serializable.Propietario getPropietarioCI(String ci) {
+    public static synchronized firstone.serializable.Propietario getPropietarioCI(String ci) {
 //        log.info("obtener Visita :: CI :" + ci);
         Connection con = null;
         PreparedStatement st = null;
@@ -90,10 +99,13 @@ public class PropietarioDAO {
 
         try {
             con = ServiceProvider.openConnection();
-
+            con.setAutoCommit(false);
+            
             String sql = "SELECT * FROM propietario WHERE ci = ?";
             st = con.prepareStatement(sql);
-
+            
+            LargeObjectManager lobj = ((org.postgresql.PGConnection)con).getLargeObjectAPI();
+            
             if (st != null) {
                 st.setString(1, ci);
                 rs = st.executeQuery();
@@ -110,7 +122,7 @@ public class PropietarioDAO {
 
         } catch (SQLException e) {
             log.error("Error al consultar a la base de datos", e);
-        } finally {
+        }  finally {
             try {
                 if (rs != null) {
                     rs.close();
@@ -196,42 +208,78 @@ public class PropietarioDAO {
         return propietario;
     }
 
-//    public synchronized void insert(Visita visita) {
-//        log.info("Guardar visita :: CI " + visita.getCi());
-//        Connection con = null;
-//        PreparedStatement st = null;
-//
-//        try {
-//            con = ServiceProvider.openConnection();
-//
-//            String sql = "INSERT INTO visita(ci,nombres,apellidos) VALUES(?,?,?)";
-//
-//            st = con.prepareStatement(sql);
+    public static void main(String[] args) throws Exception {
+        DOMConfigurator.configure("etc" + File.separator + "log4j.xml");
+        
+        Connection con = null;
+        PreparedStatement st = null;
+        ResultSet rs = null;
+
+
+        try {
+            con = ServiceProvider.openConnection();
+            con.setAutoCommit(false);
+            
+            st = con.prepareStatement("SELECT foto FROM propietario WHERE ci='4920550';");    
+            
+            rs = st.executeQuery();
+            
+            rs.next();
+            System.out.println("" + rs.getBytes("foto").length);
+            
+            
+            
+            
+//            LargeObjectManager lobj = ((org.postgresql.PGConnection)con).getLargeObjectAPI();
+            
 //            if (st != null) {
-//                st.setString(1, visita.getCi());
-//                st.setString(2, visita.getNombres());
-//                st.setString(3, visita.getApellidos());
-//                
-//                st.execute();
-//            }
-//        } catch (SQLException e) {
-//            log.error("Error al realizar la insercion en la base de datos", e);
-//        } finally {
-//            try {
-//                if (st != null) {
-//                    st.close();
-//                }
-//            } catch (SQLException e) {
-//                log.error("Error al cerrar el Statement", e);
-//            }
+//                rs = st.executeQuery();
 //
-//            try {
-//                if (con != null) {
-//                    con.close();
+//                if (rs.next()) {
+//                    
+//                    
+//                    
+//                    System.out.println("HOLA MUNDOs");
+//                    
+//                    int oid = lobj.create(LargeObjectManager.READ);
+//                    LargeObject obj = lobj.open(oid, LargeObjectManager.READ);
+//                    System.out.println("HOLA MUNDO"+   obj.size());
+//                    
+////                    propietario.setFoto(vec);
+//                    System.out.println("HI2");
+//                    
+//                    
+//                    
 //                }
-//            } catch (SQLException e) {
-//                log.error("Error al cerrar la conexion a la base de datos", e);
 //            }
-//        }
-//    }
+
+        } catch (SQLException e) {
+            log.error("Error al consultar a la base de datos", e);
+        }  finally {
+            try {
+                if (rs != null) {
+                    rs.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el ResultSet", e);
+            }
+
+            try {
+                if (st != null) {
+                    st.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar el Statement", e);
+            }
+
+            try {
+                if (con != null) {
+                    con.close();
+                }
+            } catch (SQLException e) {
+                log.error("Error al cerrar la conexion a la base de datos", e);
+            }
+        }
+    }
+    
 }

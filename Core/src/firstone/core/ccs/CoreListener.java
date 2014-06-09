@@ -11,7 +11,10 @@ import firstone.core.negocio.AdministradorNegocio;
 import firstone.core.negocio.GuardiaNegocio;
 import firstone.core.negocio.IngresoSalidaNegocio;
 import firstone.core.negocio.PropietarioNegocio;
+import firstone.core.negocio.SchedulerEvent;
+import firstone.core.negocio.SchedulerNegocio;
 import firstone.core.negocio.SynchronizerNegocio;
+import firstone.core.negocio.Task;
 import firstone.core.negocio.TrancaNegocio;
 import firstone.core.util.Parametros;
 import firstone.serializable.Alarma;
@@ -26,8 +29,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -38,7 +39,7 @@ import java.util.logging.Logger;
  *
  * @author Milton
  */
-public class CoreListener implements EventCore {
+public class CoreListener implements EventCore, SchedulerEvent {
 
     private static final org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(CoreListener.class);
 
@@ -53,6 +54,7 @@ public class CoreListener implements EventCore {
     private TrancaNegocio trancaNegocio;
     private SynchronizerNegocio synchronizerNegocio;
     private IngresoSalidaNegocio isNegocio;
+    private SchedulerNegocio sn;
     
     public CoreListener() {
         core = new Core(PORT_CORE);
@@ -62,6 +64,8 @@ public class CoreListener implements EventCore {
         trancaNegocio = new TrancaNegocio();
         synchronizerNegocio = new SynchronizerNegocio();
         isNegocio = new IngresoSalidaNegocio();
+        sn = new SchedulerNegocio(this);
+        sn.start();
         
         conectados = new HashMap<String, Object>();
         keys = guardiaNegocio.obtenerTodosGuardias();
@@ -274,11 +278,14 @@ public class CoreListener implements EventCore {
     {
         boolean licencia = administradorNegocio.getLicencia(con.getId_entorno());
         
-        Contrato contrato = new Contrato();
-        contrato.setAccion(Accion.LICENCIA_INACTIVA);
-        contrato.setContenido(null);
-        contrato.setId_entorno(con.getId_entorno());
-        core.sendPackage(key, ObjectUtil.createBytes(contrato));
+        if (!licencia)
+        {
+            Contrato contrato = new Contrato();
+            contrato.setAccion(Accion.LICENCIA_INACTIVA);
+            contrato.setContenido(null);
+            contrato.setId_entorno(con.getId_entorno());
+            core.sendPackage(key, ObjectUtil.createBytes(contrato));
+        }
         
         return licencia;
     }
@@ -325,24 +332,22 @@ public class CoreListener implements EventCore {
     public void onNewPackageComplet(byte[] data, String key) {
         Object o = ObjectUtil.createObject(data);
         Contrato contrato = (Contrato)o;
-        if (! verificarLicencia(contrato, key))
+        if (contrato.getId_entorno()>0 && ! verificarLicencia(contrato, key))
             return;
+        Task task = new Task();
+        task.setContrato(contrato);
+        task.setKey(key);
         switch (contrato.getAccion())
         {
-            case Accion.AUTENTICAR_ADMINISTRADOR    : autenticarAdministrador(contrato.getContenido(),key); break;
-            case Accion.AVISO                       : llegoUnAviso(contrato,key); break;
-            case Accion.ALARMA                      : llegoUnaAlarma(contrato,key); break;
-            case Accion.UPDATE                      : paqueteUpSincronizacion(contrato,key); break;
-            case Accion.DOWNLOAD                    :try {
-                                                        String cad = new String(contrato.getContenido(),"UTF-8");
-                                                        solicitudSincronizacion(Long.parseLong(cad.split(",")[0]), Integer.parseInt(cad.split(",")[1]), key);
-                                                    } catch (UnsupportedEncodingException ex) {
-                                                        log.error("Error al obtener informacion del contenido");
-                                                    }                                                                       break;
-            case Accion.PROPIETARIO                 : solicitudAutenticacionPropietario(contrato.getContenido(), key); break;
-            case Accion.NOTIFICACION                : llegoNotificacion(contrato.getContenido(),key); break;
-            case Accion.HISTORIALES                 : solicitudHistoriales(key); break;
-            case Accion.DENEGAR_INGRESO_SALIDA      : denegarIngresoSalida(contrato);
+            case Accion.AUTENTICAR_ADMINISTRADOR    : sn.addMediumPriorityTask(task); break;
+            case Accion.AVISO                       : sn.addHighPriorityTask(task); break;
+            case Accion.ALARMA                      : sn.addHighPriorityTask(task); break;
+            case Accion.UPDATE                      : sn.addLowPriorityTask(task); break;
+            case Accion.DOWNLOAD                    : sn.addLowPriorityTask(task); break;
+            case Accion.PROPIETARIO                 : sn.addMediumPriorityTask(task); break;
+            case Accion.NOTIFICACION                : sn.addHighPriorityTask(task); break;
+            case Accion.HISTORIALES                 : sn.addMediumPriorityTask(task); break;
+            case Accion.DENEGAR_INGRESO_SALIDA      : sn.addHighPriorityTask(task); break;
         }
     }
 
@@ -364,5 +369,29 @@ public class CoreListener implements EventCore {
     @Override
     public void onSendClient(String key) {
         log.info("Se ha enviado informacion al cliente con el CI :" + key);
+    }
+
+    
+    
+    ///SCHEDULER
+    @Override
+    public void doTask(Contrato contrato, String key) {
+        switch (contrato.getAccion())
+        {
+            case Accion.AUTENTICAR_ADMINISTRADOR    : autenticarAdministrador(contrato.getContenido(),key); break;
+            case Accion.AVISO                       : llegoUnAviso(contrato,key); break;
+            case Accion.ALARMA                      : llegoUnaAlarma(contrato,key); break;
+            case Accion.UPDATE                      : paqueteUpSincronizacion(contrato,key); break;
+            case Accion.DOWNLOAD                    :try {
+                                                        String cad = new String(contrato.getContenido(),"UTF-8");
+                                                        solicitudSincronizacion(Long.parseLong(cad.split(",")[0]), Integer.parseInt(cad.split(",")[1]), key);
+                                                    } catch (UnsupportedEncodingException ex) {
+                                                        log.error("Error al obtener informacion del contenido");
+                                                    }                                                                       break;
+            case Accion.PROPIETARIO                 : solicitudAutenticacionPropietario(contrato.getContenido(), key); break;
+            case Accion.NOTIFICACION                : llegoNotificacion(contrato.getContenido(),key); break;
+            case Accion.HISTORIALES                 : solicitudHistoriales(key); break;
+            case Accion.DENEGAR_INGRESO_SALIDA      : denegarIngresoSalida(contrato);
+        }
     }
 }
