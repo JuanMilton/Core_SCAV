@@ -4028,3 +4028,1348 @@ Caused by: java.net.ConnectException: Connection timed out: connect
 [INFO ,2014-06-09 07:07:31,873 4754565,firstone.core.ccs.CoreListener,Thread-144] Se ha enviado informacion al cliente con el CI :123456
 [DEBUG,2014-06-09 07:07:44,746 4767438,firstone.core.ccs.CoreListener,Thread-142] Conexion desconectada para : 123456
 [INFO ,2014-06-09 07:07:44,747 4767439,firstone.core.ccs.CoreListener,Thread-142] Guardia desconectado :: CI :123456
+[INFO ,2014-06-10 13:04:14,748 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-10 13:04:20,135 5387,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-10 13:04:20,620 5872,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-10 13:04:20,622 5874,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 13:06:35,122 140374,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-10 13:06:35,124 140376,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-10 13:08:29,861 255113,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-10 13:08:29,862 255114,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-10 13:08:37,117 262369,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-10 13:08:37,158 262410,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 13:08:37,159 262411,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-10 13:09:11,090 296342,firstone.core.ccs.CoreListener,Thread-0] Alarma AMARILLA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-10 13:09:11,126 296378,firstone.core.ccs.CoreListener,Thread-11] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 13:09:11,129 296381,firstone.core.ccs.CoreListener,Thread-12] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-10 13:09:38,291 323543,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-10 13:09:38,294 323546,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 13:10:33,510 378762,firstone.core.ccs.CoreListener,Thread-0] Aviso para todos los propietarios ::: MENSAJE :No se debe comer
+mientras están 
+trabajando
+[INFO ,2014-06-10 13:10:33,543 378795,firstone.core.ccs.CoreListener,Thread-14] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-10 13:10:50,321 395573,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 123456
+[INFO ,2014-06-10 13:10:50,322 395574,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :123456
+[INFO ,2014-06-10 20:11:47,032 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-10 20:13:09,625 82593,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-10 20:13:09,625 82593,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-10 20:13:18,040 91008,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-10 20:13:18,040 91008,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[INFO ,2014-06-10 20:15:50,546 243514,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :975983-1
+[DEBUG,2014-06-10 20:15:52,905 245873,firstone.core.ccs.CoreListener,Thread-6] Conexion desconectada para : 975983-1
+[DEBUG,2014-06-10 20:32:59,639 1272607,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-10 20:32:59,639 1272607,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-10 20:33:13,942 1286910,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 123456
+[INFO ,2014-06-10 20:33:13,942 1286910,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-10 20:34:25,761 1358729,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-10 20:34:25,761 1358729,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-10 20:34:40,080 1373048,firstone.core.ccs.CoreListener,Thread-10] Conexion desconectada para : 123456
+[INFO ,2014-06-10 20:34:40,080 1373048,firstone.core.ccs.CoreListener,Thread-10] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-10 20:36:19,807 1472775,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-10 20:36:19,807 1472775,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-10 20:36:33,112 1486080,firstone.core.ccs.CoreListener,Thread-12] Conexion desconectada para : 123456
+[INFO ,2014-06-10 20:36:33,112 1486080,firstone.core.ccs.CoreListener,Thread-12] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-10 20:37:45,349 1558317,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-10 20:37:45,349 1558317,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-10 20:38:09,613 1582581,firstone.core.ccs.CoreListener,Thread-14] Conexion desconectada para : 123456
+[INFO ,2014-06-10 20:38:09,613 1582581,firstone.core.ccs.CoreListener,Thread-14] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-10 20:39:56,509 1689477,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-10 20:39:56,510 1689478,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-10 20:40:07,207 1700175,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :87493-1
+[INFO ,2014-06-10 20:40:11,725 1704693,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :87493-1
+[INFO ,2014-06-10 20:40:11,727 1704695,firstone.core.ccs.CoreListener,Thread-19] Se ha enviado informacion al cliente con el CI :87493-1
+[DEBUG,2014-06-10 20:40:12,502 1705470,firstone.core.ccs.CoreListener,Thread-18] Conexion desconectada para : 87493-1
+[INFO ,2014-06-10 20:41:05,520 1758488,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :232456-1
+[INFO ,2014-06-10 20:41:09,866 1762834,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :232456-1
+[INFO ,2014-06-10 20:41:09,867 1762835,firstone.core.ccs.CoreListener,Thread-22] Se ha enviado informacion al cliente con el CI :232456-1
+[DEBUG,2014-06-10 20:41:10,393 1763361,firstone.core.ccs.CoreListener,Thread-21] Conexion desconectada para : 232456-1
+[INFO ,2014-06-10 20:43:27,915 1900883,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :485796-1
+[INFO ,2014-06-10 20:43:37,328 1910296,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :485796-1
+[INFO ,2014-06-10 20:43:37,329 1910297,firstone.core.ccs.CoreListener,Thread-25] Se ha enviado informacion al cliente con el CI :485796-1
+[DEBUG,2014-06-10 20:43:37,944 1910912,firstone.core.ccs.CoreListener,Thread-24] Conexion desconectada para : 485796-1
+[INFO ,2014-06-10 20:45:35,322 2028290,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-10 20:45:35,835 2028803,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-10 20:45:35,836 2028804,firstone.core.ccs.CoreListener,Thread-28] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 20:48:35,813 2208781,firstone.core.ccs.CoreListener,Thread-0] Aviso para todos los propietarios ::: MENSAJE :ppp
+[INFO ,2014-06-10 20:48:35,846 2208814,firstone.core.ccs.CoreListener,Thread-29] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 20:52:30,821 2443789,firstone.core.ccs.CoreListener,Thread-30] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 20:52:35,876 2448844,firstone.core.ccs.CoreListener,Thread-31] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-10 20:53:19,651 2492619,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-10 20:53:19,654 2492622,firstone.core.ccs.CoreListener,Thread-32] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 20:53:41,109 2514077,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-10 20:53:41,111 2514079,firstone.core.ccs.CoreListener,Thread-33] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 20:53:43,334 2516302,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-10 20:53:43,339 2516307,firstone.core.ccs.CoreListener,Thread-34] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 20:53:45,107 2518075,firstone.core.ccs.CoreListener,Thread-0] Se envio 5 historiales
+[INFO ,2014-06-10 20:53:45,110 2518078,firstone.core.ccs.CoreListener,Thread-35] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 20:53:49,813 2522781,firstone.core.ccs.CoreListener,Thread-36] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-10 20:53:58,252 2531220,firstone.core.ccs.CoreListener,Thread-37] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-10 20:55:09,982 2602950,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-10 20:55:10,142 2603110,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,181 2603149,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,211 2603179,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-10 20:55:10,247 2603215,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,267 2603235,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,288 2603256,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-10 20:55:10,309 2603277,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-10 20:55:10,328 2603296,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-10 20:55:10,349 2603317,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,369 2603337,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,392 2603360,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,411 2603379,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,435 2603403,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,455 2603423,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,479 2603447,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-10 20:55:10,500 2603468,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,520 2603488,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-10 20:55:10,539 2603507,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-10 20:55:10,558 2603526,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-10 20:55:10,577 2603545,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,596 2603564,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-10 20:55:10,617 2603585,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Aviso
+[INFO ,2014-06-10 20:55:10,636 2603604,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Aviso
+[INFO ,2014-06-10 20:55:10,664 2603632,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 06:19:48 BOT 2014
+[INFO ,2014-06-10 20:55:10,726 2603694,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 06:55:48 BOT 2014
+[INFO ,2014-06-10 20:55:10,746 2603714,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 06:55:53 BOT 2014
+[INFO ,2014-06-10 20:55:10,767 2603735,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 07:01:14 BOT 2014
+[INFO ,2014-06-10 20:55:10,786 2603754,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 07:04:29 BOT 2014
+[INFO ,2014-06-10 20:55:10,806 2603774,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 07:05:50 BOT 2014
+[INFO ,2014-06-10 20:55:10,826 2603794,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Mon Jun 09 07:07:32 BOT 2014
+[INFO ,2014-06-10 20:55:10,847 2603815,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 09:13:45 BOT 2014
+[INFO ,2014-06-10 20:55:10,867 2603835,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 09:21:42 BOT 2014
+[INFO ,2014-06-10 20:55:10,892 2603860,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 09:22:15 BOT 2014
+[INFO ,2014-06-10 20:55:10,914 2603882,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 09:25:39 BOT 2014
+[INFO ,2014-06-10 20:55:10,933 2603901,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 09:25:46 BOT 2014
+[INFO ,2014-06-10 20:55:10,952 2603920,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 09:33:31 BOT 2014
+[INFO ,2014-06-10 20:55:10,971 2603939,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 09:42:54 BOT 2014
+[INFO ,2014-06-10 20:55:10,990 2603958,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 09:46:48 BOT 2014
+[INFO ,2014-06-10 20:55:11,009 2603977,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 09:47:25 BOT 2014
+[INFO ,2014-06-10 20:55:11,028 2603996,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 20:38:04 BOT 2014
+[INFO ,2014-06-10 20:55:11,049 2604017,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 20:40:10 BOT 2014
+[INFO ,2014-06-10 20:55:11,068 2604036,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 20:52:36 BOT 2014
+[INFO ,2014-06-10 20:55:11,090 2604058,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 20:53:58 BOT 2014
+[INFO ,2014-06-10 20:55:11,231 2604199,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-10 20:55:11,236 2604204,firstone.core.ccs.CoreListener,Thread-38] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-10 20:55:11,286 2604254,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-10 20:55:11,289 2604257,firstone.core.ccs.CoreListener,Thread-39] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-10 20:57:29,069 2742037,firstone.core.datos.dao.VehiculoVisitaDAO,Thread-0] Guardar VehiculoVisita :: PLACA :5432ABC
+[INFO ,2014-06-10 20:57:29,149 2742117,firstone.core.datos.dao.VisitaDAO,Thread-0] Guardar visita :: CI 987654
+[INFO ,2014-06-10 20:57:29,242 2742210,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] verificar Relacion :: CI :987654 :: PLACA :5432ABC
+[INFO ,2014-06-10 20:57:29,285 2742253,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] Guardar Relacion Vehiculo - Visita :: CI :987654 :: PLACA :5432ABC
+[INFO ,2014-06-10 20:57:29,375 2742343,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Registro de Visita
+[INFO ,2014-06-10 20:57:29,397 2742365,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-0] Guardar IngresoSalida de Visita :: PLACA :5432ABC :: TIPO :INGRESO :: FECHA_HORA :Tue Jun 10 20:57:20 BOT 2014
+[INFO ,2014-06-10 20:57:29,459 2742427,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 11
+[INFO ,2014-06-10 20:57:29,460 2742428,firstone.core.ccs.CoreListener,Thread-40] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-10 20:57:29,523 2742491,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 3 :: objetos
+[INFO ,2014-06-10 20:57:29,524 2742492,firstone.core.ccs.CoreListener,Thread-41] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-10 20:58:29,262 2802230,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-10 20:58:29,262 2802230,firstone.core.ccs.CoreListener,Thread-42] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-10 20:58:29,282 2802250,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-10 20:58:29,283 2802251,firstone.core.ccs.CoreListener,Thread-43] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-10 21:02:13,222 3026190,firstone.core.ccs.CoreListener,Thread-16] Conexion desconectada para : 123456
+[INFO ,2014-06-10 21:02:13,223 3026191,firstone.core.ccs.CoreListener,Thread-16] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-10 21:08:24,715 3397683,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-10 21:08:24,715 3397683,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-10 21:08:27,922 3400890,firstone.core.ccs.CoreListener,Thread-45] Conexion desconectada para : 123456
+[INFO ,2014-06-10 21:08:27,923 3400891,firstone.core.ccs.CoreListener,Thread-45] Guardia desconectado :: CI :123456
+[INFO ,2014-06-12 14:40:34,567 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[INFO ,2014-06-12 14:40:59,760 25193,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :523316-1
+[DEBUG,2014-06-12 14:41:07,970 33403,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 523316-1
+[INFO ,2014-06-12 14:44:37,934 243367,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :844410-1
+[DEBUG,2014-06-12 14:44:44,464 249897,firstone.core.ccs.CoreListener,Thread-6] Conexion desconectada para : 844410-1
+[INFO ,2014-06-12 14:47:44,692 430125,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :582948-1
+[INFO ,2014-06-12 14:47:50,467 435900,firstone.core.ccs.CoreListener,Thread-0] Se envio los datos de propietario a :582948-1
+[INFO ,2014-06-12 14:47:50,467 435900,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :582948-1
+[DEBUG,2014-06-12 14:47:51,176 436609,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 582948-1
+[INFO ,2014-06-12 14:47:51,326 436759,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-12 14:47:51,894 437327,firstone.core.ccs.CoreListener,Thread-0] Se envio 20 historiales
+[INFO ,2014-06-12 14:47:51,895 437328,firstone.core.ccs.CoreListener,Thread-12] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-12 14:48:00,459 445892,firstone.core.ccs.CoreListener,Thread-0] Se envio 20 historiales
+[INFO ,2014-06-12 14:48:00,460 445893,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-12 15:01:41,999 1267432,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-12 15:01:41,999 1267432,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-12 15:01:45,865 1271298,firstone.core.ccs.CoreListener,Thread-15] Conexion desconectada para : 123456
+[INFO ,2014-06-12 15:01:45,866 1271299,firstone.core.ccs.CoreListener,Thread-15] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-12 15:02:17,145 1302578,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-12 15:02:17,145 1302578,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-12 15:02:29,322 1314755,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :340558-1
+[DEBUG,2014-06-12 15:02:29,634 1315067,firstone.core.ccs.CoreListener,Thread-19] Conexion desconectada para : 340558-1
+[INFO ,2014-06-12 15:02:29,659 1315092,firstone.core.ccs.CoreListener,Thread-0] Se envio 20 historiales
+[INFO ,2014-06-12 15:02:29,660 1315093,firstone.core.ccs.CoreListener,Thread-20] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-12 15:02:52,298 1337731,firstone.core.ccs.CoreListener,Thread-17] Conexion desconectada para : 123456
+[INFO ,2014-06-12 15:02:52,299 1337732,firstone.core.ccs.CoreListener,Thread-17] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-12 15:02:55,714 1341147,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-12 15:02:55,715 1341148,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-12 15:03:03,514 1348947,firstone.core.ccs.CoreListener,Thread-22] Conexion desconectada para : 123456
+[INFO ,2014-06-12 15:03:03,514 1348947,firstone.core.ccs.CoreListener,Thread-22] Guardia desconectado :: CI :123456
+[INFO ,2014-06-12 15:03:04,689 1350122,firstone.core.ccs.CoreListener,Thread-0] Se envio 20 historiales
+[INFO ,2014-06-12 15:03:04,691 1350124,firstone.core.ccs.CoreListener,Thread-23] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-12 15:03:22,087 1367520,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-12 15:03:22,088 1367521,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-12 15:04:25,022 1430455,firstone.core.ccs.CoreListener,Thread-25] Conexion desconectada para : 123456
+[INFO ,2014-06-12 15:04:25,023 1430456,firstone.core.ccs.CoreListener,Thread-25] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-12 15:04:31,574 1437007,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-12 15:04:31,574 1437007,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-12 15:04:38,386 1443819,firstone.core.ccs.CoreListener,Thread-27] Conexion desconectada para : 123456
+[INFO ,2014-06-12 15:04:38,386 1443819,firstone.core.ccs.CoreListener,Thread-27] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-12 15:04:46,045 1451478,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-12 15:04:46,046 1451479,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-12 15:04:50,098 1455531,firstone.core.ccs.CoreListener,Thread-29] Conexion desconectada para : 123456
+[INFO ,2014-06-12 15:04:50,098 1455531,firstone.core.ccs.CoreListener,Thread-29] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-12 15:06:37,457 1562890,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-12 15:06:37,457 1562890,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-12 15:06:49,689 1575122,firstone.core.ccs.CoreListener,Thread-31] Conexion desconectada para : 123456
+[INFO ,2014-06-12 15:06:49,689 1575122,firstone.core.ccs.CoreListener,Thread-31] Guardia desconectado :: CI :123456
+[INFO ,2014-06-12 15:07:51,914 1637347,firstone.core.ccs.CoreListener,Thread-0] Se envio 20 historiales
+[INFO ,2014-06-12 15:07:51,915 1637348,firstone.core.ccs.CoreListener,Thread-32] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-12 15:33:43,064 3188497,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-12 15:33:43,064 3188497,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-12 15:33:59,249 3204682,firstone.core.ccs.CoreListener,Thread-35] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-12 15:34:05,465 3210898,firstone.core.ccs.CoreListener,Thread-36] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-12 15:34:34,333 3239766,firstone.core.ccs.CoreListener,Thread-37] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-12 15:34:41,177 3246610,firstone.core.ccs.CoreListener,Thread-38] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-12 15:34:55,917 3261350,firstone.core.ccs.CoreListener,Thread-39] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-12 15:35:01,283 3266716,firstone.core.ccs.CoreListener,Thread-40] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-12 15:35:54,423 3319856,firstone.core.ccs.CoreListener,Thread-34] Conexion desconectada para : 123456
+[INFO ,2014-06-12 15:35:54,423 3319856,firstone.core.ccs.CoreListener,Thread-34] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-12 16:05:37,399 5102832,firstone.core.ccs.CoreListener,Thread-11] Conexion desconectada para : 4920550
+[INFO ,2014-06-12 16:05:42,725 5108158,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-12 16:05:42,777 5108210,firstone.core.ccs.CoreListener,Thread-42] Conexion desconectada para : 4920550
+[INFO ,2014-06-12 16:06:03,064 5128497,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[DEBUG,2014-06-12 16:06:03,109 5128542,firstone.core.ccs.CoreListener,Thread-44] Conexion desconectada para : 4920550
+[INFO ,2014-06-13 11:04:03,576 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-13 11:04:09,070 5494,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:04:09,071 5495,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:04:10,807 7231,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 11:04:10,902 7326,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:04:24,367 20791,firstone.core.ccs.CoreListener,Thread-0] Alarma AMARILLA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 11:04:24,413 20837,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:04:37,103 33527,firstone.core.ccs.CoreListener,Thread-0] Alarma AMARILLA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 11:04:37,142 33566,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:04:45,227 41651,firstone.core.ccs.CoreListener,Thread-0] Alarma VERDE ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 11:04:45,246 41670,firstone.core.ccs.CoreListener,Thread-8] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:04:49,153 45577,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 11:04:49,193 45617,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:04:55,831 52255,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:04:55,831 52255,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 11:07:02,644 179068,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:07:02,644 179068,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:07:11,242 187666,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 11:07:11,302 187726,firstone.core.ccs.CoreListener,Thread-12] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:07:46,856 223280,firstone.core.ccs.CoreListener,Thread-0] Alarma AMARILLA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 11:07:46,900 223324,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:07:58,237 234661,firstone.core.ccs.CoreListener,Thread-11] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:07:58,237 234661,firstone.core.ccs.CoreListener,Thread-11] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 11:09:00,789 297213,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:09:00,789 297213,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-13 11:09:19,231 315655,firstone.core.ccs.CoreListener,Thread-15] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:09:19,231 315655,firstone.core.ccs.CoreListener,Thread-15] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 11:09:19,234 315658,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-13 11:09:19,643 316067,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:09:19,683 316107,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[DEBUG,2014-06-13 11:20:52,098 1008522,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:20:52,099 1008523,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:20:53,119 1009543,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 11:20:53,160 1009584,firstone.core.ccs.CoreListener,Thread-20] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:21:05,652 1022076,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[DEBUG,2014-06-13 11:21:05,675 1022099,firstone.core.ccs.CoreListener,Thread-19] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:21:05,675 1022099,firstone.core.ccs.CoreListener,Thread-19] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 11:21:05,725 1022149,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:21:05,745 1022169,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[DEBUG,2014-06-13 11:21:23,991 1040415,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:21:23,992 1040416,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:21:42,294 1058718,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:21:42,294 1058718,firstone.core.ccs.CoreListener,Thread-25] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:21:42,312 1058736,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:21:42,313 1058737,firstone.core.ccs.CoreListener,Thread-26] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:22:04,153 1080577,firstone.core.ccs.CoreListener,Thread-24] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:22:04,154 1080578,firstone.core.ccs.CoreListener,Thread-24] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 11:22:04,176 1080600,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:22:04,199 1080623,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[DEBUG,2014-06-13 11:45:01,457 2457881,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:45:01,458 2457882,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:45:05,676 2462100,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:45:05,678 2462102,firstone.core.ccs.CoreListener,Thread-31] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:45:05,697 2462121,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:45:05,699 2462123,firstone.core.ccs.CoreListener,Thread-32] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:45:05,704 2462128,firstone.core.ccs.CoreListener,Thread-30] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:45:05,704 2462128,firstone.core.ccs.CoreListener,Thread-30] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 11:46:57,567 2573991,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:46:57,567 2573991,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:47:00,522 2576946,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:47:00,522 2576946,firstone.core.ccs.CoreListener,Thread-35] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:47:00,544 2576968,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:47:00,545 2576969,firstone.core.ccs.CoreListener,Thread-36] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:47:00,550 2576974,firstone.core.ccs.CoreListener,Thread-34] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:47:00,550 2576974,firstone.core.ccs.CoreListener,Thread-34] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 11:47:30,920 2607344,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:47:30,921 2607345,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:47:32,931 2609355,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:47:32,934 2609358,firstone.core.ccs.CoreListener,Thread-39] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:47:32,955 2609379,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[DEBUG,2014-06-13 11:47:32,965 2609389,firstone.core.ccs.CoreListener,Thread-38] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:47:32,965 2609389,firstone.core.ccs.CoreListener,Thread-38] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 11:47:32,965 2609389,firstone.core.ccs.CoreListener,Thread-40] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:56:09,776 3126200,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:56:09,776 3126200,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:56:11,847 3128271,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:56:11,847 3128271,firstone.core.ccs.CoreListener,Thread-43] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:56:11,865 3128289,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:56:11,866 3128290,firstone.core.ccs.CoreListener,Thread-44] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:56:11,871 3128295,firstone.core.ccs.CoreListener,Thread-42] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:56:11,871 3128295,firstone.core.ccs.CoreListener,Thread-42] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 11:56:24,676 3141100,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:56:24,676 3141100,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:56:26,611 3143035,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:56:26,611 3143035,firstone.core.ccs.CoreListener,Thread-47] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:56:26,630 3143054,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:56:26,630 3143054,firstone.core.ccs.CoreListener,Thread-48] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:56:26,632 3143056,firstone.core.ccs.CoreListener,Thread-46] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:56:26,632 3143056,firstone.core.ccs.CoreListener,Thread-46] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 11:56:32,910 3149334,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:56:32,910 3149334,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:56:34,342 3150766,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:56:34,342 3150766,firstone.core.ccs.CoreListener,Thread-51] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:56:34,361 3150785,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:56:34,363 3150787,firstone.core.ccs.CoreListener,Thread-52] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:56:34,368 3150792,firstone.core.ccs.CoreListener,Thread-50] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:56:34,369 3150793,firstone.core.ccs.CoreListener,Thread-50] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 11:56:35,403 3151827,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:56:35,404 3151828,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:56:37,877 3154301,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:56:37,877 3154301,firstone.core.ccs.CoreListener,Thread-55] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:56:37,897 3154321,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:56:37,898 3154322,firstone.core.ccs.CoreListener,Thread-56] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:56:37,900 3154324,firstone.core.ccs.CoreListener,Thread-54] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:56:37,900 3154324,firstone.core.ccs.CoreListener,Thread-54] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 11:56:39,300 3155724,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:56:39,300 3155724,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:56:42,038 3158462,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:56:42,038 3158462,firstone.core.ccs.CoreListener,Thread-59] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:56:42,056 3158480,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:56:42,056 3158480,firstone.core.ccs.CoreListener,Thread-60] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:56:42,058 3158482,firstone.core.ccs.CoreListener,Thread-58] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:56:42,058 3158482,firstone.core.ccs.CoreListener,Thread-58] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 11:56:43,236 3159660,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:56:43,236 3159660,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:56:44,657 3161081,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:56:44,657 3161081,firstone.core.ccs.CoreListener,Thread-63] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:56:44,679 3161103,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:56:44,679 3161103,firstone.core.ccs.CoreListener,Thread-64] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:56:44,682 3161106,firstone.core.ccs.CoreListener,Thread-62] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:56:44,682 3161106,firstone.core.ccs.CoreListener,Thread-62] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 11:59:12,034 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-13 11:59:16,161 4127,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 11:59:16,162 4128,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 11:59:21,338 9304,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 11:59:21,338 9304,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 11:59:21,359 9325,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 11:59:21,361 9327,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 11:59:21,363 9329,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-13 11:59:21,363 9329,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[ERROR,2014-06-13 12:09:52,122 1,firstone.core.ccs.CoreListener,main] Error al abrir la Session
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:96)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:376)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:175)
+	at java.net.ServerSocket.bind(ServerSocket.java:376)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at com.firstonesoft.core.Core.openSession(Core.java:59)
+	at firstone.core.ccs.CoreListener.iniciar(CoreListener.java:82)
+	at firstone.core.main.Main.main(Main.java:25)
+[DEBUG,2014-06-13 12:10:01,946 649912,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 12:10:01,946 649912,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 12:10:19,645 667611,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 12:10:19,647 667613,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 12:10:19,671 667637,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 12:10:19,675 667641,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 12:10:19,680 667646,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 123456
+[INFO ,2014-06-13 12:10:19,680 667646,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 12:11:05,540 713506,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 12:11:05,540 713506,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 12:11:25,445 733411,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 12:11:25,445 733411,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 12:11:25,474 733440,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 12:11:25,475 733441,firstone.core.ccs.CoreListener,Thread-14] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 12:11:25,483 733449,firstone.core.ccs.CoreListener,Thread-12] Conexion desconectada para : 123456
+[INFO ,2014-06-13 12:11:25,483 733449,firstone.core.ccs.CoreListener,Thread-12] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 16:19:37,027 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-13 16:20:00,422 23395,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 16:20:00,422 23395,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 16:20:44,548 67521,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 16:20:44,585 67558,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 16:26:25,792 408765,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-13 16:26:25,825 408798,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-13 16:26:25,863 408836,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 16:26:25,864 408837,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 16:26:25,883 408856,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 16:26:25,884 408857,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 16:26:25,887 408860,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-13 16:26:25,887 408860,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 16:32:18,646 761619,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :803111-1
+[DEBUG,2014-06-13 16:32:18,828 761801,firstone.core.ccs.CoreListener,Thread-9] Conexion desconectada para : 803111-1
+[INFO ,2014-06-13 16:32:18,872 761845,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :4920550
+[INFO ,2014-06-13 16:32:19,334 762307,firstone.core.ccs.CoreListener,Thread-0] Se envio 20 historiales
+[INFO ,2014-06-13 16:32:19,336 762309,firstone.core.ccs.CoreListener,Thread-12] Se ha enviado informacion al cliente con el CI :4920550
+[DEBUG,2014-06-13 16:32:50,458 793431,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 16:32:50,458 793431,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 16:33:26,499 829472,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 16:33:26,536 829509,firstone.core.ccs.CoreListener,Thread-16] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 16:33:26,538 829511,firstone.core.ccs.CoreListener,Thread-15] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-13 16:41:24,039 1307012,firstone.core.ccs.CoreListener,Thread-17] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-13 16:41:27,630 1310603,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-13 16:41:27,682 1310655,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 16:41:27,682 1310655,firstone.core.ccs.CoreListener,Thread-18] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 16:41:27,701 1310674,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[DEBUG,2014-06-13 16:41:27,703 1310676,firstone.core.ccs.CoreListener,Thread-14] Conexion desconectada para : 123456
+[INFO ,2014-06-13 16:41:27,703 1310676,firstone.core.ccs.CoreListener,Thread-14] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 16:41:27,703 1310676,firstone.core.ccs.CoreListener,Thread-19] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 16:53:39,694 2042667,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 16:53:39,695 2042668,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 16:53:42,354 2045327,firstone.core.ccs.CoreListener,Thread-23] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-13 16:53:48,342 2051315,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 16:53:48,342 2051315,firstone.core.ccs.CoreListener,Thread-24] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 16:53:48,358 2051331,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 16:53:48,359 2051332,firstone.core.ccs.CoreListener,Thread-25] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 16:53:48,361 2051334,firstone.core.ccs.CoreListener,Thread-22] Conexion desconectada para : 123456
+[INFO ,2014-06-13 16:53:48,361 2051334,firstone.core.ccs.CoreListener,Thread-22] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 16:54:01,521 2064494,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 16:54:01,522 2064495,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 16:54:02,448 2065421,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 16:54:02,483 2065456,firstone.core.ccs.CoreListener,Thread-28] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-13 16:54:02,486 2065459,firstone.core.ccs.CoreListener,Thread-29] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 16:54:16,699 2079672,firstone.core.ccs.CoreListener,Thread-30] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-13 16:55:04,010 2126983,firstone.core.ccs.CoreListener,Thread-31] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 17:05:05,082 2728055,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-13 17:05:05,103 2728076,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 16:54:28 BOT 2014
+[INFO ,2014-06-13 17:05:05,206 2728179,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 17:05:05,207 2728180,firstone.core.ccs.CoreListener,Thread-32] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 17:05:05,223 2728196,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 17:05:05,224 2728197,firstone.core.ccs.CoreListener,Thread-33] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 17:05:05,227 2728200,firstone.core.ccs.CoreListener,Thread-27] Conexion desconectada para : 123456
+[INFO ,2014-06-13 17:05:05,227 2728200,firstone.core.ccs.CoreListener,Thread-27] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 17:07:37,789 2880762,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 17:07:37,789 2880762,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 17:07:39,628 2882601,firstone.core.ccs.CoreListener,Thread-36] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-13 17:07:56,430 2899403,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 17:07:51 BOT 2014
+[INFO ,2014-06-13 17:07:56,479 2899452,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 17:07:56,479 2899452,firstone.core.ccs.CoreListener,Thread-37] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 17:07:56,496 2899469,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 17:07:56,497 2899470,firstone.core.ccs.CoreListener,Thread-38] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 17:07:56,499 2899472,firstone.core.ccs.CoreListener,Thread-35] Conexion desconectada para : 123456
+[INFO ,2014-06-13 17:07:56,499 2899472,firstone.core.ccs.CoreListener,Thread-35] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 17:08:18,028 2921001,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 17:08:18,028 2921001,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 17:08:19,912 2922885,firstone.core.ccs.CoreListener,Thread-41] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-13 17:08:41,781 2944754,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 17:08:31 BOT 2014
+[INFO ,2014-06-13 17:08:41,832 2944805,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 17:08:41,833 2944806,firstone.core.ccs.CoreListener,Thread-42] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 17:08:41,848 2944821,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 17:08:41,849 2944822,firstone.core.ccs.CoreListener,Thread-43] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 17:08:41,851 2944824,firstone.core.ccs.CoreListener,Thread-40] Conexion desconectada para : 123456
+[INFO ,2014-06-13 17:08:41,852 2944825,firstone.core.ccs.CoreListener,Thread-40] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 17:15:28,733 3351706,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 17:15:28,733 3351706,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 17:15:53,795 3376768,firstone.core.ccs.CoreListener,Thread-47] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-13 17:16:51,462 3434435,firstone.core.ccs.CoreListener,Thread-0] Alarma AMARILLA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-13 17:16:51,494 3434467,firstone.core.ccs.CoreListener,Thread-48] Se ha enviado informacion al cliente con el CI :4920550
+[INFO ,2014-06-13 17:16:51,495 3434468,firstone.core.ccs.CoreListener,Thread-49] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 17:17:13,739 3456712,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-13 17:17:13,772 3456745,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Dejar pasar Vehiculo
+[INFO ,2014-06-13 17:17:13,789 3456762,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 17:16:05 BOT 2014
+[INFO ,2014-06-13 17:17:13,807 3456780,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 17:16:58 BOT 2014
+[INFO ,2014-06-13 17:17:13,843 3456816,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 17:17:13,845 3456818,firstone.core.ccs.CoreListener,Thread-50] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 17:17:13,864 3456837,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[DEBUG,2014-06-13 17:17:13,866 3456839,firstone.core.ccs.CoreListener,Thread-46] Conexion desconectada para : 123456
+[INFO ,2014-06-13 17:17:13,867 3456840,firstone.core.ccs.CoreListener,Thread-46] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 17:17:13,867 3456840,firstone.core.ccs.CoreListener,Thread-51] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 18:09:05,751 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-13 18:09:12,860 7109,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 18:09:12,860 7109,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 18:17:35,909 510158,firstone.core.datos.dao.VehiculoVisitaDAO,Thread-0] Guardar VehiculoVisita :: PLACA :1234ABC
+[INFO ,2014-06-13 18:17:36,058 510307,firstone.core.datos.dao.VisitaDAO,Thread-0] Guardar visita :: CI 234234
+[INFO ,2014-06-13 18:17:36,114 510363,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] verificar Relacion :: CI :234234 :: PLACA :1234ABC
+[INFO ,2014-06-13 18:17:36,172 510421,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] Guardar Relacion Vehiculo - Visita :: CI :234234 :: PLACA :1234ABC
+[INFO ,2014-06-13 18:17:36,217 510466,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Registro de Visita
+[INFO ,2014-06-13 18:17:36,240 510489,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-0] Guardar IngresoSalida de Visita :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 18:09:39 BOT 2014
+[INFO ,2014-06-13 18:17:36,341 510590,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 14
+[INFO ,2014-06-13 18:17:36,342 510591,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 18:17:36,437 510686,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 3 :: objetos
+[INFO ,2014-06-13 18:17:36,437 510686,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 18:17:36,512 510761,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-13 18:17:36,512 510761,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 18:22:54,816 829065,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 18:22:54,816 829065,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 18:23:03,801 838050,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 17
+[INFO ,2014-06-13 18:23:03,801 838050,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 18:23:03,821 838070,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 18:23:03,824 838073,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 18:23:03,845 838094,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 123456
+[INFO ,2014-06-13 18:23:03,845 838094,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 18:37:05,493 1679742,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 18:37:05,493 1679742,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 18:37:25,733 1699982,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 17
+[INFO ,2014-06-13 18:37:25,734 1699983,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 18:37:25,755 1700004,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 18:37:25,756 1700005,firstone.core.ccs.CoreListener,Thread-14] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 18:37:25,798 1700047,firstone.core.ccs.CoreListener,Thread-12] Conexion desconectada para : 123456
+[INFO ,2014-06-13 18:37:25,799 1700048,firstone.core.ccs.CoreListener,Thread-12] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 18:45:05,739 2159988,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 18:45:05,740 2159989,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 18:46:05,595 2219844,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 18:45:21 BOT 2014
+[INFO ,2014-06-13 18:46:05,649 2219898,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 17
+[INFO ,2014-06-13 18:46:05,650 2219899,firstone.core.ccs.CoreListener,Thread-17] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 18:46:05,669 2219918,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 18:46:05,669 2219918,firstone.core.ccs.CoreListener,Thread-18] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 18:46:05,672 2219921,firstone.core.ccs.CoreListener,Thread-16] Conexion desconectada para : 123456
+[INFO ,2014-06-13 18:46:05,672 2219921,firstone.core.ccs.CoreListener,Thread-16] Guardia desconectado :: CI :123456
+[INFO ,2014-06-13 22:19:28,488 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-13 22:19:33,227 4739,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 22:19:33,227 4739,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 22:19:45,132 16644,firstone.core.ccs.CoreListener,Thread-0] Aviso para todos ::: MENSAJE :HOLA K ASE
+[INFO ,2014-06-13 22:19:45,171 16683,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 22:20:35,713 67225,firstone.core.datos.dao.VehiculoVisitaDAO,Thread-0] Guardar VehiculoVisita :: PLACA :5432BAC
+[INFO ,2014-06-13 22:20:35,773 67285,firstone.core.datos.dao.VisitaDAO,Thread-0] Guardar visita :: CI 8289292
+[INFO ,2014-06-13 22:20:35,813 67325,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] verificar Relacion :: CI :8289292 :: PLACA :5432BAC
+[INFO ,2014-06-13 22:20:35,834 67346,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] Guardar Relacion Vehiculo - Visita :: CI :8289292 :: PLACA :5432BAC
+[INFO ,2014-06-13 22:20:35,874 67386,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Registro de Visita
+[INFO ,2014-06-13 22:20:35,896 67408,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-13 22:20:35,918 67430,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Aviso
+[INFO ,2014-06-13 22:20:35,949 67461,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:43:44 BOT 2014
+[INFO ,2014-06-13 22:20:35,969 67481,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:43:56 BOT 2014
+[INFO ,2014-06-13 22:20:35,989 67501,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:44:05 BOT 2014
+[INFO ,2014-06-13 22:20:36,008 67520,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:44:06 BOT 2014
+[INFO ,2014-06-13 22:20:36,028 67540,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:44:10 BOT 2014
+[INFO ,2014-06-13 22:20:36,048 67560,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:46:09 BOT 2014
+[INFO ,2014-06-13 22:20:36,068 67580,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:49:36 BOT 2014
+[INFO ,2014-06-13 22:20:36,088 67600,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:49:50 BOT 2014
+[INFO ,2014-06-13 22:20:36,108 67620,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:53:57 BOT 2014
+[INFO ,2014-06-13 22:20:36,129 67641,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:54:06 BOT 2014
+[INFO ,2014-06-13 22:20:36,153 67665,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:57:13 BOT 2014
+[INFO ,2014-06-13 22:20:36,173 67685,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 20:57:32 BOT 2014
+[INFO ,2014-06-13 22:20:36,194 67706,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 21:01:00 BOT 2014
+[INFO ,2014-06-13 22:20:36,214 67726,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 21:05:32 BOT 2014
+[INFO ,2014-06-13 22:20:36,236 67748,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 21:07:16 BOT 2014
+[INFO ,2014-06-13 22:20:36,255 67767,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 21:07:19 BOT 2014
+[INFO ,2014-06-13 22:20:36,279 67791,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 21:21:16 BOT 2014
+[INFO ,2014-06-13 22:20:36,299 67811,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 21:22:59 BOT 2014
+[INFO ,2014-06-13 22:20:36,321 67833,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 21:46:35 BOT 2014
+[INFO ,2014-06-13 22:20:36,343 67855,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 22:09:09 BOT 2014
+[INFO ,2014-06-13 22:20:36,367 67879,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-0] Guardar IngresoSalida de Visita :: PLACA :5432BAC :: TIPO :INGRESO :: FECHA_HORA :Fri Jun 13 21:20:57 BOT 2014
+[INFO ,2014-06-13 22:20:36,410 67922,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 17
+[INFO ,2014-06-13 22:20:36,412 67924,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 22:20:36,473 67985,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 3 :: objetos
+[INFO ,2014-06-13 22:20:36,474 67986,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 22:20:36,567 68079,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-13 22:20:36,567 68079,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-13 22:34:03,912 875424,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-13 22:34:03,912 875424,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-13 22:34:07,216 878728,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-13 22:34:07,217 878729,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-13 22:34:07,237 878749,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-13 22:34:07,240 878752,firstone.core.ccs.CoreListener,Thread-11] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-13 22:34:07,241 878753,firstone.core.ccs.CoreListener,Thread-9] Conexion desconectada para : 123456
+[INFO ,2014-06-13 22:34:07,241 878753,firstone.core.ccs.CoreListener,Thread-9] Guardia desconectado :: CI :123456
+[INFO ,2014-06-14 08:36:59,183 0,firstone.core.ccs.CoreListener,main] Session iniciada el Core :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-14 08:43:51,944 412761,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:43:51,944 412761,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:44:37,394 458211,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-14 08:44:37,435 458252,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:46:00,196 541013,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-14 08:46:00,255 541072,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:46:00,256 541073,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:46:00,281 541098,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:46:00,282 541099,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:46:00,284 541101,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:46:00,286 541103,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:46:25,709 566526,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:46:25,709 566526,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:46:30,948 571765,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:46:30,951 571768,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:46:30,975 571792,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:46:30,977 571794,firstone.core.ccs.CoreListener,Thread-11] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:46:30,981 571798,firstone.core.ccs.CoreListener,Thread-9] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:46:30,981 571798,firstone.core.ccs.CoreListener,Thread-9] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:47:31,269 632086,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:47:31,269 632086,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:47:33,087 633904,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:47:33,087 633904,firstone.core.ccs.CoreListener,Thread-14] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:47:33,108 633925,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:47:33,109 633926,firstone.core.ccs.CoreListener,Thread-15] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:47:33,188 634005,firstone.core.ccs.CoreListener,Thread-13] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:47:33,190 634007,firstone.core.ccs.CoreListener,Thread-13] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:47:37,152 637969,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:47:37,152 637969,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:47:39,729 640546,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:47:39,729 640546,firstone.core.ccs.CoreListener,Thread-18] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:47:39,749 640566,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:47:39,749 640566,firstone.core.ccs.CoreListener,Thread-19] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:47:39,814 640631,firstone.core.ccs.CoreListener,Thread-17] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:47:39,814 640631,firstone.core.ccs.CoreListener,Thread-17] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:50:27,905 808722,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:50:27,906 808723,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:50:56,881 837698,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:50:56,881 837698,firstone.core.ccs.CoreListener,Thread-22] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:50:56,902 837719,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:50:56,903 837720,firstone.core.ccs.CoreListener,Thread-23] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:50:57,027 837844,firstone.core.ccs.CoreListener,Thread-21] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:50:57,028 837845,firstone.core.ccs.CoreListener,Thread-21] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:51:21,324 862141,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:51:21,324 862141,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:51:24,535 865352,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:51:24,535 865352,firstone.core.ccs.CoreListener,Thread-26] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:51:24,556 865373,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:51:24,557 865374,firstone.core.ccs.CoreListener,Thread-27] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:51:24,630 865447,firstone.core.ccs.CoreListener,Thread-25] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:51:24,632 865449,firstone.core.ccs.CoreListener,Thread-25] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:51:55,064 895881,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:51:55,064 895881,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:52:39,511 940328,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:52:39,512 940329,firstone.core.ccs.CoreListener,Thread-30] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:52:39,547 940364,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:52:39,549 940366,firstone.core.ccs.CoreListener,Thread-31] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:52:39,628 940445,firstone.core.ccs.CoreListener,Thread-29] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:52:39,628 940445,firstone.core.ccs.CoreListener,Thread-29] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:52:53,314 954131,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:52:53,314 954131,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:53:14,401 975218,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:53:14,402 975219,firstone.core.ccs.CoreListener,Thread-34] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:53:14,421 975238,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:53:14,422 975239,firstone.core.ccs.CoreListener,Thread-35] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:53:14,506 975323,firstone.core.ccs.CoreListener,Thread-33] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:53:14,507 975324,firstone.core.ccs.CoreListener,Thread-33] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:53:15,938 976755,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:53:15,939 976756,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:53:39,881 1000698,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:53:39,883 1000700,firstone.core.ccs.CoreListener,Thread-38] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:53:39,907 1000724,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:53:39,908 1000725,firstone.core.ccs.CoreListener,Thread-39] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:53:39,990 1000807,firstone.core.ccs.CoreListener,Thread-37] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:53:39,990 1000807,firstone.core.ccs.CoreListener,Thread-37] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:54:31,161 1051978,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:54:31,162 1051979,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:54:48,767 1069584,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:54:48,770 1069587,firstone.core.ccs.CoreListener,Thread-42] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:54:48,799 1069616,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:54:48,835 1069652,firstone.core.ccs.CoreListener,Thread-43] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:54:48,906 1069723,firstone.core.ccs.CoreListener,Thread-41] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:54:48,906 1069723,firstone.core.ccs.CoreListener,Thread-41] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:54:56,655 1077472,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:54:56,656 1077473,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:55:16,160 1096977,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 08:55:12 BOT 2014
+[INFO ,2014-06-14 08:55:16,219 1097036,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:55:16,222 1097039,firstone.core.ccs.CoreListener,Thread-46] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:55:16,248 1097065,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:55:16,249 1097066,firstone.core.ccs.CoreListener,Thread-47] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:55:16,333 1097150,firstone.core.ccs.CoreListener,Thread-45] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:55:16,333 1097150,firstone.core.ccs.CoreListener,Thread-45] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:55:43,383 1124200,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:55:43,383 1124200,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:55:50,047 1130864,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:55:50,047 1130864,firstone.core.ccs.CoreListener,Thread-50] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:55:50,071 1130888,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:55:50,072 1130889,firstone.core.ccs.CoreListener,Thread-51] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:55:50,199 1131016,firstone.core.ccs.CoreListener,Thread-49] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:55:50,199 1131016,firstone.core.ccs.CoreListener,Thread-49] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:57:49,677 1250494,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:57:49,678 1250495,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:58:22,490 1283307,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 08:58:22 BOT 2014
+[INFO ,2014-06-14 08:58:22,574 1283391,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:58:22,575 1283392,firstone.core.ccs.CoreListener,Thread-54] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:58:22,594 1283411,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:58:22,595 1283412,firstone.core.ccs.CoreListener,Thread-55] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:58:22,664 1283481,firstone.core.ccs.CoreListener,Thread-53] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:58:22,664 1283481,firstone.core.ccs.CoreListener,Thread-53] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 08:58:40,738 1301555,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 08:58:40,738 1301555,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 08:58:46,042 1306859,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 08:58:46,043 1306860,firstone.core.ccs.CoreListener,Thread-58] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 08:58:46,065 1306882,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 08:58:46,066 1306883,firstone.core.ccs.CoreListener,Thread-59] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 08:58:46,147 1306964,firstone.core.ccs.CoreListener,Thread-57] Conexion desconectada para : 123456
+[INFO ,2014-06-14 08:58:46,147 1306964,firstone.core.ccs.CoreListener,Thread-57] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:01:41,182 1481999,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:01:41,182 1481999,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:01:49,879 1490696,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:01:49,879 1490696,firstone.core.ccs.CoreListener,Thread-62] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:01:49,903 1490720,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:01:49,904 1490721,firstone.core.ccs.CoreListener,Thread-63] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:01:49,983 1490800,firstone.core.ccs.CoreListener,Thread-61] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:01:49,983 1490800,firstone.core.ccs.CoreListener,Thread-61] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:02:21,477 1522294,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:02:21,478 1522295,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:02:24,544 1525361,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:02:24,544 1525361,firstone.core.ccs.CoreListener,Thread-66] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:02:24,576 1525393,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:02:24,579 1525396,firstone.core.ccs.CoreListener,Thread-67] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:02:24,649 1525466,firstone.core.ccs.CoreListener,Thread-65] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:02:24,650 1525467,firstone.core.ccs.CoreListener,Thread-65] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:02:32,969 1533786,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:02:32,969 1533786,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:02:40,530 1541347,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:02:40,532 1541349,firstone.core.ccs.CoreListener,Thread-70] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:02:40,554 1541371,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:02:40,556 1541373,firstone.core.ccs.CoreListener,Thread-71] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:02:40,634 1541451,firstone.core.ccs.CoreListener,Thread-69] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:02:40,634 1541451,firstone.core.ccs.CoreListener,Thread-69] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:02:49,087 1549904,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:02:49,087 1549904,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:02:59,267 1560084,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:02:59,268 1560085,firstone.core.ccs.CoreListener,Thread-74] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:02:59,293 1560110,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:02:59,296 1560113,firstone.core.ccs.CoreListener,Thread-75] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:02:59,402 1560219,firstone.core.ccs.CoreListener,Thread-73] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:02:59,402 1560219,firstone.core.ccs.CoreListener,Thread-73] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:03:26,949 1587766,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:03:26,949 1587766,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:10:00,769 1981586,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:05:36 BOT 2014
+[INFO ,2014-06-14 09:10:00,829 1981646,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:10:00,829 1981646,firstone.core.ccs.CoreListener,Thread-78] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:10:00,852 1981669,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:10:00,853 1981670,firstone.core.ccs.CoreListener,Thread-79] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:10:00,934 1981751,firstone.core.ccs.CoreListener,Thread-77] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:10:00,935 1981752,firstone.core.ccs.CoreListener,Thread-77] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:10:18,857 1999674,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:10:18,857 1999674,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:10:24,974 2005791,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:10:24,974 2005791,firstone.core.ccs.CoreListener,Thread-82] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:10:24,995 2005812,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:10:24,998 2005815,firstone.core.ccs.CoreListener,Thread-83] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:10:25,074 2005891,firstone.core.ccs.CoreListener,Thread-81] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:10:25,074 2005891,firstone.core.ccs.CoreListener,Thread-81] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:12:25,440 2126257,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:12:25,440 2126257,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:14:07,973 2228790,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:12:58 BOT 2014
+[INFO ,2014-06-14 09:14:08,011 2228828,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:13:58 BOT 2014
+[INFO ,2014-06-14 09:14:08,065 2228882,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:14:08,065 2228882,firstone.core.ccs.CoreListener,Thread-86] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:14:08,090 2228907,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:14:08,091 2228908,firstone.core.ccs.CoreListener,Thread-87] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:14:08,161 2228978,firstone.core.ccs.CoreListener,Thread-85] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:14:08,161 2228978,firstone.core.ccs.CoreListener,Thread-85] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:14:40,077 2260894,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:14:40,077 2260894,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:14:51,236 2272053,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:14:51,236 2272053,firstone.core.ccs.CoreListener,Thread-90] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:14:51,256 2272073,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:14:51,257 2272074,firstone.core.ccs.CoreListener,Thread-91] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:14:51,372 2272189,firstone.core.ccs.CoreListener,Thread-89] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:14:51,373 2272190,firstone.core.ccs.CoreListener,Thread-89] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:25:13,235 2894052,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:25:13,236 2894053,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:37:06,936 3607753,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-14 09:37:06,992 3607809,firstone.core.ccs.CoreListener,Thread-94] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:38:16,254 3677071,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-14 09:38:16,310 3677127,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:38:16,310 3677127,firstone.core.ccs.CoreListener,Thread-95] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:38:16,339 3677156,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:38:16,340 3677157,firstone.core.ccs.CoreListener,Thread-96] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:38:16,410 3677227,firstone.core.ccs.CoreListener,Thread-93] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:38:16,410 3677227,firstone.core.ccs.CoreListener,Thread-93] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:39:02,212 3723029,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:39:02,212 3723029,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:39:13,033 3733850,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:39:13,035 3733852,firstone.core.ccs.CoreListener,Thread-99] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:39:13,057 3733874,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:39:13,059 3733876,firstone.core.ccs.CoreListener,Thread-100] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:39:13,169 3733986,firstone.core.ccs.CoreListener,Thread-98] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:39:13,169 3733986,firstone.core.ccs.CoreListener,Thread-98] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:40:20,812 3801629,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:40:20,812 3801629,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:40:31,959 3812776,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:40:31,959 3812776,firstone.core.ccs.CoreListener,Thread-103] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:40:31,980 3812797,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:40:31,981 3812798,firstone.core.ccs.CoreListener,Thread-104] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:40:32,051 3812868,firstone.core.ccs.CoreListener,Thread-102] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:40:32,051 3812868,firstone.core.ccs.CoreListener,Thread-102] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:40:48,499 3829316,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:40:48,499 3829316,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:40:59,514 3840331,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:40:59,514 3840331,firstone.core.ccs.CoreListener,Thread-107] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:40:59,540 3840357,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:40:59,543 3840360,firstone.core.ccs.CoreListener,Thread-108] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:40:59,651 3840468,firstone.core.ccs.CoreListener,Thread-106] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:40:59,651 3840468,firstone.core.ccs.CoreListener,Thread-106] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:41:35,454 3876271,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:41:35,454 3876271,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:41:58,767 3899584,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:41:48 BOT 2014
+[INFO ,2014-06-14 09:41:58,830 3899647,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:41:58,834 3899651,firstone.core.ccs.CoreListener,Thread-111] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:41:58,862 3899679,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:41:58,863 3899680,firstone.core.ccs.CoreListener,Thread-112] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:41:58,954 3899771,firstone.core.ccs.CoreListener,Thread-110] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:41:58,954 3899771,firstone.core.ccs.CoreListener,Thread-110] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:43:03,744 3964561,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:43:03,744 3964561,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:43:09,594 3970411,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:43:09,597 3970414,firstone.core.ccs.CoreListener,Thread-115] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:43:09,618 3970435,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:43:09,627 3970444,firstone.core.ccs.CoreListener,Thread-116] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:43:09,708 3970525,firstone.core.ccs.CoreListener,Thread-114] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:43:09,708 3970525,firstone.core.ccs.CoreListener,Thread-114] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:44:01,135 4021952,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:44:01,135 4021952,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:45:58,210 4139027,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:17 BOT 2014
+[INFO ,2014-06-14 09:45:58,252 4139069,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:26 BOT 2014
+[INFO ,2014-06-14 09:45:58,274 4139091,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:28 BOT 2014
+[INFO ,2014-06-14 09:45:58,295 4139112,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:31 BOT 2014
+[INFO ,2014-06-14 09:45:58,316 4139133,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:32 BOT 2014
+[INFO ,2014-06-14 09:45:58,350 4139167,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:32 BOT 2014
+[INFO ,2014-06-14 09:45:58,375 4139192,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:34 BOT 2014
+[INFO ,2014-06-14 09:45:58,397 4139214,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:35 BOT 2014
+[INFO ,2014-06-14 09:45:58,422 4139239,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:36 BOT 2014
+[INFO ,2014-06-14 09:45:58,452 4139269,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:36 BOT 2014
+[INFO ,2014-06-14 09:45:58,474 4139291,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:44:37 BOT 2014
+[INFO ,2014-06-14 09:45:58,495 4139312,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 09:45:02 BOT 2014
+[INFO ,2014-06-14 09:45:58,535 4139352,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:45:58,539 4139356,firstone.core.ccs.CoreListener,Thread-119] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:45:58,562 4139379,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:45:58,564 4139381,firstone.core.ccs.CoreListener,Thread-120] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:45:58,632 4139449,firstone.core.ccs.CoreListener,Thread-118] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:45:58,633 4139450,firstone.core.ccs.CoreListener,Thread-118] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:52:56,363 4557180,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:52:56,364 4557181,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:53:53,657 4614474,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:53:53,657 4614474,firstone.core.ccs.CoreListener,Thread-123] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:53:53,679 4614496,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:53:53,681 4614498,firstone.core.ccs.CoreListener,Thread-124] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:53:53,754 4614571,firstone.core.ccs.CoreListener,Thread-122] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:53:53,755 4614572,firstone.core.ccs.CoreListener,Thread-122] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:54:33,235 4654052,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:54:33,235 4654052,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:54:40,312 4661129,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:54:40,315 4661132,firstone.core.ccs.CoreListener,Thread-127] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:54:40,339 4661156,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:54:40,340 4661157,firstone.core.ccs.CoreListener,Thread-128] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:54:40,402 4661219,firstone.core.ccs.CoreListener,Thread-126] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:54:40,403 4661220,firstone.core.ccs.CoreListener,Thread-126] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 09:56:49,854 4790671,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 09:56:49,854 4790671,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 09:56:52,598 4793415,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 09:56:52,598 4793415,firstone.core.ccs.CoreListener,Thread-131] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 09:56:52,620 4793437,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 09:56:52,621 4793438,firstone.core.ccs.CoreListener,Thread-132] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 09:56:52,695 4793512,firstone.core.ccs.CoreListener,Thread-130] Conexion desconectada para : 123456
+[INFO ,2014-06-14 09:56:52,695 4793512,firstone.core.ccs.CoreListener,Thread-130] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:00:38,849 5019666,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:00:38,849 5019666,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:00:57,581 5038398,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:00:57,582 5038399,firstone.core.ccs.CoreListener,Thread-135] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:00:57,602 5038419,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:00:57,603 5038420,firstone.core.ccs.CoreListener,Thread-136] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:00:57,665 5038482,firstone.core.ccs.CoreListener,Thread-134] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:00:57,665 5038482,firstone.core.ccs.CoreListener,Thread-134] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:23:16,114 6376931,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:23:16,114 6376931,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:23:29,933 6390750,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:23:29,933 6390750,firstone.core.ccs.CoreListener,Thread-139] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:23:29,957 6390774,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:23:29,961 6390778,firstone.core.ccs.CoreListener,Thread-140] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:23:30,074 6390891,firstone.core.ccs.CoreListener,Thread-138] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:23:30,074 6390891,firstone.core.ccs.CoreListener,Thread-138] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:23:41,811 6402628,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:23:41,811 6402628,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:24:59,195 6480012,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:24:59,195 6480012,firstone.core.ccs.CoreListener,Thread-143] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:24:59,218 6480035,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:24:59,219 6480036,firstone.core.ccs.CoreListener,Thread-144] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:24:59,296 6480113,firstone.core.ccs.CoreListener,Thread-142] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:24:59,296 6480113,firstone.core.ccs.CoreListener,Thread-142] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:39:02,262 7323079,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:39:02,262 7323079,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:39:06,845 7327662,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:39:06,845 7327662,firstone.core.ccs.CoreListener,Thread-147] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:39:06,864 7327681,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:39:06,864 7327681,firstone.core.ccs.CoreListener,Thread-148] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:39:06,942 7327759,firstone.core.ccs.CoreListener,Thread-146] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:39:06,942 7327759,firstone.core.ccs.CoreListener,Thread-146] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:40:19,524 7400341,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:40:19,524 7400341,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:40:30,932 7411749,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:40:30,932 7411749,firstone.core.ccs.CoreListener,Thread-151] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:40:30,953 7411770,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:40:30,954 7411771,firstone.core.ccs.CoreListener,Thread-152] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:40:31,066 7411883,firstone.core.ccs.CoreListener,Thread-150] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:40:31,067 7411884,firstone.core.ccs.CoreListener,Thread-150] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:41:11,533 7452350,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:41:11,533 7452350,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:41:17,429 7458246,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:41:17,430 7458247,firstone.core.ccs.CoreListener,Thread-155] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:41:17,453 7458270,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:41:17,453 7458270,firstone.core.ccs.CoreListener,Thread-156] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:41:17,520 7458337,firstone.core.ccs.CoreListener,Thread-154] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:41:17,520 7458337,firstone.core.ccs.CoreListener,Thread-154] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:43:21,171 7581988,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:43:21,172 7581989,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:43:25,939 7586756,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:43:25,939 7586756,firstone.core.ccs.CoreListener,Thread-159] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:43:25,960 7586777,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:43:25,961 7586778,firstone.core.ccs.CoreListener,Thread-160] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:43:26,036 7586853,firstone.core.ccs.CoreListener,Thread-158] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:43:26,036 7586853,firstone.core.ccs.CoreListener,Thread-158] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:43:41,238 7602055,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:43:41,239 7602056,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:43:48,715 7609532,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:43:48,715 7609532,firstone.core.ccs.CoreListener,Thread-163] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:43:48,737 7609554,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:43:48,737 7609554,firstone.core.ccs.CoreListener,Thread-164] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:43:48,815 7609632,firstone.core.ccs.CoreListener,Thread-162] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:43:48,816 7609633,firstone.core.ccs.CoreListener,Thread-162] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:44:00,482 7621299,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:44:00,482 7621299,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:44:59,444 7680261,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :1234ABC :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 10:44:37 BOT 2014
+[INFO ,2014-06-14 10:44:59,518 7680335,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:44:59,518 7680335,firstone.core.ccs.CoreListener,Thread-167] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:44:59,539 7680356,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:44:59,539 7680356,firstone.core.ccs.CoreListener,Thread-168] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:44:59,603 7680420,firstone.core.ccs.CoreListener,Thread-166] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:44:59,603 7680420,firstone.core.ccs.CoreListener,Thread-166] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:47:00,569 7801386,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:47:00,569 7801386,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:53:39,965 8200782,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:53:39,965 8200782,firstone.core.ccs.CoreListener,Thread-171] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:53:39,988 8200805,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:53:39,988 8200805,firstone.core.ccs.CoreListener,Thread-172] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:53:40,124 8200941,firstone.core.ccs.CoreListener,Thread-170] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:53:40,124 8200941,firstone.core.ccs.CoreListener,Thread-170] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:54:07,712 8228529,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:54:07,712 8228529,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:54:12,715 8233532,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:54:12,717 8233534,firstone.core.ccs.CoreListener,Thread-175] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:54:12,744 8233561,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:54:12,746 8233563,firstone.core.ccs.CoreListener,Thread-176] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:54:12,835 8233652,firstone.core.ccs.CoreListener,Thread-174] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:54:12,835 8233652,firstone.core.ccs.CoreListener,Thread-174] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:54:26,073 8246890,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:54:26,073 8246890,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:54:28,727 8249544,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:54:28,727 8249544,firstone.core.ccs.CoreListener,Thread-179] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:54:28,751 8249568,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:54:28,755 8249572,firstone.core.ccs.CoreListener,Thread-180] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:54:28,839 8249656,firstone.core.ccs.CoreListener,Thread-178] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:54:28,840 8249657,firstone.core.ccs.CoreListener,Thread-178] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:54:40,658 8261475,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:54:40,658 8261475,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:55:06,460 8287277,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:55:06,460 8287277,firstone.core.ccs.CoreListener,Thread-183] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:55:06,481 8287298,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:55:06,482 8287299,firstone.core.ccs.CoreListener,Thread-184] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:55:06,548 8287365,firstone.core.ccs.CoreListener,Thread-182] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:55:06,548 8287365,firstone.core.ccs.CoreListener,Thread-182] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 10:57:35,450 8436267,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 10:57:35,450 8436267,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 10:57:37,313 8438130,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 10:57:37,313 8438130,firstone.core.ccs.CoreListener,Thread-187] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 10:57:37,334 8438151,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 10:57:37,335 8438152,firstone.core.ccs.CoreListener,Thread-188] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 10:57:37,432 8438249,firstone.core.ccs.CoreListener,Thread-186] Conexion desconectada para : 123456
+[INFO ,2014-06-14 10:57:37,432 8438249,firstone.core.ccs.CoreListener,Thread-186] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 11:03:54,195 8815012,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 11:03:54,195 8815012,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 11:03:55,886 8816703,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 11:03:55,886 8816703,firstone.core.ccs.CoreListener,Thread-191] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:03:55,907 8816724,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 11:03:55,909 8816726,firstone.core.ccs.CoreListener,Thread-192] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 11:03:56,003 8816820,firstone.core.ccs.CoreListener,Thread-190] Conexion desconectada para : 123456
+[INFO ,2014-06-14 11:03:56,003 8816820,firstone.core.ccs.CoreListener,Thread-190] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 11:06:15,919 8956736,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 11:06:15,919 8956736,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 11:06:31,746 8972563,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 11:06:31,746 8972563,firstone.core.ccs.CoreListener,Thread-195] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:06:31,769 8972586,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 11:06:31,774 8972591,firstone.core.ccs.CoreListener,Thread-196] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 11:06:31,854 8972671,firstone.core.ccs.CoreListener,Thread-194] Conexion desconectada para : 123456
+[INFO ,2014-06-14 11:06:31,854 8972671,firstone.core.ccs.CoreListener,Thread-194] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 11:20:13,356 9794173,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 11:20:13,356 9794173,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 11:21:16,703 9857520,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 11:20:27 BOT 2014
+[INFO ,2014-06-14 11:21:16,763 9857580,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 11:21:16,763 9857580,firstone.core.ccs.CoreListener,Thread-199] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:21:16,788 9857605,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 11:21:16,789 9857606,firstone.core.ccs.CoreListener,Thread-200] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 11:21:16,913 9857730,firstone.core.ccs.CoreListener,Thread-198] Conexion desconectada para : 123456
+[INFO ,2014-06-14 11:21:16,913 9857730,firstone.core.ccs.CoreListener,Thread-198] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 11:29:50,349 10371166,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 11:29:50,349 10371166,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 11:30:44,683 10425500,firstone.core.datos.dao.VehiculoVisitaDAO,Thread-0] Guardar VehiculoVisita :: PLACA :5322LLL
+[INFO ,2014-06-14 11:30:44,754 10425571,firstone.core.datos.dao.VisitaDAO,Thread-0] Guardar visita :: CI 8383838
+[INFO ,2014-06-14 11:30:44,797 10425614,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] verificar Relacion :: CI :8383838 :: PLACA :5322LLL
+[INFO ,2014-06-14 11:30:44,815 10425632,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] Guardar Relacion Vehiculo - Visita :: CI :8383838 :: PLACA :5322LLL
+[INFO ,2014-06-14 11:30:44,857 10425674,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Registro de Visita
+[INFO ,2014-06-14 11:30:44,882 10425699,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-0] Guardar IngresoSalida de Visita :: PLACA :5322LLL :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 11:30:28 BOT 2014
+[INFO ,2014-06-14 11:30:44,928 10425745,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 20
+[INFO ,2014-06-14 11:30:44,929 10425746,firstone.core.ccs.CoreListener,Thread-203] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:30:44,992 10425809,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 3 :: objetos
+[INFO ,2014-06-14 11:30:44,993 10425810,firstone.core.ccs.CoreListener,Thread-204] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 11:30:45,141 10425958,firstone.core.ccs.CoreListener,Thread-202] Conexion desconectada para : 123456
+[INFO ,2014-06-14 11:30:45,142 10425959,firstone.core.ccs.CoreListener,Thread-202] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 11:33:48,146 10608963,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 11:33:48,146 10608963,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 11:34:44,005 10664822,firstone.core.datos.dao.VehiculoVisitaDAO,Thread-0] Guardar VehiculoVisita :: PLACA :3245TTT
+[INFO ,2014-06-14 11:34:44,067 10664884,firstone.core.datos.dao.VisitaDAO,Thread-0] Guardar visita :: CI 1361313
+[INFO ,2014-06-14 11:34:44,113 10664930,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] verificar Relacion :: CI :1361313 :: PLACA :3245TTT
+[INFO ,2014-06-14 11:34:44,133 10664950,firstone.core.datos.dao.VisitaVehiculoDAO,Thread-0] Guardar Relacion Vehiculo - Visita :: CI :1361313 :: PLACA :3245TTT
+[INFO ,2014-06-14 11:34:44,175 10664992,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Registro de Visita
+[INFO ,2014-06-14 11:34:44,194 10665011,firstone.core.datos.dao.IngresoSalidaVisitaDAO,Thread-0] Guardar IngresoSalida de Visita :: PLACA :3245TTT :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 11:34:22 BOT 2014
+[INFO ,2014-06-14 11:34:44,240 10665057,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 23
+[INFO ,2014-06-14 11:34:44,242 10665059,firstone.core.ccs.CoreListener,Thread-207] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:34:44,301 10665118,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 3 :: objetos
+[INFO ,2014-06-14 11:34:44,302 10665119,firstone.core.ccs.CoreListener,Thread-208] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 11:34:44,474 10665291,firstone.core.ccs.CoreListener,Thread-206] Conexion desconectada para : 123456
+[INFO ,2014-06-14 11:34:44,474 10665291,firstone.core.ccs.CoreListener,Thread-206] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 11:39:17,082 10937899,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 11:39:17,082 10937899,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 11:39:39,020 10959837,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-14 11:39:39,077 10959894,firstone.core.ccs.CoreListener,Thread-211] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:39:39,419 10960236,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-14 11:39:39,503 10960320,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 26
+[INFO ,2014-06-14 11:39:39,503 10960320,firstone.core.ccs.CoreListener,Thread-212] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:39:39,524 10960341,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 11:39:39,525 10960342,firstone.core.ccs.CoreListener,Thread-213] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 11:39:40,669 10961486,firstone.core.ccs.CoreListener,Thread-210] Conexion desconectada para : 123456
+[INFO ,2014-06-14 11:39:40,669 10961486,firstone.core.ccs.CoreListener,Thread-210] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 11:39:52,379 10973196,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 11:39:52,380 10973197,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 11:39:55,288 10976105,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 26
+[INFO ,2014-06-14 11:39:55,288 10976105,firstone.core.ccs.CoreListener,Thread-216] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:39:55,308 10976125,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 11:39:55,309 10976126,firstone.core.ccs.CoreListener,Thread-217] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 11:39:55,390 10976207,firstone.core.ccs.CoreListener,Thread-215] Conexion desconectada para : 123456
+[INFO ,2014-06-14 11:39:55,391 10976208,firstone.core.ccs.CoreListener,Thread-215] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 11:40:09,180 10989997,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 11:40:09,180 10989997,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 11:40:10,731 10991548,firstone.core.ccs.CoreListener,Thread-0] Alarma AMARILLA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-14 11:40:10,778 10991595,firstone.core.ccs.CoreListener,Thread-220] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:40:30,371 11011188,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[INFO ,2014-06-14 11:40:30,429 11011246,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 26
+[INFO ,2014-06-14 11:40:30,431 11011248,firstone.core.ccs.CoreListener,Thread-221] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:40:30,456 11011273,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 11:40:30,457 11011274,firstone.core.ccs.CoreListener,Thread-222] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 11:40:30,530 11011347,firstone.core.ccs.CoreListener,Thread-219] Conexion desconectada para : 123456
+[INFO ,2014-06-14 11:40:30,530 11011347,firstone.core.ccs.CoreListener,Thread-219] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 11:47:23,224 11424041,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 11:47:23,224 11424041,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 11:47:41,622 11442439,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :INGRESO :: FECHA_HORA :Sat Jun 14 11:47:37 BOT 2014
+[INFO ,2014-06-14 11:47:41,683 11442500,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 26
+[INFO ,2014-06-14 11:47:41,683 11442500,firstone.core.ccs.CoreListener,Thread-225] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 11:47:41,704 11442521,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 11:47:41,705 11442522,firstone.core.ccs.CoreListener,Thread-226] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 11:47:41,781 11442598,firstone.core.ccs.CoreListener,Thread-224] Conexion desconectada para : 123456
+[INFO ,2014-06-14 11:47:41,781 11442598,firstone.core.ccs.CoreListener,Thread-224] Guardia desconectado :: CI :123456
+[INFO ,2014-06-14 16:15:19,883 0,firstone.core.ccs.CoreListener,main] Session iniciada del Core IDENTIFOUR :: Escuchando en el puerto : 4321
+[DEBUG,2014-06-14 16:15:39,940 20057,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 16:15:39,940 20057,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 16:16:05,305 45422,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 26
+[INFO ,2014-06-14 16:16:05,305 45422,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 16:16:05,484 45601,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-14 16:16:05,490 45607,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 16:16:05,689 45806,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 123456
+[INFO ,2014-06-14 16:16:05,689 45806,firstone.core.ccs.CoreListener,Thread-4] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 16:22:06,220 406337,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 16:22:06,220 406337,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 16:22:06,485 406602,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 26
+[INFO ,2014-06-14 16:22:06,486 406603,firstone.core.ccs.CoreListener,Thread-9] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 16:22:06,536 406653,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-14 16:22:06,538 406655,firstone.core.ccs.CoreListener,Thread-10] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 16:27:22,352 722469,firstone.core.ccs.CoreListener,Thread-8] Conexion desconectada para : 123456
+[INFO ,2014-06-14 16:27:22,352 722469,firstone.core.ccs.CoreListener,Thread-8] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 16:30:47,821 927938,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 16:30:47,822 927939,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 16:30:48,018 928135,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 27
+[INFO ,2014-06-14 16:30:48,019 928136,firstone.core.ccs.CoreListener,Thread-13] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 16:30:48,083 928200,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-14 16:30:48,085 928202,firstone.core.ccs.CoreListener,Thread-14] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 16:34:26,977 1147094,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 16:34:26,978 1147095,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-14 16:34:54,966 1175083,firstone.core.ccs.CoreListener,Thread-12] Conexion desconectada para : 123456
+[INFO ,2014-06-14 16:34:54,966 1175083,firstone.core.ccs.CoreListener,Thread-12] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 16:36:28,114 1268231,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 16:36:28,115 1268232,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 16:36:28,281 1268398,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 28
+[INFO ,2014-06-14 16:36:28,284 1268401,firstone.core.ccs.CoreListener,Thread-18] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 16:36:28,301 1268418,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 16:36:28,303 1268420,firstone.core.ccs.CoreListener,Thread-19] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 16:37:09,787 1309904,firstone.core.ccs.CoreListener,Thread-17] Conexion desconectada para : 123456
+[INFO ,2014-06-14 16:37:09,787 1309904,firstone.core.ccs.CoreListener,Thread-17] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 16:37:28,815 1328932,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 16:37:28,815 1328932,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 16:37:28,999 1329116,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 28
+[INFO ,2014-06-14 16:37:28,999 1329116,firstone.core.ccs.CoreListener,Thread-22] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 16:37:29,075 1329192,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-14 16:37:29,078 1329195,firstone.core.ccs.CoreListener,Thread-23] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 16:37:36,105 1336222,firstone.core.ccs.CoreListener,Thread-21] Conexion desconectada para : 123456
+[INFO ,2014-06-14 16:37:36,105 1336222,firstone.core.ccs.CoreListener,Thread-21] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 16:41:48,166 1588283,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 16:41:48,166 1588283,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 16:41:48,329 1588446,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 29
+[INFO ,2014-06-14 16:41:48,329 1588446,firstone.core.ccs.CoreListener,Thread-26] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 16:41:48,371 1588488,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-14 16:41:48,373 1588490,firstone.core.ccs.CoreListener,Thread-27] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 16:42:11,912 1612029,firstone.core.ccs.CoreListener,Thread-0] Alarma ROJA ::: EMISOR :Tranca Norte
+[INFO ,2014-06-14 16:42:11,949 1612066,firstone.core.ccs.CoreListener,Thread-28] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 16:42:44,375 1644492,firstone.core.datos.dao.BitacoraDAO,Thread-0] Guardar Bitacora :: GUARDIA :123456 :: ACCION :Lanzar Alarma
+[DEBUG,2014-06-14 16:42:44,401 1644518,firstone.core.ccs.CoreListener,Thread-25] Conexion desconectada para : 123456
+[INFO ,2014-06-14 16:42:44,401 1644518,firstone.core.ccs.CoreListener,Thread-25] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 16:42:46,085 1646202,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 16:42:46,085 1646202,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 16:42:46,215 1646332,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 30
+[INFO ,2014-06-14 16:42:46,215 1646332,firstone.core.ccs.CoreListener,Thread-31] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 16:42:46,266 1646383,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 1 :: objetos
+[INFO ,2014-06-14 16:42:46,268 1646385,firstone.core.ccs.CoreListener,Thread-32] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 16:47:50,589 1950706,firstone.core.ccs.CoreListener,Thread-30] Conexion desconectada para : 123456
+[INFO ,2014-06-14 16:47:50,589 1950706,firstone.core.ccs.CoreListener,Thread-30] Guardia desconectado :: CI :123456
+[INFO ,2014-06-14 17:43:06,655 5266772,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 17:43:43,867 5303984,firstone.core.ccs.CoreListener,Thread-34] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 17:44:00,990 5321107,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 17:44:11,774 5331891,firstone.core.ccs.CoreListener,Thread-37] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 17:44:11,779 5331896,firstone.core.ccs.CoreListener,Thread-38] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-14 17:44:18,793 5338910,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 17:44:18,793 5338910,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 17:44:18,932 5339049,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 0
+[INFO ,2014-06-14 17:44:18,932 5339049,firstone.core.ccs.CoreListener,Thread-41] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 17:44:19,502 5339619,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 31 :: objetos
+[INFO ,2014-06-14 17:44:19,550 5339667,firstone.core.ccs.CoreListener,Thread-42] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 17:44:32,159 5352276,firstone.core.ccs.CoreListener,Thread-40] Conexion desconectada para : 123456
+[INFO ,2014-06-14 17:44:32,160 5352277,firstone.core.ccs.CoreListener,Thread-40] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 17:44:34,790 5354907,firstone.core.ccs.CoreListener,Thread-36] Conexion desconectada para : 000000-0
+[DEBUG,2014-06-14 17:44:46,694 5366811,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 17:44:46,694 5366811,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 17:44:46,824 5366941,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 31
+[INFO ,2014-06-14 17:44:46,825 5366942,firstone.core.ccs.CoreListener,Thread-45] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 17:44:46,842 5366959,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 17:44:46,842 5366959,firstone.core.ccs.CoreListener,Thread-46] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 17:45:06,696 5386813,firstone.core.datos.dao.IngresoSalidaDAO,Thread-0] Guardar IngresoSalida de Vehiculo :: PLACA :4321ZBA :: TIPO :SALIDA :: FECHA_HORA :Sat Jun 14 17:45:01 BOT 2014
+[DEBUG,2014-06-14 17:45:06,722 5386839,firstone.core.ccs.CoreListener,Thread-44] Conexion desconectada para : 123456
+[INFO ,2014-06-14 17:45:06,722 5386839,firstone.core.ccs.CoreListener,Thread-44] Guardia desconectado :: CI :123456
+[INFO ,2014-06-14 17:58:55,961 6216078,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 17:59:16,433 6236550,firstone.core.ccs.CoreListener,Thread-48] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 17:59:21,326 6241443,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 17:59:32,180 6252297,firstone.core.ccs.CoreListener,Thread-51] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 17:59:32,181 6252298,firstone.core.ccs.CoreListener,Thread-52] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-14 17:59:44,740 6264857,firstone.core.ccs.CoreListener,Thread-50] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:01:48,627 6388744,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:02:14,071 6414188,firstone.core.ccs.CoreListener,Thread-54] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:13:28,564 7088681,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:13:30,009 7090126,firstone.core.ccs.CoreListener,Thread-56] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:13:39,116 7099233,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:13:40,703 7100820,firstone.core.ccs.CoreListener,Thread-58] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:13:48,371 7108488,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:13:50,971 7111088,firstone.core.ccs.CoreListener,Thread-60] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:14:27,744 7147861,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:14:32,358 7152475,firstone.core.ccs.CoreListener,Thread-62] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:14:46,973 7167090,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:14:58,892 7179009,firstone.core.ccs.CoreListener,Thread-64] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:15:07,918 7188035,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 18:15:29,222 0,firstone.core.ccs.CoreListener,main] Session iniciada del Core IDENTIFOUR :: Escuchando en el puerto : 4321
+[INFO ,2014-06-14 18:15:42,321 13099,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:16:07,387 38165,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:16:13,399 0,firstone.core.ccs.CoreListener,main] Session iniciada del Core IDENTIFOUR :: Escuchando en el puerto : 4321
+[ERROR,2014-06-14 18:16:15,323 1,firstone.core.ccs.CoreListener,main] Error al abrir la Session
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:96)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:376)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:175)
+	at java.net.ServerSocket.bind(ServerSocket.java:376)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at com.firstonesoft.core.Core.openSession(Core.java:59)
+	at firstone.core.ccs.CoreListener.iniciar(CoreListener.java:82)
+	at firstone.core.main.Main.main(Main.java:25)
+[INFO ,2014-06-14 18:16:31,739 18340,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 18:17:35,755 0,firstone.core.ccs.CoreListener,main] Session iniciada del Core IDENTIFOUR :: Escuchando en el puerto : 4321
+[INFO ,2014-06-14 18:17:40,832 5077,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 18:17:43,256 7501,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 18:20:16,725 0,firstone.core.ccs.CoreListener,main] Session iniciada del Core IDENTIFOUR :: Escuchando en el puerto : 4321
+[INFO ,2014-06-14 18:20:39,271 22546,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 18:20:42,987 26262,firstone.core.ccs.CoreListener,Thread-5] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 18:20:51,428 34703,firstone.core.ccs.CoreListener,Thread-6] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 18:20:51,432 34707,firstone.core.ccs.CoreListener,Thread-7] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-14 18:23:09,568 172843,firstone.core.ccs.CoreListener,Thread-4] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:26:38,686 381961,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:26:41,843 385118,firstone.core.ccs.CoreListener,Thread-9] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:27:32,391 435666,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:27:37,175 440450,firstone.core.ccs.CoreListener,Thread-11] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:28:23,933 487208,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:28:25,489 488764,firstone.core.ccs.CoreListener,Thread-13] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:28:35,217 498492,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 18:28:45,390 508665,firstone.core.ccs.CoreListener,Thread-16] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 18:28:45,392 508667,firstone.core.ccs.CoreListener,Thread-17] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-14 18:29:01,991 525266,firstone.core.ccs.CoreListener,Thread-15] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:29:33,121 556396,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:29:34,794 558069,firstone.core.ccs.CoreListener,Thread-19] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:29:42,014 565289,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 18:29:50,221 573496,firstone.core.ccs.CoreListener,Thread-22] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 18:29:50,222 573497,firstone.core.ccs.CoreListener,Thread-23] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-14 18:30:11,021 594296,firstone.core.ccs.CoreListener,Thread-21] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:31:46,229 689504,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 18:31:57,084 700359,firstone.core.ccs.CoreListener,Thread-26] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 18:31:57,086 700361,firstone.core.ccs.CoreListener,Thread-27] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-14 18:33:21,291 784566,firstone.core.ccs.CoreListener,Thread-25] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:50:25,391 1808666,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:50:32,399 1815674,firstone.core.ccs.CoreListener,Thread-29] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:50:56,953 1840228,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:51:10,304 1853579,firstone.core.ccs.CoreListener,Thread-31] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:51:17,300 1860575,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:51:22,673 1865948,firstone.core.ccs.CoreListener,Thread-33] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:51:52,692 1895967,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:52:00,473 1903748,firstone.core.ccs.CoreListener,Thread-35] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:52:06,808 1910083,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:52:11,154 1914429,firstone.core.ccs.CoreListener,Thread-37] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:54:39,081 2062356,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:54:45,114 2068389,firstone.core.ccs.CoreListener,Thread-39] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:54:54,268 2077543,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 18:55:00,438 2083713,firstone.core.ccs.CoreListener,Thread-42] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 18:55:00,440 2083715,firstone.core.ccs.CoreListener,Thread-43] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-14 18:55:02,050 2085325,firstone.core.ccs.CoreListener,Thread-41] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:57:11,146 2214421,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:57:12,841 2216116,firstone.core.ccs.CoreListener,Thread-45] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 18:57:20,885 2224160,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[DEBUG,2014-06-14 18:57:21,841 2225116,firstone.core.ccs.CoreListener,Thread-47] Conexion desconectada para : 000000-0
+[INFO ,2014-06-14 21:21:45,868 10889143,firstone.core.ccs.CoreListener,Thread-2] Se ha conectado el propietario con CI :000000-0
+[INFO ,2014-06-14 21:21:54,877 10898152,firstone.core.ccs.CoreListener,Thread-50] Se ha enviado informacion al cliente con el CI :000000-0
+[INFO ,2014-06-14 21:21:54,878 10898153,firstone.core.ccs.CoreListener,Thread-51] Se ha enviado informacion al cliente con el CI :000000-0
+[DEBUG,2014-06-14 21:22:01,604 10904879,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:22:01,605 10904880,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[DEBUG,2014-06-14 21:22:16,840 10920115,firstone.core.ccs.CoreListener,Thread-53] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:22:16,841 10920116,firstone.core.ccs.CoreListener,Thread-53] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:22:16,842 10920117,firstone.core.ccs.CoreListener,Thread-49] Conexion desconectada para : 000000-0
+[DEBUG,2014-06-14 21:22:28,891 10932166,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:22:28,892 10932167,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:22:29,049 10932324,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 0
+[INFO ,2014-06-14 21:22:29,050 10932325,firstone.core.ccs.CoreListener,Thread-56] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:22:29,695 10932970,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 33 :: objetos
+[INFO ,2014-06-14 21:22:29,727 10933002,firstone.core.ccs.CoreListener,Thread-57] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:22:31,405 10934680,firstone.core.ccs.CoreListener,Thread-55] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:22:31,406 10934681,firstone.core.ccs.CoreListener,Thread-55] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:22:34,097 10937372,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:22:34,098 10937373,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:22:34,223 10937498,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:22:34,223 10937498,firstone.core.ccs.CoreListener,Thread-60] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:22:34,243 10937518,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:22:34,244 10937519,firstone.core.ccs.CoreListener,Thread-61] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:23:13,193 10976468,firstone.core.ccs.CoreListener,Thread-59] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:23:13,193 10976468,firstone.core.ccs.CoreListener,Thread-59] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:23:15,515 10978790,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:23:15,515 10978790,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:23:15,629 10978904,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:23:15,630 10978905,firstone.core.ccs.CoreListener,Thread-64] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:23:15,651 10978926,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:23:15,651 10978926,firstone.core.ccs.CoreListener,Thread-65] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:23:28,933 10992208,firstone.core.ccs.CoreListener,Thread-63] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:23:28,934 10992209,firstone.core.ccs.CoreListener,Thread-63] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:24:52,845 11076120,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:24:52,845 11076120,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:24:53,028 11076303,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:24:53,030 11076305,firstone.core.ccs.CoreListener,Thread-68] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:24:53,052 11076327,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:24:53,059 11076334,firstone.core.ccs.CoreListener,Thread-69] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:25:00,678 11083953,firstone.core.ccs.CoreListener,Thread-67] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:25:00,678 11083953,firstone.core.ccs.CoreListener,Thread-67] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:26:52,371 11195646,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:26:52,371 11195646,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:26:52,562 11195837,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:26:52,563 11195838,firstone.core.ccs.CoreListener,Thread-72] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:26:52,587 11195862,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:26:52,592 11195867,firstone.core.ccs.CoreListener,Thread-73] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:26:58,740 11202015,firstone.core.ccs.CoreListener,Thread-71] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:26:58,740 11202015,firstone.core.ccs.CoreListener,Thread-71] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:27:25,200 11228475,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:27:25,200 11228475,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:27:25,390 11228665,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:27:25,393 11228668,firstone.core.ccs.CoreListener,Thread-76] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:27:25,422 11228697,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:27:25,423 11228698,firstone.core.ccs.CoreListener,Thread-77] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:27:32,219 11235494,firstone.core.ccs.CoreListener,Thread-75] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:27:32,222 11235497,firstone.core.ccs.CoreListener,Thread-75] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:27:51,272 11254547,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:27:51,272 11254547,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:27:51,463 11254738,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:27:51,464 11254739,firstone.core.ccs.CoreListener,Thread-80] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:27:51,490 11254765,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:27:51,491 11254766,firstone.core.ccs.CoreListener,Thread-81] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:27:53,733 11257008,firstone.core.ccs.CoreListener,Thread-79] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:27:53,733 11257008,firstone.core.ccs.CoreListener,Thread-79] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:29:14,197 11337472,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:29:14,197 11337472,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:29:14,402 11337677,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:29:14,404 11337679,firstone.core.ccs.CoreListener,Thread-84] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:29:14,431 11337706,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:29:14,433 11337708,firstone.core.ccs.CoreListener,Thread-85] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:29:19,026 11342301,firstone.core.ccs.CoreListener,Thread-83] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:29:19,027 11342302,firstone.core.ccs.CoreListener,Thread-83] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:29:51,615 11374890,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:29:51,616 11374891,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:29:51,804 11375079,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:29:51,806 11375081,firstone.core.ccs.CoreListener,Thread-88] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:29:51,831 11375106,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:29:51,833 11375108,firstone.core.ccs.CoreListener,Thread-89] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:29:55,664 11378939,firstone.core.ccs.CoreListener,Thread-87] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:29:55,665 11378940,firstone.core.ccs.CoreListener,Thread-87] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:32:28,185 11531460,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:32:28,185 11531460,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:32:28,370 11531645,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:32:28,370 11531645,firstone.core.ccs.CoreListener,Thread-92] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:32:28,401 11531676,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:32:28,406 11531681,firstone.core.ccs.CoreListener,Thread-93] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:32:37,982 11541257,firstone.core.ccs.CoreListener,Thread-91] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:32:37,983 11541258,firstone.core.ccs.CoreListener,Thread-91] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:32:55,658 11558933,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:32:55,658 11558933,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:32:55,819 11559094,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:32:55,819 11559094,firstone.core.ccs.CoreListener,Thread-96] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:32:55,840 11559115,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:32:55,840 11559115,firstone.core.ccs.CoreListener,Thread-97] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:32:59,120 11562395,firstone.core.ccs.CoreListener,Thread-95] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:32:59,120 11562395,firstone.core.ccs.CoreListener,Thread-95] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:34:14,012 11637287,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:34:14,012 11637287,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:34:14,172 11637447,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:34:14,174 11637449,firstone.core.ccs.CoreListener,Thread-100] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:34:14,194 11637469,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:34:14,195 11637470,firstone.core.ccs.CoreListener,Thread-101] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:34:19,587 11642862,firstone.core.ccs.CoreListener,Thread-99] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:34:19,587 11642862,firstone.core.ccs.CoreListener,Thread-99] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:34:41,932 11665207,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:34:41,932 11665207,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:34:42,115 11665390,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:34:42,117 11665392,firstone.core.ccs.CoreListener,Thread-104] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:34:42,143 11665418,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:34:42,144 11665419,firstone.core.ccs.CoreListener,Thread-105] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:34:50,946 11674221,firstone.core.ccs.CoreListener,Thread-103] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:34:50,946 11674221,firstone.core.ccs.CoreListener,Thread-103] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:45:16,877 12300152,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:45:16,877 12300152,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:45:17,090 12300365,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:45:17,095 12300370,firstone.core.ccs.CoreListener,Thread-108] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:45:17,117 12300392,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:45:17,128 12300403,firstone.core.ccs.CoreListener,Thread-109] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:45:26,760 12310035,firstone.core.ccs.CoreListener,Thread-107] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:45:26,760 12310035,firstone.core.ccs.CoreListener,Thread-107] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:45:41,753 12325028,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:45:41,755 12325030,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:45:41,891 12325166,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:45:41,893 12325168,firstone.core.ccs.CoreListener,Thread-112] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:45:41,917 12325192,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:45:41,919 12325194,firstone.core.ccs.CoreListener,Thread-113] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:45:56,820 12340095,firstone.core.ccs.CoreListener,Thread-111] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:45:56,821 12340096,firstone.core.ccs.CoreListener,Thread-111] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:54:04,100 12827375,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:54:04,100 12827375,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:54:04,269 12827544,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:54:04,271 12827546,firstone.core.ccs.CoreListener,Thread-116] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:54:04,290 12827565,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:54:04,291 12827566,firstone.core.ccs.CoreListener,Thread-117] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:54:12,830 12836105,firstone.core.ccs.CoreListener,Thread-115] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:54:12,831 12836106,firstone.core.ccs.CoreListener,Thread-115] Guardia desconectado :: CI :123456
+[DEBUG,2014-06-14 21:54:33,501 12856776,firstone.core.ccs.CoreListener,Thread-2] Conexion Cerrada habilitada para : 123456
+[INFO ,2014-06-14 21:54:33,501 12856776,firstone.core.ccs.CoreListener,Thread-2] Guardia conectado :: CI :123456 :: Nombre Apellido :Limberg Herbas Soliz
+[INFO ,2014-06-14 21:54:33,633 12856908,firstone.core.datos.dao.SynchronizerDAO,Thread-0] Obteniendo todas las ultimas transacciones realizadas desde el ID : 33
+[INFO ,2014-06-14 21:54:33,634 12856909,firstone.core.ccs.CoreListener,Thread-120] Se ha enviado informacion al cliente con el CI :123456
+[INFO ,2014-06-14 21:54:33,651 12856926,firstone.core.ccs.CoreListener,Thread-0] Se enviaron :: 0 :: objetos
+[INFO ,2014-06-14 21:54:33,651 12856926,firstone.core.ccs.CoreListener,Thread-121] Se ha enviado informacion al cliente con el CI :123456
+[DEBUG,2014-06-14 21:54:37,940 12861215,firstone.core.ccs.CoreListener,Thread-119] Conexion desconectada para : 123456
+[INFO ,2014-06-14 21:54:37,940 12861215,firstone.core.ccs.CoreListener,Thread-119] Guardia desconectado :: CI :123456

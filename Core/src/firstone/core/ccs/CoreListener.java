@@ -80,7 +80,7 @@ public class CoreListener implements EventCore, SchedulerEvent {
     public void iniciar() {
         try {
             core.openSession(keys);
-            log.info("Session iniciada el Core :: Escuchando en el puerto : " + core.getPort());
+            log.info("Session iniciada del Core IDENTIFOUR :: Escuchando en el puerto : " + core.getPort());
         } catch (IOException ex) {
             log.error("Error al abrir la Session", ex);
         }
@@ -104,14 +104,14 @@ public class CoreListener implements EventCore, SchedulerEvent {
             
             Contrato contrato = new Contrato();
             contrato.setAccion(Accion.AUTENTICAR_ADMINISTRADOR);
-            if (trancas.size() > 0 && guardias.size() > 0)
+            if (trancas != null && guardias != null && trancas.size() > 0 && guardias.size() > 0)
                 contrato.setContenido(ObjectUtil.createBytes(trancas));
             else
                 contrato.setContenido(null);
             contrato.setId_entorno(id_entorno);
             core.sendPackage(key, ObjectUtil.createBytes(contrato));
             
-            if (trancas.size() > 0 && guardias.size() > 0)
+            if (trancas != null && guardias != null && trancas.size() > 0 && guardias.size() > 0)
             {
                 Contrato contrato2 = new Contrato();
                 contrato2.setAccion(Accion.GUARDIAS);
